@@ -1246,12 +1246,11 @@ export const stories: Story[] = [
   },
 
   // ============================================================
-  // SAHABA (50) — placeholders for next message; previous content is preserved below.
+  // SAHABA (50) — based on Siyar A'lam al-Nubala by Imam al-Dhahabi
+  // and other classical sources. Split into two modules for maintainability.
   // ============================================================
-  // NOTE: The 50 sahaba entries will be fully rewritten in the next message
-  // following the same 5-section structure (Who They Were, Their Life & Mission,
-  // Their Legacy, Key Facts, Lessons We Can Take), based on classical sources
-  // including Siyar A'lam al-Nubala by Imam al-Dhahabi.
+  ...sahabaPart1,
+  ...sahabaPart2,
 ];
 
 // Lookup helpers
