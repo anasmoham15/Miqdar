@@ -1,4 +1,5 @@
 import { useMemo, useState } from "react";
+import { Link } from "react-router-dom";
 import { Search } from "lucide-react";
 import { AppHeader } from "@/components/AppHeader";
 import { surahs } from "@/data/surahs";
@@ -36,10 +37,11 @@ const Quran = () => {
 
       <ul className="space-y-1.5 px-5 pt-2">
         {filtered.map((s) => (
-          <li
-            key={s.number}
-            className="flex items-center gap-3 rounded-xl border border-transparent bg-card px-3 py-3 transition-smooth hover:border-primary/30"
-          >
+          <li key={s.number}>
+            <Link
+              to={`/quran/${s.number}`}
+              className="flex items-center gap-3 rounded-xl border border-transparent bg-card px-3 py-3 transition-smooth hover:border-primary/30"
+            >
             <div className="relative flex h-10 w-10 shrink-0 items-center justify-center">
               <svg viewBox="0 0 40 40" className="absolute inset-0 h-full w-full text-primary/30">
                 <polygon
@@ -64,6 +66,7 @@ const Quran = () => {
                 {s.meaning} · {s.verses} verses · {s.type}
               </p>
             </div>
+            </Link>
           </li>
         ))}
         {filtered.length === 0 && (
