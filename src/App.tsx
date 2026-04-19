@@ -6,6 +6,7 @@ import { TooltipProvider } from "@/components/ui/tooltip";
 import { AppLayout } from "@/components/AppLayout";
 import Index from "./pages/Index.tsx";
 import Quran from "./pages/Quran.tsx";
+import SurahReader from "./pages/SurahReader.tsx";
 import Stories from "./pages/Stories.tsx";
 import CalendarPage from "./pages/CalendarPage.tsx";
 import NotFound from "./pages/NotFound.tsx";
@@ -22,6 +23,7 @@ const App = () => (
           <Routes>
             <Route path="/" element={<Index />} />
             <Route path="/quran" element={<Quran />} />
+            <Route path="/quran/:number" element={<SurahReader />} />
             <Route path="/stories" element={<Stories />} />
             <Route path="/calendar" element={<CalendarPage />} />
             <Route path="*" element={<NotFound />} />
