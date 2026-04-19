@@ -1,7 +1,15 @@
 import { Link, useParams } from "react-router-dom";
 import { ArrowLeft, Clock } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import { categoryMeta, getStoryById } from "@/data/stories";
+import { categoryMeta, getStoryById, type StorySections } from "@/data/stories";
+
+const SECTION_TITLES: Array<{ key: keyof StorySections; label: string; arabic?: string }> = [
+  { key: "intro", label: "Who They Were", arabic: "من هم" },
+  { key: "life", label: "Their Life & Mission", arabic: "حياتهم ورسالتهم" },
+  { key: "legacy", label: "Their Legacy", arabic: "إرثهم" },
+  { key: "keyFacts", label: "Key Facts", arabic: "حقائق" },
+  { key: "lessons", label: "Lessons We Can Take", arabic: "دروس" },
+];
 
 const StoryReader = () => {
   const { id } = useParams<{ id: string }>();
@@ -19,9 +27,10 @@ const StoryReader = () => {
   }
 
   const meta = categoryMeta[story.category];
+  const sections = story.sections;
 
   return (
-    <div className="animate-fade-in pb-8">
+    <div className="animate-fade-in pb-12">
       {/* Sticky header */}
       <div className="sticky top-0 z-20 border-b border-border/60 bg-background/85 backdrop-blur-xl">
         <div className="flex items-center gap-3 px-4 py-3">
@@ -61,23 +70,93 @@ const StoryReader = () => {
         </div>
       </div>
 
-      {/* Body */}
-      <article className="space-y-4 px-5 pt-6">
-        {story.content.map((para, i) => (
-          <p
-            key={i}
-            className="text-[15px] leading-relaxed text-foreground/90 first-letter:font-display first-letter:text-primary"
-          >
-            {para}
-          </p>
-        ))}
+      {/* Body — continuous article with section headings */}
+      <article className="px-5 pt-8">
+        {sections ? (
+          SECTION_TITLES.map(({ key, label, arabic }) => {
+            const content = sections[key];
+            if (!content || content.length === 0) return null;
 
-        <div className="mt-8 flex items-center justify-center">
+            return (
+              <section key={key} className="mb-8">
+                {/* Heading */}
+                <div className="mb-4 flex items-end justify-between border-b border-primary/20 pb-2">
+                  <h2 className="font-display text-lg font-semibold tracking-tight text-primary">
+                    {label}
+                  </h2>
+                  {arabic && (
+                    <span className="font-arabic text-base text-primary/60">
+                      {arabic}
+                    </span>
+                  )}
+                </div>
+
+                {/* Key Facts as bullets, others as paragraphs */}
+                {key === "keyFacts" ? (
+                  <ul className="space-y-2">
+                    {content.map((fact, i) => (
+                      <li
+                        key={i}
+                        className="flex gap-3 text-[14px] leading-relaxed text-foreground/90"
+                      >
+                        <span
+                          aria-hidden
+                          className="mt-2 inline-block h-1.5 w-1.5 shrink-0 rounded-full bg-primary"
+                        />
+                        <span>{fact}</span>
+                      </li>
+                    ))}
+                  </ul>
+                ) : key === "lessons" ? (
+                  <ol className="space-y-3">
+                    {content.map((lesson, i) => (
+                      <li
+                        key={i}
+                        className="flex gap-3 text-[15px] leading-relaxed text-foreground/90"
+                      >
+                        <span className="font-display text-sm font-semibold text-primary">
+                          {String(i + 1).padStart(2, "0")}
+                        </span>
+                        <span>{lesson}</span>
+                      </li>
+                    ))}
+                  </ol>
+                ) : (
+                  <div className="space-y-4">
+                    {content.map((para, i) => (
+                      <p
+                        key={i}
+                        className="text-[15px] leading-relaxed text-foreground/90"
+                      >
+                        {para}
+                      </p>
+                    ))}
+                  </div>
+                )}
+              </section>
+            );
+          })
+        ) : story.content ? (
+          // Fallback for any legacy story still using flat content
+          <div className="space-y-4">
+            {story.content.map((para, i) => (
+              <p
+                key={i}
+                className="text-[15px] leading-relaxed text-foreground/90"
+              >
+                {para}
+              </p>
+            ))}
+          </div>
+        ) : null}
+
+        {/* Decorative separator */}
+        <div className="mt-2 mb-6 flex items-center justify-center">
           <span className="font-arabic text-2xl text-primary/40">۞</span>
         </div>
 
         {/* Source attribution */}
-        <div className="mt-6 rounded-xl border border-primary/15 bg-primary/5 p-4 text-[12px] leading-relaxed text-muted-foreground">
+        <div className="rounded-xl border border-primary/15 bg-primary/5 p-4 text-[12px] leading-relaxed text-muted-foreground">
           <p className="font-semibold text-primary">Source</p>
           <p className="mt-1">{meta.source}</p>
         </div>
