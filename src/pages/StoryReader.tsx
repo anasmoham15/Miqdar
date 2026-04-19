@@ -75,6 +75,23 @@ const StoryReader = () => {
         <div className="mt-8 flex items-center justify-center">
           <span className="font-arabic text-2xl text-primary/40">۞</span>
         </div>
+
+        {/* Source attribution */}
+        <div className="mt-6 rounded-xl border border-primary/15 bg-primary/5 p-4 text-[12px] leading-relaxed text-muted-foreground">
+          <p className="font-semibold text-primary">Source</p>
+          <p className="mt-1">{meta.source}</p>
+        </div>
+
+        {/* Disclaimer */}
+        <div className="mt-3 rounded-xl border border-border bg-card p-4 text-[12px] leading-relaxed text-muted-foreground">
+          <p className="font-semibold uppercase tracking-wider text-foreground/80">
+            Disclaimer
+          </p>
+          <p className="mt-1">
+            Content based on classical Islamic scholarship. Always refer to a
+            qualified scholar for religious guidance.
+          </p>
+        </div>
       </article>
     </div>
   );
