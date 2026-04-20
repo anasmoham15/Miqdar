@@ -1,7 +1,70 @@
 import { sahabaPart1 } from "./sahabaPart1";
 import { sahabaPart2 } from "./sahabaPart2";
+import { muhajireenStories } from "./muhajireen";
+import { peopleOfBadrStories } from "./peopleOfBadr";
 
-export type StoryCategory = "Prophets" | "Sahaba";
+export type StoryCategory =
+  | "Prophets"
+  | "Sahaba"
+  | "Muhajireen"
+  | "PeopleOfBadr"
+  | "PeopleOfHudaybiyah"
+  | "Scribes"
+  | "FreedSlaves"
+  | "HeroicWomen"
+  | "Tabieen"
+  | "FourImams"
+  | "Scholars"
+  | "ScientistsExplorers"
+  | "QuranStories"
+  | "MajorBattles"
+  | "RightlyGuidedCaliphs"
+  | "CivilisationsEmpires";
+
+/** Top-level grouping for the Stories page tabs */
+export type StoryGroup = "People" | "Events" | "Knowledge" | "QuranStories";
+
+export const storyGroups: Array<{
+  id: StoryGroup;
+  label: string;
+  arabic: string;
+  categories: StoryCategory[];
+}> = [
+  {
+    id: "People",
+    label: "People",
+    arabic: "أهل الإسلام",
+    categories: [
+      "Prophets",
+      "Sahaba",
+      "Muhajireen",
+      "PeopleOfBadr",
+      "PeopleOfHudaybiyah",
+      "Scribes",
+      "FreedSlaves",
+      "HeroicWomen",
+      "Tabieen",
+    ],
+  },
+  {
+    id: "Knowledge",
+    label: "Knowledge",
+    arabic: "العلم",
+    categories: ["FourImams", "Scholars", "ScientistsExplorers"],
+  },
+  {
+    id: "Events",
+    label: "Events",
+    arabic: "الأحداث",
+    categories: ["MajorBattles", "RightlyGuidedCaliphs", "CivilisationsEmpires"],
+  },
+  {
+    id: "QuranStories",
+    label: "Qur'an",
+    arabic: "قصص القرآن",
+    categories: ["QuranStories"],
+  },
+];
 
 export interface StorySections {
   /** Who They Were — intro, lineage, origins, character */
@@ -29,12 +92,14 @@ export interface Story {
 
 export const categoryMeta: Record<
   StoryCategory,
-  { label: string; arabic: string; blurb: string; source: string }
+  { label: string; arabic: string; blurb: string; intro: string; source: string }
 > = {
   Prophets: {
     label: "Prophets (AS)",
     arabic: "الأنبياء",
     blurb: "The 25 prophets named in the Qur'an",
+    intro:
+      "The chosen messengers Allah sent from Adam to Muhammad ﷺ, each carrying the same core message of tawhid to their people.",
     source:
       "Based on Imam Ibn Kathir's Qisas al-Anbiya (Stories of the Prophets), with reference to the Qur'an and his Tafsir.",
   },
@@ -42,8 +107,136 @@ export const categoryMeta: Record<
     label: "Sahaba (RA)",
     arabic: "الصحابة",
     blurb: "Companions of the Prophet ﷺ",
+    intro:
+      "The men and women who saw the Prophet ﷺ, believed in him, and died upon Islam — the best generation Allah ever raised.",
     source:
       "Based on classical sources including Siyar A'lam al-Nubala by al-Dhahabi, Sahih al-Bukhari, Sahih Muslim, and al-Isaba by Ibn Hajar.",
+  },
+  Muhajireen: {
+    label: "The Muhajireen",
+    arabic: "المهاجرون",
+    blurb: "Those who emigrated for Allah",
+    intro:
+      "The Companions who left their homes, families, wealth and clans behind in Makkah and emigrated to Madinah for the sake of Allah and His Messenger ﷺ. Allah praised them throughout the Qur'an as the foremost of the believers.",
+    source:
+      "Based on Ibn Hisham's Sira, al-Tabari, Ibn Sa'd's Tabaqat, and al-Dhahabi's Siyar A'lam al-Nubala.",
+  },
+  PeopleOfBadr: {
+    label: "People of Badr",
+    arabic: "أهل بدر",
+    blurb: "The 313 of the first great battle",
+    intro:
+      "The Companions who fought beside the Prophet ﷺ at Badr in 2 AH — the most honoured group of human beings after the prophets. Of them the Prophet ﷺ said Allah looked down upon them and said: 'Do whatever you wish, for I have forgiven you.'",
+    source:
+      "Based on Ibn Hisham's Sira, al-Waqidi's Kitab al-Maghazi, al-Bukhari, Muslim, and al-Dhahabi's Siyar.",
+  },
+  PeopleOfHudaybiyah: {
+    label: "People of Hudaybiyah",
+    arabic: "أهل بيعة الرضوان",
+    blurb: "The Pledge of the Tree",
+    intro:
+      "The 1,400 Companions who gave the Pledge of the Tree (Bay'at al-Ridwan) under a tree at Hudaybiyah in 6 AH. Allah Himself revealed: 'Allah was pleased with the believers when they pledged allegiance to you under the tree.' (Qur'an 48:18)",
+    source:
+      "Based on Sahih al-Bukhari, Sahih Muslim, Ibn Hisham's Sira, and Tafsir Ibn Kathir on Surah al-Fath.",
+  },
+  Scribes: {
+    label: "Scribes of the Prophet ﷺ",
+    arabic: "كتّاب الوحي",
+    blurb: "Writers of revelation",
+    intro:
+      "The Companions chosen by the Prophet ﷺ to write down the verses of the Qur'an as they were revealed, and to write his letters to kings, tribes and rulers. Through their pens the revelation was preserved on parchment, bone and palm-leaf.",
+    source:
+      "Based on classical sources including al-Suyuti's al-Itqan, al-Dhahabi's Siyar, and Ibn Hajar's al-Isaba.",
+  },
+  FreedSlaves: {
+    label: "Freed Slaves of Islam",
+    arabic: "موالي الإسلام",
+    blurb: "Slavery to leadership",
+    intro:
+      "Companions and Tabi'een who began their lives in chains and rose, through Islam, to become commanders of armies, scholars of the Ummah, and beloved Imams. Their stories prove that in Islam the only nobility is taqwa.",
+    source:
+      "Based on Siyar A'lam al-Nubala, Tabaqat Ibn Sa'd, and the major hadith collections.",
+  },
+  HeroicWomen: {
+    label: "Heroic Women of the Sahaba",
+    arabic: "نساء الصحابة",
+    blurb: "Warriors, teachers, mothers",
+    intro:
+      "Beyond the Mothers of the Believers, the women of the Sahaba who fought with swords, nursed the wounded, taught the Qur'an, gave their wealth and their sons, and carried Islam through some of its darkest hours.",
+    source:
+      "Based on Siyar A'lam al-Nubala, al-Isaba by Ibn Hajar, and the Sahihayn.",
+  },
+  Tabieen: {
+    label: "The Tabi'een",
+    arabic: "التابعون",
+    blurb: "The generation after the Sahaba",
+    intro:
+      "The generation that met the Companions and learned from them. They preserved the hadith, codified the sciences of Islam, and produced figures like 'Umar ibn 'Abd al-'Aziz, Hasan al-Basri, Sa'id ibn al-Musayyib and Muhammad ibn Sirin.",
+    source:
+      "Based on Siyar A'lam al-Nubala, Tahdhib al-Tahdhib, and Tabaqat Ibn Sa'd.",
+  },
+  FourImams: {
+    label: "The Four Imams",
+    arabic: "الأئمة الأربعة",
+    blurb: "Founders of the four madhabs",
+    intro:
+      "The four great mujtahid Imams whose schools of fiqh — Hanafi, Maliki, Shafi'i and Hanbali — have guided the practice of the Ummah for over a thousand years.",
+    source:
+      "Based on Siyar A'lam al-Nubala by al-Dhahabi, Manaqib of each Imam, and classical biographical works.",
+  },
+  Scholars: {
+    label: "The Great Scholars",
+    arabic: "العلماء",
+    blurb: "Carriers of sacred knowledge",
+    intro:
+      "The towering scholars of Islam after the four Imams — mufassirun, muhaddithun, fuqaha' and theologians — whose works still shape Islamic learning today.",
+    source:
+      "Based on Siyar A'lam al-Nubala, al-Bidaya wa al-Nihaya, and the works of each scholar.",
+  },
+  ScientistsExplorers: {
+    label: "Scientists & Explorers",
+    arabic: "العلماء والرحالة",
+    blurb: "The Islamic Golden Age",
+    intro:
+      "Muslim minds who, drinking from the Qur'an's command to 'reflect' and 'travel through the earth', built medicine, mathematics, astronomy, geography and philosophy that shaped human civilisation.",
+    source:
+      "Based on classical Arabic biographies (Ibn Khallikan, Ibn al-Nadim) and modern works on Islamic civilisation.",
+  },
+  QuranStories: {
+    label: "Stories from the Qur'an",
+    arabic: "قصص القرآن",
+    blurb: "Beyond the prophets",
+    intro:
+      "The famous stories Allah tells in His Book of righteous people and warning examples from the past — the People of the Cave, Dhul Qarnayn, Luqman, the People of the Elephant, the owners of the Garden, and others.",
+    source:
+      "Based on Tafsir Ibn Kathir, Tafsir al-Tabari, and Qisas al-Qur'an of classical mufassirun.",
+  },
+  MajorBattles: {
+    label: "The Major Battles",
+    arabic: "الغزوات الكبرى",
+    blurb: "Where Islam was defended",
+    intro:
+      "The great military encounters of the Prophet's life and the early Muslims — Badr, Uhud, Khandaq, Khaybar, the Conquest of Makkah, Hunayn, Mu'tah and Tabuk — told as full historical narratives.",
+    source:
+      "Based on Ibn Hisham's Sira, al-Waqidi's Maghazi, Sahih al-Bukhari and Muslim.",
+  },
+  RightlyGuidedCaliphs: {
+    label: "Rightly Guided Caliphs",
+    arabic: "الخلفاء الراشدون",
+    blurb: "The era of each Khalifah",
+    intro:
+      "The full era of each of the four Rightly Guided Caliphs — Abu Bakr, 'Umar, 'Uthman and 'Ali — told not as biographies of men but as the unfolding of a community under their leadership.",
+    source:
+      "Based on al-Tabari's Tarikh, Ibn Kathir's al-Bidaya wa al-Nihaya, and al-Dhahabi's Tarikh al-Islam.",
+  },
+  CivilisationsEmpires: {
+    label: "Civilisations & Empires",
+    arabic: "الحضارات والممالك",
+    blurb: "How Islam shaped history",
+    intro:
+      "The great Muslim civilisations after the Khulafa' al-Rashidun — the Umayyads, the Abbasid golden age, Muslim Andalusia, and the Ottoman Empire — and what they built for the world.",
+    source:
+      "Based on al-Tabari, Ibn Khaldun's Muqaddima, Ibn Kathir's al-Bidaya, and major works on each era.",
   },
 };
 
@@ -1249,11 +1442,20 @@ export const stories: Story[] = [
   },
 
   // ============================================================
-  // SAHABA (50) — based on Siyar A'lam al-Nubala by Imam al-Dhahabi
-  // and other classical sources. Split into two modules for maintainability.
+  // SAHABA (50) — split into two modules for maintainability.
   // ============================================================
   ...sahabaPart1,
   ...sahabaPart2,
+
+  // ============================================================
+  // MUHAJIREEN — those who emigrated for Allah
+  // ============================================================
+  ...muhajireenStories,
+
+  // ============================================================
+  // PEOPLE OF BADR — the 313
+  // ============================================================
+  ...peopleOfBadrStories,
 ];
 
 // Lookup helpers
