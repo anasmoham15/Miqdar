@@ -1,3 +1,6 @@
+import { sahabaPart1 } from "./sahabaPart1";
+import { sahabaPart2 } from "./sahabaPart2";
+
 export type StoryCategory = "Prophets" | "Sahaba";
 
 export interface StorySections {
