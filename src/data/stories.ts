@@ -4,6 +4,8 @@ import { muhajireenStories } from "./muhajireen";
 import { peopleOfBadrStories } from "./peopleOfBadr";
 import { peopleOfHudaybiyahStories } from "./peopleOfHudaybiyah";
 import { scribesStories } from "./scribes";
+import { freedSlavesStories } from "./freedSlaves";
+import { heroicWomenStories } from "./heroicWomen";
 
 export type StoryCategory =
   | "Prophets"
@@ -1468,6 +1470,16 @@ export const stories: Story[] = [
   // SCRIBES OF THE PROPHET ﷺ
   // ============================================================
   ...scribesStories,
+
+  // ============================================================
+  // FREED SLAVES who became giants of Islam
+  // ============================================================
+  ...freedSlavesStories,
+
+  // ============================================================
+  // HEROIC WOMEN of the Sahaba
+  // ============================================================
+  ...heroicWomenStories,
 ];
 
 // Lookup helpers
