@@ -2,6 +2,8 @@ import { sahabaPart1 } from "./sahabaPart1";
 import { sahabaPart2 } from "./sahabaPart2";
 import { muhajireenStories } from "./muhajireen";
 import { peopleOfBadrStories } from "./peopleOfBadr";
+import { peopleOfHudaybiyahStories } from "./peopleOfHudaybiyah";
+import { scribesStories } from "./scribes";
 
 export type StoryCategory =
   | "Prophets"
@@ -1456,6 +1458,16 @@ export const stories: Story[] = [
   // PEOPLE OF BADR — the 313
   // ============================================================
   ...peopleOfBadrStories,
+
+  // ============================================================
+  // PEOPLE OF HUDAYBIYAH — the Pledge of the Tree
+  // ============================================================
+  ...peopleOfHudaybiyahStories,
+
+  // ============================================================
+  // SCRIBES OF THE PROPHET ﷺ
+  // ============================================================
+  ...scribesStories,
 ];
 
 // Lookup helpers
