@@ -1470,6 +1470,16 @@ export const stories: Story[] = [
   // SCRIBES OF THE PROPHET ﷺ
   // ============================================================
   ...scribesStories,
+
+  // ============================================================
+  // FREED SLAVES who became giants of Islam
+  // ============================================================
+  ...freedSlavesStories,
+
+  // ============================================================
+  // HEROIC WOMEN of the Sahaba
+  // ============================================================
+  ...heroicWomenStories,
 ];
 
 // Lookup helpers
