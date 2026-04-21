@@ -4,6 +4,8 @@ import { muhajireenStories } from "./muhajireen";
 import { peopleOfBadrStories } from "./peopleOfBadr";
 import { peopleOfHudaybiyahStories } from "./peopleOfHudaybiyah";
 import { scribesStories } from "./scribes";
+import { freedSlavesStories } from "./freedSlaves";
+import { heroicWomenStories } from "./heroicWomen";
 
 export type StoryCategory =
   | "Prophets"
