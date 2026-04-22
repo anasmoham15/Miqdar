@@ -6,6 +6,10 @@ import { peopleOfHudaybiyahStories } from "./peopleOfHudaybiyah";
 import { scribesStories } from "./scribes";
 import { freedSlavesStories } from "./freedSlaves";
 import { heroicWomenStories } from "./heroicWomen";
+import { tabieenStories } from "./tabieen";
+import { fourImamsStories } from "./fourImams";
+import { scholarsStories } from "./scholars";
+import { scientistsExplorersStories } from "./scientistsExplorers";
 
 export type StoryCategory =
   | "Prophets"
@@ -1480,6 +1484,26 @@ export const stories: Story[] = [
   // HEROIC WOMEN of the Sahaba
   // ============================================================
   ...heroicWomenStories,
+
+  // ============================================================
+  // TABI'EEN — the generation after the Sahaba
+  // ============================================================
+  ...tabieenStories,
+
+  // ============================================================
+  // THE FOUR IMAMS of Sunni fiqh (+ Imam al-Bukhari)
+  // ============================================================
+  ...fourImamsStories,
+
+  // ============================================================
+  // GREAT SCHOLARS across the centuries
+  // ============================================================
+  ...scholarsStories,
+
+  // ============================================================
+  // MUSLIM SCIENTISTS & EXPLORERS
+  // ============================================================
+  ...scientistsExplorersStories,
 ];
 
 // Lookup helpers
