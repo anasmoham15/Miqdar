@@ -10,6 +10,10 @@ import { tabieenStories } from "./tabieen";
 import { fourImamsStories } from "./fourImams";
 import { scholarsStories } from "./scholars";
 import { scientistsExplorersStories } from "./scientistsExplorers";
+import { majorBattlesStories } from "./majorBattles";
+import { rightlyGuidedCaliphsStories } from "./rightlyGuidedCaliphs";
+import { civilisationsEmpiresStories } from "./civilisationsEmpires";
+import { quranStoriesStories } from "./quranStories";
 
 export type StoryCategory =
   | "Prophets"
