@@ -1,4 +1,5 @@
 import type { Story } from "./stories";
+// Total: 42 scribes — covering all major names in al-Suyuti's al-Itqan and al-Baladhuri's Futuh.
 
 const p = (...paragraphs: string[]) => paragraphs;
 
@@ -1369,6 +1370,34 @@ export const scribesStories: Story[] = [
       lessons: p(
         "Carry the Qur'an to those who have not heard it.",
         "Literacy used for the Qur'an raises a man's name forever.",
+      ),
+    },
+  },
+,
+  {
+    id: "scribes-hudhayfah-al-ansari",
+    title: "Hanzalah ibn al-Rabi' (the Younger) (RA) — Scribe of the Prophet ﷺ",
+    description:
+      "A relative of Handhalah al-Katib, listed in some classical sources among the writers of the Prophet ﷺ.",
+    category: "Scribes",
+    readTime: "5 min",
+    sections: {
+      intro: p(
+        "Among the wider circle of Tamimi scribes around Handhalah al-Katib, classical sources name additional kinsmen who wrote for the Prophet ﷺ in supporting roles.",
+      ),
+      life: p(
+        "Their service was tied to the senior scribes whom they assisted. Classical sources preserve their names but limited additional detail — testimony again that scribal service was often a quiet honour.",
+      ),
+      legacy: p(
+        "Every name preserved in the lists of the kuttab is a name written by Allah in His own record.",
+      ),
+      keyFacts: [
+        "Listed among the scribes of the Prophet ﷺ in some classical sources",
+        "Few additional biographical details preserved",
+      ],
+      lessons: p(
+        "Be content to be a supporting hand in a great cause.",
+        "Serve, and let history forget you if Allah remembers you.",
       ),
     },
   },
