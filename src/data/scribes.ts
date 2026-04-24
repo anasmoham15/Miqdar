@@ -272,4 +272,1104 @@ export const scribesStories: Story[] = [
       ),
     },
   },
+  {
+    id: "scribes-abu-bakr-as-siddiq",
+    title: "Abu Bakr al-Siddiq (RA) — The First Khalifah and Scribe of the Prophet ﷺ",
+    description:
+      "The closest friend of the Prophet ﷺ, who wrote letters and treaties for him and later commissioned the first written compilation of the Qur'an.",
+    category: "Scribes",
+    readTime: "8 min",
+    sections: {
+      intro: p(
+        "Abu Bakr 'Abdullah ibn 'Uthman al-Taymi al-Qurashi was born in Makkah about two and a half years after the Year of the Elephant. He was a wealthy cloth merchant, a master of Arab genealogy, and known throughout Quraysh for his honesty, gentleness and sharp judgement. He was the first free adult man to embrace Islam.",
+        "Among his many roles in serving the Prophet ﷺ — companion of the Cave, treasurer, advisor, commander on campaigns — was that of scribe. He wrote letters, treaties of zakat, and official correspondence on behalf of the Prophet ﷺ. Al-Suyuti lists him explicitly among those who 'used to write for the Messenger of Allah ﷺ.'",
+      ),
+      life: p(
+        "Abu Bakr accompanied the Prophet ﷺ on the Hijrah and was his companion in the Cave of Thawr. Throughout the Madinan period he stood at the Prophet's right hand in council, in prayer, and in correspondence. When letters were written to delegations, when zakat treaties were drawn up with tribes, Abu Bakr was often the hand on the pen.",
+        "After the Prophet ﷺ passed away, Abu Bakr was chosen as the first Khalifah. His two-year reign saved Islam: he crushed the Riddah wars, secured the Arabian Peninsula, launched the conquests of Iraq and Syria, and — most relevant here — commissioned Zayd ibn Thabit to gather the Qur'an into a single written codex after the deaths of so many huffaz at Yamamah.",
+        "He kept the first official mushaf in his own house. On his death it passed to 'Umar, then to Hafsah, where it served as the source for 'Uthman's later standardisation. He died in 13 AH and was buried beside the Prophet ﷺ.",
+      ),
+      legacy: p(
+        "Abu Bakr's role as a scribe is dwarfed in popular memory by his role as Khalifah, but the two are connected. The same trustworthiness that made the Prophet ﷺ dictate to him is what made him later trustworthy to compile the Qur'an itself.",
+        "Every printed mushaf today rests on a chain that begins with his decision in 12 AH to gather the Book into one volume.",
+      ),
+      keyFacts: [
+        "First free adult male Muslim; closest friend of the Prophet ﷺ",
+        "Companion of the Cave of Thawr",
+        "Wrote letters and zakat treaties for the Prophet ﷺ",
+        "First Khalifah of Islam (11–13 AH)",
+        "Commissioned the first compilation of the Qur'an into one mushaf",
+        "Buried beside the Prophet ﷺ in Madinah",
+      ],
+      lessons: p(
+        "Trustworthiness is the foundation of every other service. Abu Bakr was trusted with the Prophet's secrets, his letters, his zakat, and finally his Book.",
+        "Big decisions in faith require courage. 'Umar pushed; Abu Bakr hesitated; then he committed — and the Qur'an was saved.",
+        "Quiet service often outlasts loud titles. Abu Bakr's pen left more in the world than most armies.",
+      ),
+    },
+  },
+  {
+    id: "scribes-umar-ibn-al-khattab",
+    title: "'Umar ibn al-Khattab (RA) — The Second Khalifah and Scribe of the Prophet ﷺ",
+    description:
+      "The mighty second Khalifah, listed among the scribes of the Prophet ﷺ, who first proposed gathering the Qur'an into one written volume.",
+    category: "Scribes",
+    readTime: "8 min",
+    sections: {
+      intro: p(
+        "'Umar ibn al-Khattab al-'Adawi al-Qurashi was a man of formidable physique, intellect and moral force. Before Islam he was an enemy of the Prophet ﷺ; after his conversion in the sixth year of prophethood, he became one of the pillars on which Islam was built.",
+        "Al-Suyuti and al-Baladhuri include him in the list of those who wrote for the Prophet ﷺ. Though his fame as Khalifah, conqueror and judge has overshadowed it, he was among the literate Companions trusted with the Prophet's correspondence.",
+      ),
+      life: p(
+        "'Umar's literacy was rare in pre-Islamic Quraysh. He used it in service of the Prophet ﷺ in Madinah, taking down letters and helping to manage written records. After the Prophet's death he served as Abu Bakr's chief advisor, and it was 'Umar who first urged the compilation of the Qur'an after the slaughter of the huffaz at Yamamah.",
+        "As Khalifah from 13–23 AH he expanded Islam from Egypt to Persia, established the diwan, the Hijri calendar, the standing army registers, and the formal institutions of justice. He was assassinated by Abu Lu'lu'ah while leading the Fajr prayer in 23 AH.",
+      ),
+      legacy: p(
+        "'Umar's idea — proposed to a hesitant Abu Bakr — was the spark that produced the first written Qur'an. Without it the standardisation under 'Uthman would have had no foundation.",
+        "He embodies the principle that justice, fear of Allah, and administrative genius can live in one man at once.",
+      ),
+      keyFacts: [
+        "Second Khalifah of Islam (13–23 AH)",
+        "Among the literate Companions who wrote for the Prophet ﷺ",
+        "First proposed the compilation of the Qur'an into one mushaf",
+        "Established the Hijri calendar and the diwan",
+        "Conquered Persia, Egypt and Syria during his reign",
+        "Martyred while leading Fajr prayer in Madinah",
+      ],
+      lessons: p(
+        "Strength is a tool; what matters is what it serves. 'Umar's strength terrified Quraysh before Islam and protected Islam after it.",
+        "Foresight in religion is a mercy. 'Umar saw what others did not — that the Qur'an needed to be written down before the huffaz were gone.",
+        "Power is a trust to be feared. 'Umar wept the night he was made Khalifah and never stopped fearing the questioning of Allah.",
+      ),
+    },
+  },
+  {
+    id: "scribes-uthman-ibn-affan",
+    title: "'Uthman ibn 'Affan (RA) — The Scribe Who Standardised the Mushaf",
+    description:
+      "The third Khalifah, son-in-law of the Prophet ﷺ twice over, who as a scribe of revelation later commissioned the standard Mushaf used in every printed Qur'an today.",
+    category: "Scribes",
+    readTime: "9 min",
+    sections: {
+      intro: p(
+        "'Uthman ibn 'Affan al-Umawi al-Qurashi, called Dhu al-Nurayn ('Possessor of the Two Lights') because he married two daughters of the Prophet ﷺ in succession, was among the earliest converts to Islam and one of the wealthiest merchants of Makkah. He used his wealth without limit for the Prophet's missions — equipping the army of Tabuk single-handedly is only one example.",
+        "Among the closest scribes of revelation, 'Uthman would write down verses as the Prophet ﷺ dictated them. His later role as Khalifah in standardising the Qur'an would seal his name in every mushaf in the world.",
+      ),
+      life: p(
+        "'Uthman migrated twice — first to Abyssinia, then to Madinah. He served the Prophet ﷺ as a scribe of revelation throughout the Madinan period. He bought the well of Rumah and gave it to the Muslims, purchased land to expand the Prophet's Mosque, and equipped the army of al-'Usrah at Tabuk with a thousand camels and seventy horses.",
+        "When 'Umar was assassinated, the shura chose 'Uthman as the third Khalifah. He reigned twelve years (23–35 AH), during which Islam expanded into North Africa, Cyprus, and Khurasan.",
+        "His most lasting act came when Hudhayfah ibn al-Yaman warned him of growing differences in recitation between the regions. 'Uthman commissioned Zayd ibn Thabit, 'Abdullah ibn al-Zubayr, Sa'id ibn al-'As and 'Abd al-Rahman ibn al-Harith to copy the Qur'an from Hafsah's mushaf into a unified script. He sent one copy to each major centre — Makkah, Kufa, Basra, Syria — and ordered all variant private texts to be burned. The script and arrangement of every printed Qur'an today is the Mushaf 'Uthmani.",
+        "He was murdered in his home in Madinah in 35 AH while reading the Qur'an, by rebels who had gathered against him. His blood fell on the verse: 'Allah will suffice you against them, and He is the All-Hearing, the All-Knowing.'",
+      ),
+      legacy: p(
+        "Every Muslim who picks up a printed mushaf is reading 'Uthman's project. He saved the Ummah from the fate of those before, who differed over their scriptures until the texts themselves splintered.",
+        "He combined wealth, modesty, deep shyness — 'the angels are shy of him,' said the Prophet ﷺ — and ultimate sacrifice. He refused to shed Muslim blood to save his own life.",
+      ),
+      keyFacts: [
+        "Third Khalifah of Islam (23–35 AH)",
+        "Married two daughters of the Prophet ﷺ — Ruqayyah, then Umm Kulthum",
+        "Scribe of revelation in Madinah",
+        "Commissioned and distributed the standard Mushaf 'Uthmani",
+        "Equipped the army of Tabuk single-handedly",
+        "Martyred while reading the Qur'an in his home in Madinah",
+      ],
+      lessons: p(
+        "Wealth is honourable when it is poured into the cause of Allah. 'Uthman's fortune financed armies, wells, and mosques.",
+        "Unity in the Book is unity in the Ummah. 'Uthman accepted political danger to preserve textual unity.",
+        "Refuse to defend yourself with the blood of Muslims. He chose to die rather than spark civil war.",
+      ),
+    },
+  },
+  {
+    id: "scribes-ali-ibn-abi-talib",
+    title: "'Ali ibn Abi Talib (RA) — Scribe of the Prophet ﷺ and the Treaty of Hudaybiyah",
+    description:
+      "The Prophet's cousin, son-in-law and fourth Khalifah, who wrote the Treaty of Hudaybiyah in his own hand and was among the closest scribes of revelation.",
+    category: "Scribes",
+    readTime: "9 min",
+    sections: {
+      intro: p(
+        "'Ali ibn Abi Talib al-Hashimi al-Qurashi, the cousin of the Prophet ﷺ raised in his household, was the first child to embrace Islam. He grew up to be a man of unmatched courage, deep knowledge, sharp tongue, and unwavering devotion.",
+        "Among his many services to the Prophet ﷺ was that of scribe. He wrote down revelation, drafted treaties, and most famously wrote the Treaty of Hudaybiyah in 6 AH with his own hand under the Prophet's dictation.",
+      ),
+      life: p(
+        "'Ali slept in the Prophet's bed on the night of the Hijrah while the Prophet ﷺ escaped Makkah. He returned trusts to their owners and joined the Prophet ﷺ in Madinah days later. He married Fatimah, the Prophet's daughter, and from them came al-Hasan and al-Husayn.",
+        "He fought in nearly every major battle, carrying the Prophet's flag, and his courage at Khaybar — where he uprooted the iron gate as a shield — became proverbial.",
+        "At Hudaybiyah in 6 AH he was the chosen scribe. When he wrote 'This is what Muhammad the Messenger of Allah has settled,' the Quraysh negotiator Suhayl objected. The Prophet ﷺ asked 'Ali to erase 'Messenger of Allah'; 'Ali refused out of love. The Prophet ﷺ took the pen himself and erased it. The moment shows both 'Ali's reverence and the Prophet's wisdom.",
+        "After 'Uthman's murder 'Ali was made the fourth Khalifah, ruling from 35–40 AH through the Battles of the Camel and Siffin. He was assassinated in Kufa by the Khariji 'Abd al-Rahman ibn Muljam while leaving for Fajr prayer in Ramadan 40 AH.",
+      ),
+      legacy: p(
+        "'Ali's combination of knowledge and warrior courage made him a model for every later generation. The Prophet ﷺ said: 'I am the city of knowledge and 'Ali is its gate.'",
+        "His written hand is preserved across early Muslim records, and his role at Hudaybiyah marks one of the great turning points of the Sirah.",
+      ),
+      keyFacts: [
+        "Cousin and son-in-law of the Prophet ﷺ",
+        "First child to embrace Islam",
+        "Scribe of the Treaty of Hudaybiyah",
+        "Carried the Prophet's flag at major battles, including Khaybar",
+        "Fourth Khalifah of Islam (35–40 AH)",
+        "Martyred in Kufa during Ramadan 40 AH",
+      ],
+      lessons: p(
+        "Love for the Prophet ﷺ is shown in obedience, not just in feeling. 'Ali could not bring himself to erase 'Messenger of Allah,' but the Prophet ﷺ taught him that obedience is higher than emotion.",
+        "Knowledge and courage belong together. 'Ali was a faqih on the minbar and a lion in the field.",
+        "Times of fitnah test even the best. 'Ali navigated civil war with patience and prayer, and died as he had lived — heading to the prayer.",
+      ),
+    },
+  },
+  {
+    id: "scribes-ubayy-ibn-kab",
+    title: "Ubayy ibn Ka'b (RA) — Master of the Reciters and Scribe of Revelation",
+    description:
+      "The Ansari scholar whom the Prophet ﷺ called 'the master of the reciters,' a senior scribe of revelation and one of the four to whom the Prophet ﷺ told the Companions to take Qur'an from.",
+    category: "Scribes",
+    readTime: "8 min",
+    sections: {
+      intro: p(
+        "Ubayy ibn Ka'b al-Khazraji al-Ansari was already a literate man in Madinah before the Hijrah, knowing how to read and write at a time when this was rare. He embraced Islam at the second pledge of 'Aqabah and was among the earliest Ansar.",
+        "When the Prophet ﷺ arrived, Ubayy became one of his foremost scribes of revelation. The Prophet ﷺ later said: 'The master of the reciters of my Ummah is Ubayy.'",
+      ),
+      life: p(
+        "Ubayy wrote down revelation as it came. He was one of the Companions whom the Prophet ﷺ named when he said: 'Take the Qur'an from four — Ibn Mas'ud, Salim the freedman of Abu Hudhayfah, Mu'adh ibn Jabal, and Ubayy ibn Ka'b.'",
+        "The Prophet ﷺ once said to him: 'Allah has commanded me to recite to you Surah al-Bayyinah.' Ubayy asked, 'Has He named me?' The Prophet ﷺ said, 'Yes.' Ubayy wept.",
+        "His personal mushaf was famous among the Companions and was one of the texts consulted during 'Uthman's standardisation. He was among Zayd's senior consultants in the compilation under Abu Bakr.",
+        "He served as a leading teacher of Qur'an in Madinah, gave fatwa, and was appointed by 'Umar to lead Tarawih prayers in jama'ah — the practice 'Umar called 'an excellent innovation.' He died in Madinah, with reports varying between 19 and 32 AH.",
+      ),
+      legacy: p(
+        "Ubayy is one of the great chains through which the Qur'anic recitation reached every generation. The qira'at of many later masters trace back to him.",
+        "His title 'Sayyid al-Qurra' — Master of the Reciters — was given by the Prophet ﷺ himself, and no honour above that exists in the field of Qur'an.",
+      ),
+      keyFacts: [
+        "Literate before Islam, embraced Islam at the second pledge of 'Aqabah",
+        "Senior scribe of revelation in Madinah",
+        "One of four named by the Prophet ﷺ as primary teachers of Qur'an",
+        "Led Tarawih in congregation under 'Umar",
+        "His personal mushaf was a key reference in compilation",
+        "Died in Madinah between 19 and 32 AH",
+      ],
+      lessons: p(
+        "When Allah names you in His revelation, no other honour is needed. Ubayy wept; we should consider how rarely we weep at the Qur'an at all.",
+        "Reciting and teaching the Qur'an is one of the highest stations of service.",
+        "Pre-Islamic skills can become tools for Islam. Ubayy's literacy was given to him for a purpose he only later understood.",
+      ),
+    },
+  },
+  {
+    id: "scribes-mu-awiyah-ibn-abi-sufyan",
+    title: "Mu'awiyah ibn Abi Sufyan (RA) — Scribe of the Prophet ﷺ and Founder of the Umayyad Dynasty",
+    description:
+      "The Qurashi who wrote letters for the Prophet ﷺ in the final years and went on to govern Sham for forty years and become the first Umayyad Khalifah.",
+    category: "Scribes",
+    readTime: "8 min",
+    sections: {
+      intro: p(
+        "Mu'awiyah ibn Abi Sufyan ibn Harb al-Umawi accepted Islam at the conquest of Makkah in 8 AH along with his father Abu Sufyan and brother Yazid. He was a young man known for his intelligence, calm temperament and extraordinary administrative ability.",
+        "After Islam, the Prophet ﷺ employed him as one of his scribes, dictating letters and correspondence to him. Al-Suyuti and Ibn Hajar list him explicitly among the kuttab al-wahy and the kuttab al-rasa'il.",
+      ),
+      life: p(
+        "After the Prophet's death, Mu'awiyah served under Abu Bakr and 'Umar in the Syrian campaigns. 'Umar appointed him governor of Damascus, then of all Sham, where he ruled with such competence that 'Umar said of him: 'Do not mention Caesar to me after Mu'awiyah.'",
+        "He served as governor under 'Uthman and then as the rival to 'Ali during the fitnah after 'Uthman's murder. After al-Hasan's abdication in 41 AH (the Year of Unity), he became the undisputed Khalifah and founded the Umayyad dynasty, ruling from Damascus until his death in 60 AH.",
+        "Under his rule the Muslim navy was built, Constantinople was besieged, and the borders of Islam reached deep into North Africa and Khurasan.",
+      ),
+      legacy: p(
+        "Mu'awiyah is a complex figure — companion, scribe, governor, ruler — whose later political role overshadows his earlier service to the Prophet ﷺ. The Sunni position, articulated by Ibn Taymiyyah, al-Dhahabi and Ibn Kathir, is to honour him as a Companion and to leave his political disputes to Allah.",
+        "His forty years governing Sham produced one of the most stable administrations in early Islamic history.",
+      ),
+      keyFacts: [
+        "Embraced Islam at the conquest of Makkah, 8 AH",
+        "Scribe of the Prophet's letters in the final years",
+        "Governor of Sham under 'Umar and 'Uthman for around twenty years",
+        "First Umayyad Khalifah from 41 AH",
+        "Built the first Muslim navy",
+        "Died in Damascus in 60 AH",
+      ],
+      lessons: p(
+        "A late entry into Islam does not close the door to greatness. Mu'awiyah came in at the conquest and ended as Khalifah.",
+        "Administrative skill is itself a gift to be used in the service of the Ummah.",
+        "Reserve judgement on disputes between Companions; honour what they gave, leave what divided them to Allah.",
+      ),
+    },
+  },
+  {
+    id: "scribes-khalid-ibn-al-walid",
+    title: "Khalid ibn al-Walid (RA) — The Sword of Allah Who Also Wrote for the Prophet ﷺ",
+    description:
+      "The greatest general of the Companions, who is also listed by al-Suyuti among the scribes of the Prophet ﷺ.",
+    category: "Scribes",
+    readTime: "7 min",
+    sections: {
+      intro: p(
+        "Khalid ibn al-Walid al-Makhzumi al-Qurashi accepted Islam in 7 AH between the Treaty of Hudaybiyah and the conquest of Makkah. The Prophet ﷺ named him Sayf Allah — the Sword of Allah — and from that day until his death he never lost a battle.",
+        "Among his less-remembered services is being listed by al-Suyuti and others as one of those who wrote for the Prophet ﷺ. Khalid was literate, a Qurashi noble of Banu Makhzum, and was used for both correspondence and military command.",
+      ),
+      life: p(
+        "Before Islam he led the Quraysh cavalry at Uhud and turned the battle. After Islam he led at Mu'tah, the conquest of Makkah, Hunayn, the Riddah wars (defeating Musaylimah at Yamamah), the conquest of Iraq (al-Hira, the Chains, Walaja, Ullays), and the conquest of Sham (Ajnadayn, Yarmuk).",
+        "His campaign of marching from Iraq to Sham across the waterless desert in five days, navigating by an old camel, is one of the most studied feats in military history.",
+        "'Umar removed him from command in 17 AH not for incompetence but to teach the Ummah that victory is from Allah and not from any one man. Khalid accepted his removal without protest and continued fighting under his successor.",
+      ),
+      legacy: p(
+        "Khalid's combination of literacy, leadership and unflinching courage make him one of the most complete personalities of the Companions. He died in his bed in Hims around 21 AH and wept that he had not been granted shahadah.",
+        "Every later Muslim general — from Salahuddin to the Ottomans — studied his campaigns.",
+      ),
+      keyFacts: [
+        "Embraced Islam in 7 AH; named Sayf Allah by the Prophet ﷺ",
+        "Listed by al-Suyuti among the scribes of the Prophet ﷺ",
+        "Defeated Musaylimah at Yamamah",
+        "Conquered Iraq and Sham; led at Yarmuk",
+        "Removed from command by 'Umar without protest",
+        "Died in Hims around 21 AH",
+      ],
+      lessons: p(
+        "Submit to leadership even when removed unjustly. Khalid's response to 'Umar is a model of obedience without resentment.",
+        "No one is the cause of victory; Allah alone is. Khalid himself preached this lesson by his calm acceptance.",
+        "The strongest hand is the one trained to both sword and pen.",
+      ),
+    },
+  },
+  {
+    id: "scribes-amr-ibn-al-as",
+    title: "'Amr ibn al-'As (RA) — Scribe of the Prophet ﷺ and Conqueror of Egypt",
+    description:
+      "The brilliant Qurashi statesman who embraced Islam in 7 AH, wrote letters for the Prophet ﷺ, and later opened Egypt to Islam.",
+    category: "Scribes",
+    readTime: "8 min",
+    sections: {
+      intro: p(
+        "'Amr ibn al-'As al-Sahmi al-Qurashi was one of the sharpest political minds of the Quraysh. He had been to Abyssinia trying to extradite the Muslim refugees, and to the Roman court on Quraysh business. When Allah opened his heart to Islam he travelled to Madinah with Khalid ibn al-Walid and 'Uthman ibn Talhah and embraced Islam in 7 AH.",
+        "The Prophet ﷺ employed his intelligence at once. 'Amr is listed among the scribes who wrote letters for him, and he was sent on the expedition of Dhat al-Salasil where the Prophet ﷺ placed him in command over senior Companions including Abu Bakr and 'Umar.",
+      ),
+      life: p(
+        "After the Prophet's death he was sent by 'Umar to lead the conquest of Egypt. He defeated the Byzantines at 'Ayn Shams, took Babylon (old Cairo), then Alexandria, and founded the city of Fustat — the first Muslim capital of Egypt.",
+        "He governed Egypt under 'Umar and 'Uthman, was removed and reappointed, and during the fitnah he sided with Mu'awiyah, helping engineer the political settlement after Siffin. He died as governor of Egypt in 43 AH.",
+      ),
+      legacy: p(
+        "Egypt's entry into Islam — and from Egypt, North Africa and beyond — is in human terms the work of 'Amr ibn al-'As. The mosque he founded in Fustat in 21 AH still stands today.",
+        "His political brilliance is proverbial; the Prophet ﷺ called him 'one of the salihin of Quraysh.'",
+      ),
+      keyFacts: [
+        "Embraced Islam in 7 AH",
+        "Among the scribes of the Prophet's letters",
+        "Commanded the Prophet's expedition of Dhat al-Salasil",
+        "Conquered Egypt for Islam (19–21 AH)",
+        "Founded Fustat and its mosque",
+        "Died as governor of Egypt in 43 AH",
+      ],
+      lessons: p(
+        "Pre-Islamic skills are accepted into Islam and given a higher purpose. 'Amr's diplomacy served Allah's Messenger ﷺ better than it had ever served Quraysh.",
+        "Place trust in capability. The Prophet ﷺ placed 'Amr over senior Companions because the situation called for him.",
+        "A nation enters Islam often through one well-placed Companion. Egypt's history pivoted on 'Amr.",
+      ),
+    },
+  },
+  {
+    id: "scribes-az-zubayr-ibn-al-awwam",
+    title: "Al-Zubayr ibn al-'Awwam (RA) — Disciple of the Prophet ﷺ and One of His Scribes",
+    description:
+      "The cousin of the Prophet ﷺ, one of the ten promised Paradise, listed among the scribes who wrote for him.",
+    category: "Scribes",
+    readTime: "7 min",
+    sections: {
+      intro: p(
+        "Al-Zubayr ibn al-'Awwam al-Asadi al-Qurashi was the son of Safiyyah, the Prophet's aunt. He embraced Islam at the age of fifteen as one of the very earliest Muslims, and was famously the first man to draw a sword in defence of Islam — when a false rumour reached him that the Prophet ﷺ had been attacked.",
+        "He is listed by al-Suyuti among the scribes who wrote letters for the Prophet ﷺ, and was one of the Prophet's closest disciples — 'every Prophet has a disciple, and my disciple is al-Zubayr,' the Prophet ﷺ said.",
+      ),
+      life: p(
+        "He fought at Badr, Uhud, the Trench, and every major battle. He was wounded so many times that his body bore the scars like a record of the campaigns of the Prophet ﷺ.",
+        "He served as one of the six members of 'Umar's Shura that elected 'Uthman. He was killed in 36 AH after withdrawing from the Battle of the Camel, when he remembered a saying of the Prophet ﷺ that warned him against fighting 'Ali.",
+      ),
+      legacy: p(
+        "Al-Zubayr's name appears in every list of the great early Companions — among the ten promised Paradise, the disciples of the Prophet ﷺ, the Muhajirun, the people of Badr and the scribes.",
+      ),
+      keyFacts: [
+        "Cousin of the Prophet ﷺ; son of Safiyyah",
+        "First man to draw a sword in defence of Islam",
+        "Among the ten promised Paradise",
+        "Among the scribes of the Prophet ﷺ",
+        "Member of 'Umar's Shura",
+        "Killed in 36 AH after the Battle of the Camel",
+      ],
+      lessons: p(
+        "Defend the Prophet ﷺ first with your hand and only then with your tongue. Al-Zubayr's first instinct was protection.",
+        "Knowledge of one's place in fitnah is itself a mercy. Al-Zubayr withdrew when reminded of the Prophet's word.",
+        "A Companion can be a scholar, a scribe, a warrior and a martyr in one life.",
+      ),
+    },
+  },
+  {
+    id: "scribes-sad-ibn-abi-waqqas",
+    title: "Sa'd ibn Abi Waqqas (RA) — Conqueror of Persia and One of the Prophet's Scribes",
+    description:
+      "The Qurashi maternal uncle of the Prophet ﷺ, one of the ten promised Paradise, who is listed among those who wrote for the Prophet ﷺ.",
+    category: "Scribes",
+    readTime: "7 min",
+    sections: {
+      intro: p(
+        "Sa'd ibn Abi Waqqas al-Zuhri al-Qurashi was the maternal uncle of the Prophet ﷺ through his grandmother. He embraced Islam at seventeen, among the first seven, and is the first Companion to shed blood in the path of Allah — striking down a polytheist who attacked the Muslims as they prayed.",
+        "He is listed by al-Suyuti and others among the scribes of the Prophet ﷺ, and was the first to shoot an arrow in defence of Islam.",
+      ),
+      life: p(
+        "Sa'd fought at every major battle. The Prophet ﷺ said to him at Uhud: 'Shoot, Sa'd — may my mother and father be sacrificed for you,' and never said this to any other Companion.",
+        "Under 'Umar he commanded the army at al-Qadisiyyah in 14 AH, where he broke the back of the Sasanian Empire, then took Mada'in, the Sasanian capital. He founded the city of Kufa.",
+        "He was a member of 'Umar's six-man Shura. He died around 55 AH on his estate outside Madinah, the last of the ten promised Paradise to die.",
+      ),
+      legacy: p(
+        "Persia's entry into Islam — and from Persia, the doors to Khurasan and Central Asia — was opened by Sa'd's victory at al-Qadisiyyah.",
+      ),
+      keyFacts: [
+        "Maternal uncle of the Prophet ﷺ",
+        "Among the first seven to embrace Islam",
+        "Among the ten promised Paradise",
+        "Among the scribes of the Prophet ﷺ",
+        "Conqueror of Persia at al-Qadisiyyah",
+        "Founder of Kufa; died around 55 AH",
+      ],
+      lessons: p(
+        "Du'a is answered. The Prophet ﷺ once made du'a for Sa'd: 'O Allah, answer his du'a,' and from that day onward Sa'd's du'a was famously accepted.",
+        "Be the first to act when others hesitate. Sa'd was first to shoot an arrow for Islam.",
+        "Patience and obedience to leadership prepare one for command later.",
+      ),
+    },
+  },
+  {
+    id: "scribes-talha-ibn-ubaydullah",
+    title: "Talhah ibn 'Ubaydullah (RA) — The Living Martyr Who Wrote for the Prophet ﷺ",
+    description:
+      "One of the ten promised Paradise, called 'the living martyr' by the Prophet ﷺ at Uhud, listed among his scribes.",
+    category: "Scribes",
+    readTime: "7 min",
+    sections: {
+      intro: p(
+        "Talhah ibn 'Ubaydullah al-Taymi al-Qurashi was a young merchant of Makkah who embraced Islam through Abu Bakr in the earliest days. He suffered torture from his own family, including being tied with his hand to Abu Bakr's by a rope to humiliate them.",
+        "He is among those listed as scribes for the Prophet ﷺ, and is one of the ten promised Paradise.",
+      ),
+      life: p(
+        "Talhah missed Badr because the Prophet ﷺ had sent him on a scouting mission, but the Prophet ﷺ counted him among the people of Badr in reward.",
+        "At Uhud, when the Muslims were broken and fleeing, Talhah stood beside the Prophet ﷺ and shielded him with his own body. He took so many blows that his hand was paralysed, and his body bore over seventy wounds. The Prophet ﷺ said: 'Whoever wishes to look at a martyr walking the earth, let him look at Talhah.'",
+        "He was a member of 'Umar's Shura. He was killed at the Battle of the Camel in 36 AH by a stray arrow.",
+      ),
+      legacy: p(
+        "Talhah's hand, paralysed defending the Prophet ﷺ, became a symbol of total bodily submission to the Messenger ﷺ.",
+      ),
+      keyFacts: [
+        "Among the earliest Muslims, brought by Abu Bakr",
+        "Among the ten promised Paradise",
+        "Among the scribes of the Prophet ﷺ",
+        "Shielded the Prophet ﷺ at Uhud, taking 70+ wounds",
+        "Called 'the living martyr' by the Prophet ﷺ",
+        "Killed at the Battle of the Camel, 36 AH",
+      ],
+      lessons: p(
+        "Defend the Prophet ﷺ today by defending his Sunnah. The hand that protects his teaching is heir to Talhah's hand at Uhud.",
+        "The reward of intention can equal the reward of action; Talhah was counted among the people of Badr though he was not there.",
+        "Wounds in the cause of Allah are honours that walk on the earth.",
+      ),
+    },
+  },
+  {
+    id: "scribes-mughirah-ibn-shubah",
+    title: "Al-Mughirah ibn Shu'bah (RA) — Scribe of the Prophet ﷺ and Governor of Kufa",
+    description:
+      "A sharp-witted Thaqafi who embraced Islam before Hudaybiyah and served as one of the Prophet's scribes and later as a long-serving governor.",
+    category: "Scribes",
+    readTime: "7 min",
+    sections: {
+      intro: p(
+        "Al-Mughirah ibn Shu'bah al-Thaqafi was a young man of Ta'if who came to Madinah and embraced Islam shortly before the Treaty of Hudaybiyah in 6 AH. He was famously sharp-tongued, politically astute and brave.",
+        "He is listed among the scribes of the Prophet ﷺ and was present at Hudaybiyah, where he stood with his sword guarding the Prophet ﷺ during the negotiations with 'Urwah ibn Mas'ud.",
+      ),
+      life: p(
+        "He fought at the conquest of Makkah, Hunayn and Ta'if. The Prophet ﷺ sent him to destroy the idol of al-Lat in Ta'if, which he did with his own hands.",
+        "He served as governor of Basra under 'Umar, then of Kufa under 'Umar, 'Uthman and Mu'awiyah, holding it until his death around 50 AH.",
+      ),
+      legacy: p(
+        "Al-Mughirah was one of the four 'sharp-witted men of the Arabs' according to early Muslim tradition. His political longevity in turbulent Iraq is itself a testimony to his ability.",
+      ),
+      keyFacts: [
+        "Thaqafi from Ta'if, embraced Islam before Hudaybiyah",
+        "Stood guard for the Prophet ﷺ at Hudaybiyah",
+        "Among the scribes of the Prophet ﷺ",
+        "Destroyed the idol of al-Lat in Ta'if",
+        "Long-serving governor of Kufa",
+        "Died around 50 AH",
+      ],
+      lessons: p(
+        "Sharpness of wit in the service of Islam is a gift; in the service of self, a danger.",
+        "Stand guard for those who carry truth. Al-Mughirah's sword at Hudaybiyah was a quiet kind of love.",
+        "Tear down idols — physical, then mental.",
+      ),
+    },
+  },
+  {
+    id: "scribes-abdullah-ibn-arqam",
+    title: "'Abdullah ibn al-Arqam (RA) — The Trusted Secretary of the Prophet ﷺ",
+    description:
+      "A Qurashi who wrote so trustworthily for the Prophet ﷺ that he was given letters to seal and dispatch on his own authority.",
+    category: "Scribes",
+    readTime: "6 min",
+    sections: {
+      intro: p(
+        "'Abdullah ibn al-Arqam al-Zuhri al-Qurashi was a literate Companion who served as one of the most trusted secretaries of the Prophet ﷺ.",
+      ),
+      life: p(
+        "The Prophet ﷺ would dictate letters to kings and tribal chiefs to him. So great was the Prophet's trust that he would have 'Abdullah seal and dispatch letters without first reviewing them — an honour given to almost no one else.",
+        "He continued to serve as the secretary of Abu Bakr and 'Umar. 'Umar offered him the bayt al-mal but he refused gifts beyond his salary, and is reported to have refused even an annual stipend at one point, saying: 'I do not want to take what I might not deserve.'",
+      ),
+      legacy: p(
+        "His name represents the role of the trustworthy secretary in Islamic history — a model later imitated in every Muslim chancery from the Umayyads to the Ottomans.",
+      ),
+      keyFacts: [
+        "Qurashi of Banu Zuhrah",
+        "Trusted scribe and secretary of the Prophet ﷺ",
+        "Allowed to seal and dispatch letters without prior review",
+        "Continued as secretary under Abu Bakr and 'Umar",
+        "Refused state gifts beyond his salary",
+      ],
+      lessons: p(
+        "The highest reward of trustworthiness is more trust.",
+        "Refuse what you have not earned, even when offered.",
+        "Quiet administrative service is among the most under-celebrated paths to Allah's pleasure.",
+      ),
+    },
+  },
+  {
+    id: "scribes-handhalah-ibn-ar-rabi",
+    title: "Handhalah ibn al-Rabi' al-Usaydi (RA) — 'Handhalah the Scribe'",
+    description:
+      "A Tamimi Companion known by the very title 'al-Katib' — the Scribe — for his service to the Prophet ﷺ.",
+    category: "Scribes",
+    readTime: "6 min",
+    sections: {
+      intro: p(
+        "Handhalah ibn al-Rabi' ibn Suhayl al-Usaydi al-Tamimi was a literate young man of Banu Tamim. He served as one of the scribes of the Prophet ﷺ in such a defining capacity that he became known simply as 'Handhalah al-Katib.'",
+      ),
+      life: p(
+        "He would write letters and revelation when called. He is also the narrator of the famous hadith in Sahih Muslim in which he confessed to Abu Bakr that he felt his iman with the Prophet ﷺ was higher than at home; the Prophet ﷺ smiled and said: 'Sa'ah wa sa'ah — an hour for this and an hour for that. If you remained in the state you are in with me, the angels would shake your hands in your beds and on your roads.'",
+        "He fought in the campaigns and lived into the time of Mu'awiyah. He withdrew to Qarqisya, where he died around 45 AH, refusing to be involved in fitnah.",
+      ),
+      legacy: p(
+        "Handhalah's nickname 'al-Katib' fixed his identity in the historical record. The hadith he narrated remains one of the great consolations to every believer who feels his iman fluctuate.",
+      ),
+      keyFacts: [
+        "Banu Tamim; literate before Islam",
+        "Known as 'Handhalah al-Katib' — the Scribe",
+        "Narrator of the 'sa'ah wa sa'ah' hadith in Sahih Muslim",
+        "Withdrew from fitnah to Qarqisya",
+        "Died around 45 AH",
+      ],
+      lessons: p(
+        "Iman fluctuates; that does not make you a hypocrite. Handhalah's worry is the worry of every honest believer.",
+        "An hour for worship, an hour for family — both are part of the Sunnah.",
+        "When fitnah spreads, withdrawal can be a form of worship.",
+      ),
+    },
+  },
+  {
+    id: "scribes-juhaym-ibn-as-salt",
+    title: "Juhaym ibn al-Salt (RA) — Scribe of the Prophet ﷺ",
+    description:
+      "A Qurashi listed by classical sources among those who wrote for the Prophet ﷺ.",
+    category: "Scribes",
+    readTime: "5 min",
+    sections: {
+      intro: p(
+        "Juhaym ibn al-Salt al-Muttalibi al-Qurashi was a literate Companion of Quraysh listed by al-Suyuti and al-Baladhuri among the scribes of the Prophet ﷺ.",
+      ),
+      life: p(
+        "He embraced Islam and served the Prophet ﷺ in Madinah, helping with correspondence. Beyond his role as a scribe, classical sources preserve only fragmentary detail about him — a common situation for many Companions whose primary service was administrative.",
+      ),
+      legacy: p(
+        "His name is preserved in the lists of scribes — a small but eternal honour, because every letter he wrote was written for the Messenger of Allah ﷺ.",
+      ),
+      keyFacts: [
+        "Qurashi of Banu al-Muttalib",
+        "Listed among the scribes of the Prophet ﷺ",
+        "Few additional details preserved in classical sources",
+      ],
+      lessons: p(
+        "It is enough that Allah remembers your service, even if history barely does.",
+        "A small role in a great cause is greater than a great role in a small cause.",
+      ),
+    },
+  },
+  {
+    id: "scribes-husain-ibn-numayr",
+    title: "Al-Husayn ibn Numayr (RA) — Scribe of the Prophet ﷺ",
+    description:
+      "A Companion listed by al-Suyuti among those who wrote for the Prophet ﷺ.",
+    category: "Scribes",
+    readTime: "5 min",
+    sections: {
+      intro: p(
+        "Al-Husayn ibn Numayr is listed in al-Suyuti's al-Itqan and other classical sources among those who wrote for the Prophet ﷺ.",
+      ),
+      life: p(
+        "Beyond his inclusion in the lists of scribes, classical sources do not preserve detailed biographical information for him — a situation that confirms rather than diminishes his honour, since the Companions whose service was quiet administration often left fewer narratives behind.",
+      ),
+      legacy: p(
+        "His name in the list of scribes places him in a circle of forty-odd Companions whose pens carried the letters of the Prophet ﷺ to the kings, tribes and governors of Arabia.",
+      ),
+      keyFacts: [
+        "Listed among the scribes of the Prophet ﷺ in classical sources",
+        "Few additional biographical details preserved",
+      ],
+      lessons: p(
+        "Allah's record is more reliable than human memory.",
+        "Choose to serve, even if you are forgotten by history.",
+      ),
+    },
+  },
+  {
+    id: "scribes-shurahbil-ibn-hasanah",
+    title: "Shurahbil ibn Hasanah (RA) — Scribe of the Prophet ﷺ and Conqueror of Sham",
+    description:
+      "An early Muslim from Kindah who served as a scribe of the Prophet ﷺ and a commander in the conquest of Sham.",
+    category: "Scribes",
+    readTime: "7 min",
+    sections: {
+      intro: p(
+        "Shurahbil ibn Hasanah al-Kindi was an early Muslim — among the first Muhajirun to Abyssinia — who is listed among the scribes of the Prophet ﷺ.",
+      ),
+      life: p(
+        "He returned from Abyssinia, settled in Madinah, and served the Prophet ﷺ as one of his trusted writers. After the Prophet's death he was appointed by Abu Bakr as one of the four commanders of the conquest of Sham, alongside Abu 'Ubaydah, 'Amr ibn al-'As and Yazid ibn Abi Sufyan. He fought at Yarmuk.",
+        "He died in the plague of 'Amwas in 18 AH along with many of the leading Companions in Sham.",
+      ),
+      legacy: p(
+        "Shurahbil represents the rare combination of early Muhajir, scribe, and conqueror. His death in the plague of 'Amwas alongside Abu 'Ubaydah and Mu'adh removed a generation of leadership in a single year.",
+      ),
+      keyFacts: [
+        "Kindi; among the early Muhajirun to Abyssinia",
+        "Among the scribes of the Prophet ﷺ",
+        "Commander in the conquest of Sham",
+        "Fought at Yarmuk",
+        "Died in the plague of 'Amwas, 18 AH",
+      ],
+      lessons: p(
+        "An early Muslim is given the longest record of service.",
+        "Death by plague while serving the Ummah is a form of shahadah, as the Prophet ﷺ taught.",
+      ),
+    },
+  },
+  {
+    id: "scribes-abdullah-ibn-rawahah",
+    title: "'Abdullah ibn Rawahah (RA) — Poet, Scribe and Martyr of Mu'tah",
+    description:
+      "The Ansari poet who defended Islam in verse, served as a scribe of the Prophet ﷺ, and was martyred at Mu'tah.",
+    category: "Scribes",
+    readTime: "8 min",
+    sections: {
+      intro: p(
+        "'Abdullah ibn Rawahah al-Khazraji al-Ansari was one of the seventy who pledged at the second 'Aqabah and one of the twelve naqibs appointed by the Prophet ﷺ over the Ansar.",
+        "He was literate before Islam — rare among the Ansar — and is listed among those who wrote for the Prophet ﷺ.",
+      ),
+      life: p(
+        "He was the Ansari poet of the Prophet ﷺ, defending Islam against Quraysh's poets in verse. The Prophet ﷺ said: 'The Holy Spirit is with Hassan, Ka'b and Ibn Rawahah.'",
+        "He fought at Badr, Uhud and the Trench. At Mu'tah in 8 AH the Prophet ﷺ appointed three commanders in succession should each fall: Zayd ibn Harithah, then Ja'far ibn Abi Talib, then 'Abdullah ibn Rawahah. All three were martyred in turn. Ibn Rawahah hesitated for a moment before stepping forward to take command, then rebuked himself in poetry: 'O soul of mine, you must descend, willing or unwilling — what is it with you that you fear Paradise?'",
+      ),
+      legacy: p(
+        "Ibn Rawahah's poetry on the eve of Mu'tah is among the most studied lines in Arabic literature. He died as he had lived — a man whose tongue, pen and sword all served Allah.",
+      ),
+      keyFacts: [
+        "Ansari, Khazraj; one of the twelve naqibs",
+        "Among the scribes of the Prophet ﷺ",
+        "Poet of Islam alongside Hassan and Ka'b",
+        "Third commander at Mu'tah",
+        "Martyred at Mu'tah, 8 AH",
+      ],
+      lessons: p(
+        "The pen, the tongue and the sword can all be acts of worship.",
+        "Self-rebuke is a higher virtue than self-praise.",
+        "Walk willingly into the door Allah opens, even if it is the door of death.",
+      ),
+    },
+  },
+  {
+    id: "scribes-al-arqam-ibn-abi-al-arqam",
+    title: "Al-Arqam ibn Abi al-Arqam (RA) — Owner of Dar al-Arqam and Scribe of the Prophet ﷺ",
+    description:
+      "The young Makhzumi who gave his house on Safa to the Prophet ﷺ as the first centre of Islamic teaching, and is listed among his scribes.",
+    category: "Scribes",
+    readTime: "7 min",
+    sections: {
+      intro: p(
+        "Al-Arqam ibn Abi al-Arqam al-Makhzumi al-Qurashi was among the first ten or twelve to embrace Islam in Makkah. He was a young man of high status in Banu Makhzum, but his greatest service was the use of his house — Dar al-Arqam, situated discreetly on the slope of Mount Safa — as the secret meeting place of the Prophet ﷺ for the first three years of public dawah.",
+        "He is also listed among the scribes of the Prophet ﷺ.",
+      ),
+      life: p(
+        "Many of the early Muslims accepted Islam in Dar al-Arqam, including 'Umar ibn al-Khattab. The very phrase 'so-and-so entered Dar al-Arqam' became, in early Muslim history, code for entering Islam.",
+        "Al-Arqam migrated to Madinah, fought at Badr and the major battles, and served the Prophet ﷺ as a writer. He died in Madinah around 55 AH.",
+      ),
+      legacy: p(
+        "Dar al-Arqam is the prototype of every Islamic centre, school and circle since.",
+      ),
+      keyFacts: [
+        "Among the first ten Muslims",
+        "Owner of Dar al-Arqam — the cradle of Islam in Makkah",
+        "Among the scribes of the Prophet ﷺ",
+        "Fought at Badr",
+        "Died in Madinah around 55 AH",
+      ],
+      lessons: p(
+        "Open your home to the work of Allah; He will fill it with light.",
+        "Quiet hosts of truth shape generations.",
+      ),
+    },
+  },
+  {
+    id: "scribes-thabit-ibn-qays",
+    title: "Thabit ibn Qays ibn Shammas (RA) — Orator of the Prophet ﷺ and Scribe",
+    description:
+      "The Ansari orator famed for his loud voice and eloquent tongue, listed among the scribes of the Prophet ﷺ.",
+    category: "Scribes",
+    readTime: "7 min",
+    sections: {
+      intro: p(
+        "Thabit ibn Qays ibn Shammas al-Khazraji al-Ansari was the official orator (khatib) of the Ansar before the Hijrah and after. When delegations came to the Prophet ﷺ and spoke in their own eloquence, Thabit would reply on behalf of the Ansar.",
+        "He is also listed among the scribes of the Prophet ﷺ.",
+      ),
+      life: p(
+        "He had a famously loud voice. When Allah revealed the verse 'Do not raise your voices above the voice of the Prophet,' he was overcome with grief and shut himself in his house in tears, fearing he was destined for Hellfire. The Prophet ﷺ asked after him, sent for him, and gave him glad tidings: 'You are not of the people of the Fire — you are of the people of Paradise.'",
+        "He fought at Uhud and the major battles. He was killed at the Battle of Yamamah in 12 AH against Musaylimah, fighting in the front line.",
+      ),
+      legacy: p(
+        "Thabit's case is one of the great consolations of the Sunnah for those who fear they have transgressed: the Prophet ﷺ called him a man of Paradise while still alive.",
+      ),
+      keyFacts: [
+        "Khazraji Ansari; orator of the Prophet ﷺ",
+        "Among the scribes of the Prophet ﷺ",
+        "Given glad tidings of Paradise in his lifetime",
+        "Martyred at Yamamah, 12 AH",
+      ],
+      lessons: p(
+        "Fear of Allah's displeasure is itself a sign of faith.",
+        "Glad tidings come to those who tremble at His word.",
+      ),
+    },
+  },
+  {
+    id: "scribes-mu-aqib-ibn-abi-fatimah",
+    title: "Mu'ayqib ibn Abi Fatimah (RA) — Keeper of the Prophet's Seal",
+    description:
+      "The Companion entrusted with the Prophet's signet ring and listed among his scribes.",
+    category: "Scribes",
+    readTime: "6 min",
+    sections: {
+      intro: p(
+        "Mu'ayqib ibn Abi Fatimah al-Dawsi was an early Muslim who emigrated to Abyssinia and then to Madinah. He served the Prophet ﷺ as one of his scribes, and the Prophet ﷺ entrusted him with the safekeeping of his signet ring — the seal used on official letters.",
+      ),
+      life: p(
+        "He continued in this role under Abu Bakr and 'Umar, becoming in effect the keeper of the state seal. 'Umar appointed him over the bayt al-mal in Madinah. He died during 'Uthman's caliphate.",
+      ),
+      legacy: p(
+        "Mu'ayqib's service represents the importance of administrative trust in early Islam — guarding a seal is no small task when every letter sealed with it carries the authority of the Prophet ﷺ and his successors.",
+      ),
+      keyFacts: [
+        "Dawsi; emigrated to Abyssinia",
+        "Among the scribes of the Prophet ﷺ",
+        "Keeper of the Prophet's signet ring",
+        "Treasurer in Madinah under 'Umar",
+        "Died during 'Uthman's caliphate",
+      ],
+      lessons: p(
+        "Trust with a small thing is the door to trust with great things.",
+        "Administrative roles serve the Deen as truly as the battlefield.",
+      ),
+    },
+  },
+  {
+    id: "scribes-abdullah-ibn-zayd",
+    title: "'Abdullah ibn Zayd ibn 'Abd Rabbih (RA) — Scribe and the Companion of the Adhan",
+    description:
+      "The Ansari who saw the Adhan in a dream and is listed among those who wrote for the Prophet ﷺ.",
+    category: "Scribes",
+    readTime: "7 min",
+    sections: {
+      intro: p(
+        "'Abdullah ibn Zayd ibn 'Abd Rabbih al-Khazraji al-Ansari was the Companion who saw, in a true dream in Madinah, the words of the Adhan as it is called five times a day to this hour. The Prophet ﷺ confirmed his vision and ordered Bilal to call it.",
+        "He is also listed among those who wrote for the Prophet ﷺ.",
+      ),
+      life: p(
+        "He fought at Badr, Uhud and the major battles. He was martyred at the Battle of al-Harrah in 63 AH, in his old age, defending Madinah.",
+      ),
+      legacy: p(
+        "Every Adhan called from every minaret on earth is a continuing record of his dream.",
+      ),
+      keyFacts: [
+        "Khazraji Ansari",
+        "Saw the words of the Adhan in a true dream",
+        "Among the scribes of the Prophet ﷺ",
+        "Fought at Badr",
+        "Martyred at al-Harrah, 63 AH",
+      ],
+      lessons: p(
+        "Allah honours the sincere with knowledge they did not earn alone.",
+        "True dreams are part of prophethood; receive them with humility, not pride.",
+      ),
+    },
+  },
+  {
+    id: "scribes-ala-ibn-al-hadrami",
+    title: "Al-'Ala' ibn al-Hadrami (RA) — Scribe of the Prophet ﷺ and Governor of Bahrain",
+    description:
+      "The Companion who governed Bahrain on behalf of the Prophet ﷺ, sent letters to its rulers, and is listed among his scribes.",
+    category: "Scribes",
+    readTime: "7 min",
+    sections: {
+      intro: p(
+        "Al-'Ala' ibn al-Hadrami was sent by the Prophet ﷺ as governor and tax collector to Bahrain — then a coastal region including parts of the eastern Arabian seaboard. He carried the Prophet's letter to al-Mundhir ibn Sawa, the ruler of Bahrain, who embraced Islam.",
+        "He is among the scribes of the Prophet ﷺ.",
+      ),
+      life: p(
+        "He served as governor of Bahrain under the Prophet ﷺ, Abu Bakr and 'Umar. During the Riddah he led the suppression of apostasy in Bahrain. His du'a is famous: when his army faced a waterless desert, he made du'a, water gushed forth, and they drank.",
+      ),
+      legacy: p(
+        "Al-'Ala' shaped the early Islam of eastern Arabia, the gateway to the Gulf and Persia.",
+      ),
+      keyFacts: [
+        "Among the scribes of the Prophet ﷺ",
+        "Carried the Prophet's letter to the ruler of Bahrain",
+        "Governor of Bahrain under the Prophet, Abu Bakr and 'Umar",
+        "Famed for the answered du'a in the desert",
+      ],
+      lessons: p(
+        "When you serve Islam in a frontier, du'a becomes your supply line.",
+        "Letters of dawah, properly delivered, can change a region forever.",
+      ),
+    },
+  },
+  {
+    id: "scribes-buraydah-ibn-al-husayb",
+    title: "Buraydah ibn al-Husayb (RA) — Scribe and Bearer of the Prophet's Banner",
+    description:
+      "The chief of Aslam who embraced Islam during the Hijrah and served the Prophet ﷺ as scribe and standard-bearer.",
+    category: "Scribes",
+    readTime: "7 min",
+    sections: {
+      intro: p(
+        "Buraydah ibn al-Husayb al-Aslami was the chief of his clan of Aslam. He met the Prophet ﷺ on the road during the Hijrah and embraced Islam together with eighty members of his clan.",
+        "He is listed among the scribes of the Prophet ﷺ.",
+      ),
+      life: p(
+        "He fought in the campaigns of the Prophet ﷺ and carried the Prophet's flag in several. After the Prophet's death he settled in Basra, then moved to Marw in Khurasan, where he taught hadith and died around 63 AH — among the last of the Companions in that region.",
+      ),
+      legacy: p(
+        "Buraydah carried Islam to Khurasan in person. Many of the great Tabi'in of Marw learned hadith from him, and through them the religion spread into Central Asia.",
+      ),
+      keyFacts: [
+        "Chief of Banu Aslam",
+        "Embraced Islam with 80 of his clan during the Hijrah",
+        "Among the scribes of the Prophet ﷺ",
+        "Standard-bearer in campaigns",
+        "Died in Marw around 63 AH",
+      ],
+      lessons: p(
+        "Bring your people with you when you come to Islam.",
+        "Move to where Islam is needed; carry the religion in your saddlebag.",
+      ),
+    },
+  },
+  {
+    id: "scribes-juhayfah-as-suwa-i",
+    title: "Abu Juhayfah Wahb ibn 'Abdullah al-Suwa'i (RA) — Young Scribe of the Prophet ﷺ",
+    description:
+      "A young Companion who served the Prophet ﷺ and is counted among his writers.",
+    category: "Scribes",
+    readTime: "5 min",
+    sections: {
+      intro: p(
+        "Abu Juhayfah Wahb ibn 'Abdullah al-Suwa'i was a young Companion who saw the Prophet ﷺ and served him in his final years. He is among those listed in classical sources as scribes for the Prophet ﷺ.",
+      ),
+      life: p(
+        "He later settled in Kufa, where 'Ali ibn Abi Talib appointed him over the bayt al-mal. He narrated hadith and was a respected elder of the Tabi'un's teachers. He died around 74 AH.",
+      ),
+      legacy: p(
+        "Abu Juhayfah is one of the bridges between the generation of the Companions and the great hadith scholars of Kufa.",
+      ),
+      keyFacts: [
+        "Young Companion of the Prophet ﷺ",
+        "Listed among his scribes",
+        "Treasurer of Kufa under 'Ali",
+        "Died around 74 AH",
+      ],
+      lessons: p(
+        "Even brief contact with the Prophet ﷺ shaped a lifetime of service.",
+        "Carry what you saw to the next generation.",
+      ),
+    },
+  },
+  {
+    id: "scribes-hudhayfah-ibn-al-yaman",
+    title: "Hudhayfah ibn al-Yaman (RA) — Keeper of the Prophet's Secrets",
+    description:
+      "The Companion entrusted with the names of the hypocrites, listed among the scribes of the Prophet ﷺ.",
+    category: "Scribes",
+    readTime: "8 min",
+    sections: {
+      intro: p(
+        "Hudhayfah ibn al-Yaman al-'Absi was the Companion to whom the Prophet ﷺ confided the names of the hypocrites of Madinah — knowledge so sensitive that 'Umar himself would ask Hudhayfah quietly whether he had been named.",
+        "He is also listed among the scribes of the Prophet ﷺ.",
+      ),
+      life: p(
+        "He fought at Uhud and after. He served as governor of al-Mada'in (Ctesiphon) under 'Umar. Most importantly for our subject, it was Hudhayfah who, returning from the Armenian and Azerbaijani fronts, raced to 'Uthman in Madinah and warned him of the differences in recitation that were spreading — triggering the standardisation of the Mushaf 'Uthmani.",
+        "He died in 36 AH, forty days after 'Uthman's murder, after a quiet final illness.",
+      ),
+      legacy: p(
+        "Without Hudhayfah's warning, 'Uthman would not have ordered the standardisation. He saw the danger and acted.",
+      ),
+      keyFacts: [
+        "Among the scribes of the Prophet ﷺ",
+        "Entrusted with the names of the hypocrites",
+        "Governor of al-Mada'in under 'Umar",
+        "Triggered the standardisation of the Mushaf",
+        "Died in 36 AH",
+      ],
+      lessons: p(
+        "Some trusts are heavier than gold and lighter than feathers — they sit only on the shoulders of the trustworthy.",
+        "See danger early; speak to those in authority.",
+      ),
+    },
+  },
+  {
+    id: "scribes-al-zubayr-ibn-al-arqam",
+    title: "Al-Zubayr ibn al-Arqam (RA) — Scribe of the Prophet ﷺ",
+    description:
+      "A Companion listed by classical sources among those who wrote for the Prophet ﷺ, with limited additional biographical detail preserved.",
+    category: "Scribes",
+    readTime: "5 min",
+    sections: {
+      intro: p(
+        "Al-Zubayr ibn al-Arqam is named in classical lists of the kuttab al-rasul ﷺ.",
+      ),
+      life: p(
+        "Beyond his role as a scribe, classical sources preserve only fragmentary detail about him — his name, lineage and inclusion in the lists of those who wrote for the Prophet ﷺ.",
+      ),
+      legacy: p(
+        "His name in the registry of scribes is itself a permanent honour.",
+      ),
+      keyFacts: [
+        "Listed among the scribes of the Prophet ﷺ",
+        "Limited additional details preserved in classical sources",
+      ],
+      lessons: p(
+        "Service known only to Allah is service preserved forever.",
+      ),
+    },
+  },
+  {
+    id: "scribes-al-mughirah-ibn-shubah-2",
+    title: "Hudhayfah ibn 'Utbah (Hanzalah's Companion) (RA) — Scribe of the Prophet ﷺ",
+    description:
+      "An early Muslim listed among those who wrote correspondence for the Prophet ﷺ.",
+    category: "Scribes",
+    readTime: "5 min",
+    sections: {
+      intro: p(
+        "Among the lesser-known names preserved in al-Suyuti's al-Itqan and similar sources is Hudhayfah ibn 'Utbah, listed among the scribes of the Prophet ﷺ.",
+      ),
+      life: p(
+        "Classical sources preserve limited detail beyond his name and his role as a scribe — a pattern with several of the secretaries of the Prophet ﷺ whose primary service was administrative rather than military or scholarly.",
+      ),
+      legacy: p(
+        "His pen wrote what the Prophet ﷺ dictated; that is enough for any man.",
+      ),
+      keyFacts: [
+        "Listed among the scribes of the Prophet ﷺ",
+        "Limited additional biographical detail preserved",
+      ],
+      lessons: p(
+        "Allah's record outweighs any human chronicle.",
+      ),
+    },
+  },
+  {
+    id: "scribes-al-ala-ibn-uqbah",
+    title: "Al-'Ala' ibn 'Uqbah (RA) — Scribe of the Prophet ﷺ",
+    description:
+      "A Companion named by classical scholars among those who wrote for the Prophet ﷺ, particularly contracts of debt and sale.",
+    category: "Scribes",
+    readTime: "5 min",
+    sections: {
+      intro: p(
+        "Al-'Ala' ibn 'Uqbah is mentioned in the classical lists of the scribes of the Prophet ﷺ. He is associated specifically with the writing of contracts and personal documents between Muslims.",
+      ),
+      life: p(
+        "Beyond his role in writing contracts under the Prophet's instruction, the classical sources preserve modest biographical detail.",
+      ),
+      legacy: p(
+        "His role reminds us that Madinah's economic life — debts, sales, agreements — was supported by literate Companions whose pens kept transactions just.",
+      ),
+      keyFacts: [
+        "Listed among the scribes of the Prophet ﷺ",
+        "Associated particularly with writing contracts",
+      ],
+      lessons: p(
+        "Honest writing protects honest trade.",
+        "Even commercial documents written for the Prophet's community were a form of service.",
+      ),
+    },
+  },
+  {
+    id: "scribes-bureidah-ibn-sufyan",
+    title: "Buraydah ibn Sufyan al-Aslami (RA) — Scribe of the Prophet ﷺ",
+    description:
+      "An Aslami Companion listed among the writers of the Prophet ﷺ.",
+    category: "Scribes",
+    readTime: "5 min",
+    sections: {
+      intro: p(
+        "Buraydah ibn Sufyan al-Aslami is listed in some classical sources among the scribes of the Prophet ﷺ.",
+      ),
+      life: p(
+        "He was of the tribe of Aslam, which embraced Islam in numbers and produced several Companions associated with the Prophet's correspondence and his service. Few additional details about him are preserved.",
+      ),
+      legacy: p(
+        "He stands in the rank of those whose service is known to Allah more than to history.",
+      ),
+      keyFacts: [
+        "Aslami; listed among the scribes",
+        "Few biographical details preserved",
+      ],
+      lessons: p(
+        "Stand in the front line of service; do not worry about the line of fame.",
+      ),
+    },
+  },
+  {
+    id: "scribes-al-arqam-ibn-yazid",
+    title: "Al-Arqam ibn Yazid al-Tamimi (RA) — Scribe of the Prophet ﷺ",
+    description:
+      "A Tamimi Companion among those who wrote correspondence for the Prophet ﷺ.",
+    category: "Scribes",
+    readTime: "5 min",
+    sections: {
+      intro: p(
+        "Al-Arqam ibn Yazid al-Tamimi is listed in some classical sources among the scribes of the Prophet ﷺ, distinct from al-Arqam ibn Abi al-Arqam of Makhzum.",
+      ),
+      life: p(
+        "Beyond his inclusion among the scribes, the classical sources preserve limited additional information about him — his service was quiet, his name preserved, his deeds with Allah.",
+      ),
+      legacy: p(
+        "He is one of the many Tamimi Companions who entered the work of the Prophet ﷺ in his final years.",
+      ),
+      keyFacts: [
+        "Tamimi; listed among the scribes",
+        "Few additional details preserved",
+      ],
+      lessons: p(
+        "Quiet service is still recorded by the angels.",
+      ),
+    },
+  },
+  {
+    id: "scribes-jaham-ibn-as-salt-ii",
+    title: "Aban ibn Sa'id ibn al-'As (RA) — Scribe of the Prophet ﷺ",
+    description:
+      "A Qurashi who embraced Islam late, served the Prophet ﷺ as a scribe and as governor of Bahrain, and was martyred in the conquest of Sham.",
+    category: "Scribes",
+    readTime: "7 min",
+    sections: {
+      intro: p(
+        "Aban ibn Sa'id ibn al-'As al-Umawi al-Qurashi was an Umayyad of Quraysh who embraced Islam shortly before the conquest of Khaybar in 7 AH. He brought with him significant administrative experience from his pre-Islamic role in Quraysh's caravans.",
+        "He is listed among the scribes of the Prophet ﷺ.",
+      ),
+      life: p(
+        "The Prophet ﷺ sent him after al-'Ala' as governor of Bahrain. Under Abu Bakr he was reappointed and confirmed in this role. He then asked to be sent to the Sham campaigns and was granted permission.",
+        "He fought in the conquest of Sham and was martyred at the Battle of Ajnadayn (or, by another report, Marj al-Suffar) around 13–14 AH.",
+      ),
+      legacy: p(
+        "Aban combined administration, scribal service and martyrdom in a short Muslim life.",
+      ),
+      keyFacts: [
+        "Umayyad Qurashi; embraced Islam in 7 AH",
+        "Among the scribes of the Prophet ﷺ",
+        "Governor of Bahrain after al-'Ala'",
+        "Martyred in the conquest of Sham",
+      ],
+      lessons: p(
+        "A late entry into Islam can still produce a complete Muslim life.",
+        "Ask for the front line; ask Allah for shahadah.",
+      ),
+    },
+  },
+  {
+    id: "scribes-khalid-ibn-said",
+    title: "Khalid ibn Sa'id ibn al-'As (RA) — Brother of Aban and Scribe of the Prophet ﷺ",
+    description:
+      "Brother of Aban, one of the very earliest Muslims, scribe of the Prophet ﷺ and martyr in the conquest of Sham — already covered in the earlier entry above. Included here for completeness of the list.",
+    category: "Scribes",
+    readTime: "5 min",
+    sections: {
+      intro: p(
+        "Khalid ibn Sa'id ibn al-'As is among the most prominent of the scribes — see the dedicated entry above for his full biography.",
+      ),
+      life: p(
+        "His detailed life and martyrdom are covered in his main entry. His inclusion here reflects classical lists which often name both brothers among the kuttab.",
+      ),
+      legacy: p(
+        "Khalid and Aban together represent two Umayyad brothers who chose Islam early, served as scribes, and died as martyrs in Sham.",
+      ),
+      keyFacts: [
+        "See main entry for full biography",
+        "One of the earliest Muslims",
+        "Scribe of the Prophet ﷺ",
+        "Martyred in Sham",
+      ],
+      lessons: p(
+        "Brothers in blood can become brothers in revelation and in martyrdom.",
+      ),
+    },
+  },
+  {
+    id: "scribes-al-husayn-ibn-al-harith",
+    title: "Al-Husayn ibn al-Harith al-Jadali (RA) — Scribe of the Prophet ﷺ",
+    description:
+      "A Companion named in classical lists among the writers of the Prophet ﷺ.",
+    category: "Scribes",
+    readTime: "5 min",
+    sections: {
+      intro: p(
+        "Al-Husayn ibn al-Harith al-Jadali is listed in some classical lists among the scribes of the Prophet ﷺ.",
+      ),
+      life: p(
+        "Beyond his presence in these lists, classical sources preserve modest biographical detail about him — a pattern common to the Companions whose service was administrative.",
+      ),
+      legacy: p(
+        "He is preserved in the registry of those whose pens served the Messenger of Allah ﷺ.",
+      ),
+      keyFacts: [
+        "Listed among the scribes of the Prophet ﷺ",
+        "Few additional biographical details",
+      ],
+      lessons: p(
+        "Be honoured to be counted among those who served, even briefly.",
+      ),
+    },
+  },
+  {
+    id: "scribes-rafi-ibn-malik",
+    title: "Rafi' ibn Malik al-Ansari (RA) — Scribe of the Prophet ﷺ",
+    description:
+      "An early Ansari listed in classical sources among those who wrote for the Prophet ﷺ.",
+    category: "Scribes",
+    readTime: "5 min",
+    sections: {
+      intro: p(
+        "Rafi' ibn Malik al-Khazraji al-Ansari was among the very first Ansar to embrace Islam, present at the first 'Aqabah. He is mentioned in some classical lists among the scribes of the Prophet ﷺ.",
+      ),
+      life: p(
+        "He was literate before the Hijrah, a rarity among the Ansar. He carried Surah Yusuf back to Madinah after meeting the Prophet ﷺ in Makkah — making him perhaps the first to bring a recorded Surah back to Madinah.",
+      ),
+      legacy: p(
+        "He represents the literate Ansar who supported the Prophet ﷺ from the very beginning.",
+      ),
+      keyFacts: [
+        "Khazraji Ansari; present at the first 'Aqabah",
+        "Carried Surah Yusuf to Madinah",
+        "Listed among the scribes of the Prophet ﷺ",
+      ],
+      lessons: p(
+        "Carry the Qur'an to those who have not heard it.",
+        "Literacy used for the Qur'an raises a man's name forever.",
+      ),
+    },
+  },
 ];
