@@ -218,49 +218,4 @@ export const fourImamsStories: Story[] = [
       ],
     },
   },
-  {
-    id: "imam-al-bukhari",
-    title: "Imam al-Bukhari — The Sifter of a Million Hadith",
-    description:
-      "The young man from Bukhara who memorised hadith as a child, travelled the Muslim world for sixteen years, and produced the most authentic book after the Qur'an.",
-    category: "FourImams",
-    readTime: "10 min",
-    sections: {
-      intro: p(
-        "Muhammad ibn Isma'il ibn Ibrahim ibn al-Mughirah al-Ju'fi al-Bukhari was born in Bukhara on Friday after Jumu'ah, 13 Shawwal 194 AH (810 CE). His father Isma'il was a hadith scholar himself who had narrated from Hammad ibn Zayd and Malik ibn Anas. He died when Bukhari was very young, leaving the family a substantial inheritance and — as Bukhari later affirmed — only halal wealth. 'My father did not leave a single dirham of doubtful provenance,' he used to say.",
-        "His mother, a righteous and saintly woman whose name has not been preserved, raised him alone. As a small child he became blind. His mother wept and stood the nights in prayer. She saw the Prophet Ibrahim (AS) in a dream, who told her: 'Allah has restored your son's sight because of the abundance of your du'a.' He awoke seeing.",
-      ),
-      life: p(
-        "By the age of ten he had begun memorising hadith. By eleven he was sitting in the circles of the major scholars of Bukhara and correcting them publicly when they made mistakes in chains of narration — gently, but unmistakably. By sixteen he had memorised the books of 'Abdullah ibn al-Mubarak and Waki' ibn al-Jarrah. He travelled with his mother and brother to Makkah for hajj. After the season, he stayed behind in the Hijaz to study, sending his family home.",
-        "For the next sixteen years he travelled the Muslim world — Makkah, Madinah, Basra (four times), Kufa, Baghdad (eight times), Egypt, Syria, the Jazirah, Khurasan and back — collecting hadith from teachers wherever he could find them. He met around a thousand teachers in total. He memorised, by his own account, around one hundred thousand authentic hadith and two hundred thousand others (weak, da'if, with defects). His memory was so exact that he could recall not only the chain and the matn of a hadith but also the city, the sitting, the day and the position of the narrator on the carpet.",
-        "Once in Baghdad the muhaddithun decided to test him. They prepared one hundred hadith, deliberately mixed up the chains and matns — assigning the chain of one to the matn of another — and divided them among ten men, each given ten. Then they invited Bukhari to a public gathering. Each man rose in turn and read his ten hadith. As each one finished a hadith, Bukhari would say: 'I do not know it' or 'I do not know it.' When all ten men had finished — having recited a hundred mixed-up reports — Bukhari turned to the first man and said: 'As for your first hadith, the correct chain for that matn is such and such; the correct matn for that chain is such and such,' and went through every one of the hundred, restoring each chain to its proper matn and each matn to its proper chain. The hall fell silent. The leading scholars of Baghdad rose and acknowledged him as the imam of his age.",
-        "His project was unprecedented: to compile a book of only authentic hadith. Earlier hadith works mixed sahih, hasan and da'if. Bukhari set conditions stricter than any predecessor — every narrator in every chain must be of confirmed integrity, of confirmed memory, and there must be confirmed direct meeting (not merely the possibility of meeting) between every narrator and the one before him in the chain. He performed two rak'ahs of istikhara, with ghusl and perfume, before including a single hadith in his Sahih. He worked on it for sixteen years.",
-        "The result, al-Jami' al-Sahih (Sahih al-Bukhari), distilled around seven thousand reports (with repetitions; about two thousand and six hundred unique) from the six hundred thousand he had examined. Sunnis from his day to ours have called it the most authentic book on the face of the earth after the Qur'an.",
-        "He was tested at the end of his life. The governor of Bukhara, Khalid ibn Ahmad al-Dhuhli, wanted Bukhari to come to his palace and teach his children privately, and bring his Sahih and other works to him to be read in his court. Bukhari refused, saying: 'I will not humiliate knowledge, nor carry it to the doors of palaces. If he wishes to learn, let him come to my mosque or to my house. If he forbids me from teaching, my excuse is established before Allah on the Day of Resurrection.' The enraged governor turned the people against him with false accusations and finally exiled him. Bukhari left Bukhara with his family. He died alone in the small village of Khartank near Samarqand, on the night of Eid al-Fitr, 1 Shawwal 256 AH (870 CE), aged 62. He was overheard before his death making the du'a: 'O Allah, the earth has become narrow upon me with all its vastness; take me to You.'",
-      ),
-      legacy: p(
-        "Sahih al-Bukhari became the cornerstone of the Sunni hadith tradition. Every later collection — Muslim, the four Sunan, the books of takhrij — built on his methodology. The science of jarh wa ta'dil (narrator criticism) reached its first peak in his hands.",
-        "His standards in narrator criticism became the gold standard of the science of hadith. His refusal to compromise the dignity of knowledge in old age sealed his life with the same nobility with which he had begun it as a blind child whose mother prayed in the dark of Bukhara.",
-        "His mother's du'a in the dark of Bukhara restored his sight. His own du'a in the dark of exile gave the Ummah a book that has lit hearts ever since.",
-      ),
-      keyFacts: [
-        "Born 194 AH in Bukhara; died 256 AH (870 CE) near Samarqand",
-        "Author of Sahih al-Bukhari — most authentic book after the Qur'an",
-        "Travelled for 16 years collecting hadith from c. 1,000 teachers",
-        "Sifted around 600,000 reports to produce his Sahih",
-        "Lost and regained his sight in childhood through his mother's du'a",
-        "Two rak'ahs istikhara before including any hadith in the Sahih",
-        "Famously tested with 100 mixed hadith in Baghdad — and corrected every one",
-        "Died in exile after refusing to teach in a ruler's palace",
-      ],
-      lessons: [
-        "A mother's du'a in the night moves the affairs of the universe",
-        "Genius requires sixteen years of patient travel, not a clever shortcut",
-        "Knowledge must come to the seeker, not the seeker be servant to power",
-        "Verify before you believe, especially in matters of religion",
-        "End your life on the same principles you began it on",
-        "Ask Allah for guidance before every important decision — even the inclusion of a single hadith",
-      ],
-    },
-  },
 ];
