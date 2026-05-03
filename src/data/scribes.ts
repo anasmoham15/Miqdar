@@ -1373,7 +1373,6 @@ export const scribesStories: Story[] = [
       ),
     },
   },
-,
   {
     id: "scribes-hudhayfah-al-ansari",
     title: "Hanzalah ibn al-Rabi' (the Younger) (RA) — Scribe of the Prophet ﷺ",
