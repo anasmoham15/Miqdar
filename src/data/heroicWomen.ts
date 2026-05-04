@@ -274,4 +274,309 @@ export const heroicWomenStories: Story[] = [
       ),
     },
   },
+  {
+    id: "women-umm-haram",
+    title: "Umm Haram bint Milhan (RA) — The First Woman Martyr at Sea",
+    description:
+      "An Ansari woman whose dream the Prophet ﷺ confirmed: that she would sail with the first Muslim naval expedition — and she did, dying on the shores of Cyprus.",
+    category: "HeroicWomen",
+    readTime: "6 min",
+    sections: {
+      intro: p(
+        "Umm Haram bint Milhan al-Ansariyyah was the sister of Umm Sulaym and the maternal aunt of Anas ibn Malik. She was married to 'Ubadah ibn al-Samit, one of the great Ansari leaders and one of the twelve naqibs of the Second Pledge of al-'Aqabah.",
+        "She was among the women whose home the Prophet ﷺ used to visit and rest in when he passed through her area in Quba. Al-Bukhari records that he would enter her house, sleep, and she would sit beside him picking lice from his blessed head while he slept — an unusually close family relationship she enjoyed because she was a mahram to him through fosterage relations on his maternal side.",
+      ),
+      life: p(
+        "On one such visit, the Prophet ﷺ slept and then woke up smiling. Umm Haram asked: 'What makes you smile, O Messenger of Allah?' He said: 'A people of my ummah were shown to me, riding upon the sea like kings on thrones.'",
+        "She said: 'O Messenger of Allah, ask Allah to make me one of them.' He supplicated for her and slept again. He woke smiling a second time and gave the same answer. She asked the same question. He said: 'You are among the first.' (Bukhari, Muslim)",
+        "Decades later, in 27 AH (648 CE), in the caliphate of 'Uthman, Mu'awiya was given permission to launch the first Muslim naval expedition. He led the fleet to Cyprus. Umm Haram, by then an old woman, sailed with her husband 'Ubadah ibn al-Samit.",
+        "When they landed on Cyprus, a riding mule was brought for her. She mounted it; it threw her; she broke her neck and died on the shore. She was buried there. Her grave on Cyprus, known as the Tomb of Hala Sultan, became a famous site of pilgrimage and remains one of the most revered Islamic shrines in the eastern Mediterranean to this day.",
+      ),
+      legacy: p(
+        "Umm Haram is the first Muslim woman to die in a sea expedition for the cause of Allah. The Prophet's ﷺ prophecy was fulfilled in her with mathematical precision: she sailed with the first naval expedition, and she was 'among the first' martyrs of that frontier.",
+        "Her tomb on Cyprus remained, through twelve centuries of Byzantine and Latin and Ottoman rule, a symbol of how far the women of the Sahaba travelled — and where they were willing to be buried — for the sake of this religion.",
+      ),
+      keyFacts: [
+        "Sister of Umm Sulaym; aunt of Anas ibn Malik",
+        "Wife of 'Ubadah ibn al-Samit",
+        "The Prophet ﷺ prophesied she would sail with the first naval expedition",
+        "Sailed with Mu'awiya's expedition to Cyprus, 27 AH",
+        "Died and was buried on Cyprus — the Tomb of Hala Sultan",
+      ],
+      lessons: p(
+        "Ask the Prophet ﷺ — through his Sunnah — for the highest stations. She did not ask for safety; she asked to be of those riding the sea like kings.",
+        "A pious dream becomes a destination. She held the Prophet's ﷺ words in her heart for decades until she could enact them.",
+        "Old age does not exempt you from frontiers. She boarded a wooden ship across the Mediterranean as a grandmother.",
+        "Where you die for Allah is where you belong. A Madinan woman lies buried on a Cypriot beach because the call came and she answered.",
+      ),
+    },
+  },
+  {
+    id: "women-umm-ammarah-yamama",
+    title: "Umm 'Umarah at Yamama (RA) — The Old Woman Who Killed Musaylima's Champion",
+    description:
+      "Years after Uhud, the same Nusaybah bint Ka'b went out under Khalid ibn al-Walid to fight Musaylima the Liar — and lost her hand and her son in a single afternoon.",
+    category: "HeroicWomen",
+    readTime: "6 min",
+    sections: {
+      intro: p(
+        "After the death of the Prophet ﷺ in 11 AH, the false prophet Musaylima al-Kadhdhab gathered tens of thousands of the Banu Hanifah in Yamama and rebelled against the new Muslim state. Abu Bakr dispatched Khalid ibn al-Walid against him. Umm 'Umarah, already in her sixties and bearing the scars of Uhud, asked Abu Bakr's permission to go.",
+        "He granted it. She marched east with the army that would fight the bloodiest battle the Muslims had yet known.",
+      ),
+      life: p(
+        "Her son Habib ibn Zayd had been sent earlier as the Prophet's ﷺ envoy to Musaylima. Musaylima had captured him and demanded he testify that Musaylima was a prophet alongside Muhammad ﷺ. Habib refused. Musaylima cut off a piece of him; asked again; cut another piece; asked again. Habib died of his wounds, limb by limb, refusing to deny the Prophet ﷺ.",
+        "When Umm 'Umarah heard, she vowed she would either kill Musaylima herself or die trying.",
+        "At Yamama in 12 AH the two armies met in the bloodiest fighting Arabia had seen. Over 1,200 Muslims fell, including some seventy huffaz of the Qur'an. The battle turned in the orchard later called the Garden of Death, where the remaining Hanafis were trapped.",
+        "Umm 'Umarah fought beside her surviving son 'Abdullah and lost her hand to a sword stroke. She continued to fight one-handed. She and 'Abdullah pressed toward Musaylima. 'Abdullah is reported to have struck Musaylima alongside Wahshi ibn Harb (the Abyssinian who had killed Hamzah at Uhud and now redeemed his earlier deed by killing the false prophet). Sources differ over which of the three landed the killing blow; what is agreed is that Umm 'Umarah's family was at the centre of the fighting that ended Musaylima.",
+        "She returned to Madinah with eleven new wounds added to the thirteen of Uhud, missing a hand, and missing a son. Abu Bakr came to visit her and dressed her wounds himself.",
+      ),
+      legacy: p(
+        "Umm 'Umarah is the only woman in Islamic history known to have fought in pitched battle under both the Prophet ﷺ and the first Caliph, against both Quraysh and the Riddah.",
+        "Her family alone — herself, her two husbands, her four children — gave more wounds and more martyrs to the cause than entire tribes. The Prophet's ﷺ supplication, 'O Allah, make them my companions in Paradise,' was answered in this world by lives spent entirely in His service.",
+      ),
+      keyFacts: [
+        "Fought at Uhud (3 AH), Hudaybiyya (6 AH), Khaybar (7 AH), Hunayn (8 AH), and Yamama (12 AH)",
+        "Lost her hand at Yamama",
+        "Her son Habib was tortured to death by Musaylima for refusing to deny the Prophet ﷺ",
+        "Her son 'Abdullah was among those who killed Musaylima",
+        "Carried twenty-four battle wounds in her lifetime",
+      ],
+      lessons: p(
+        "Some families are entire armies. Make your household one of them.",
+        "Old age is no excuse. She fought in her sixties what younger men could not.",
+        "Avenge what the deen has lost, not what your ego has lost. Her vow was for the Prophet's ﷺ envoy, not for personal revenge.",
+        "Wounds heal; the cause endures. Twenty-four wounds were the price of a lifetime of nearness.",
+      ),
+    },
+  },
+  {
+    id: "women-safiyyah-bint-abd-al-muttalib",
+    title: "Safiyyah bint 'Abd al-Muttalib (RA) — Aunt of the Prophet, Killer of the Spy",
+    description:
+      "The paternal aunt of the Prophet ﷺ and full sister of Hamzah, who at Khandaq killed a Jewish spy with a tent pole when no man would defend the women's fort.",
+    category: "HeroicWomen",
+    readTime: "6 min",
+    sections: {
+      intro: p(
+        "Safiyyah bint 'Abd al-Muttalib was the daughter of 'Abd al-Muttalib, the paternal aunt of the Prophet ﷺ, and the full sister of Hamzah ibn 'Abd al-Muttalib. She was the mother of al-Zubayr ibn al-'Awwam — one of the ten promised Paradise and the Disciple (Hawari) of the Prophet ﷺ.",
+        "She was an early convert and migrated to Madinah. Strong-willed, physically powerful, and sharp of tongue — qualities she passed in full to her son al-Zubayr.",
+      ),
+      life: p(
+        "During the Battle of the Trench (Khandaq, 5 AH) the Muslim men were stationed at the trench facing the Confederate armies on the north of Madinah. The women and children were placed in the fortress of Hassan ibn Thabit (the poet) for protection.",
+        "Banu Qurayza, the Jewish tribe inside Madinah, had broken their treaty and joined the Confederates. They began sending scouts to assess the women's fort to see if it could be raided from inside the city while the men were pinned at the trench.",
+        "Safiyyah saw a Jewish man circling the fortress, examining its weak points. She went to Hassan ibn Thabit and said: 'Get up and kill this man. He is spying on us.' Hassan, a poet rather than a fighter, said: 'By Allah, O daughter of 'Abd al-Muttalib, that is not something I can do.'",
+        "Safiyyah took up a tent pole, went down, opened the gate, struck the spy on the head and killed him. She then returned to Hassan and said: 'Go down now and strip him of his weapons; I would have done it myself but he is a man and I am a woman.' Hassan, ashamed, refused even that.",
+        "She went down a second time, stripped the body of its weapons, and threw the head over the wall toward the Jewish positions. When Banu Qurayza saw the head they assumed the women's fort was defended by armed men. They sent no further raiding parties. The Madinan women were saved by one woman with a tent pole.",
+      ),
+      legacy: p(
+        "Safiyyah is one of the very few Muslim women in the Sira to have personally killed an enemy combatant in defence of the Muslim community. Her courage at Khandaq complemented her brother Hamzah's at Uhud — the same blood ran in both.",
+        "She lived into the caliphate of 'Umar and died in Madinah around 20 AH, aged over seventy. She was buried in al-Baqi'.",
+        "Her son al-Zubayr inherited her ferocity and became one of the foremost knights of the Sahaba — and her grandson 'Abdullah ibn al-Zubayr would become the caliph who ruled Makkah for nine years against the Umayyads.",
+      ),
+      keyFacts: [
+        "Paternal aunt of the Prophet ﷺ; full sister of Hamzah",
+        "Mother of al-Zubayr ibn al-'Awwam (one of the ten promised Paradise)",
+        "Killed a Jewish spy at Khandaq with a tent pole, 5 AH",
+        "Grandmother of the Caliph 'Abdullah ibn al-Zubayr",
+        "Died in Madinah c. 20 AH, buried in al-Baqi'",
+      ],
+      lessons: p(
+        "When men hesitate, the deen does not wait. Step forward.",
+        "Use what is in your hand. A tent pole became a weapon of strategic deception.",
+        "Defend the vulnerable before they realise they are in danger. She acted before the spy reported back.",
+        "Courage is inherited and cultivated. Her son and grandson built nations on what she demonstrated in one afternoon.",
+      ),
+    },
+  },
+  {
+    id: "women-umm-salama-political",
+    title: "Umm Salama (RA) at Hudaybiyya — The Counsel That Saved a Treaty",
+    description:
+      "The Mother of the Believers whose single piece of advice at Hudaybiyya broke a deadlock that nearly destroyed the Muslim camp.",
+    category: "HeroicWomen",
+    readTime: "6 min",
+    sections: {
+      intro: p(
+        "Hind bint Abi Umayyah, known as Umm Salama, was a Qurashi noblewoman of Makhzum. She was first married to Abu Salama 'Abdullah ibn 'Abd al-Asad, with whom she emigrated to Abyssinia and then to Madinah. After Abu Salama's death from a Uhud wound, the Prophet ﷺ married her in 4 AH.",
+        "She was among the most intelligent of the Mothers of the Believers — a woman of fiqh, of poise, and of remarkable political wisdom. She lived to be perhaps the last surviving wife of the Prophet ﷺ, dying around 61 AH, having seen the martyrdom of al-Husayn at Karbala.",
+      ),
+      life: p(
+        "In 6 AH the Prophet ﷺ took 1,400 Companions to Makkah for 'Umrah. Quraysh blocked them at al-Hudaybiyya. After tense negotiations the Treaty of Hudaybiyya was signed — its terms appearing to favour Quraysh. The Muslims were to turn back without 'Umrah and return the next year.",
+        "When the Prophet ﷺ finished signing he commanded the Companions: 'Stand up, sacrifice your animals, and shave your heads.' He had to repeat the command three times. Not a single Companion moved. They were so devastated by what looked like humiliation that they could not bring themselves to act.",
+        "The Prophet ﷺ entered the tent of Umm Salama greatly distressed. She listened, then said: 'O Messenger of Allah, do you want this? Go out, do not speak a word to anyone, sacrifice your camel, and call your barber to shave your head.'",
+        "He went out, sacrificed his camel without a word, and called Khirash to shave his head. The moment the Companions saw him acting, they leaped up — the dam broke — and they began sacrificing and shaving so quickly and so emotionally that, in the Prophet's ﷺ own words, 'they almost killed each other from grief'.",
+        "Umm Salama's counsel saved the day. The treaty held. Within two years the Conquest of Makkah was achieved as a direct consequence of Hudaybiyya. She was — at that moment — perhaps the single most strategically valuable advisor the Prophet ﷺ had.",
+        "She narrated 378 hadiths, taught fiqh in the Prophet's ﷺ Mosque after his death, and was consulted by 'A'isha and by senior Companions on matters of inheritance, divorce, and ritual.",
+      ),
+      legacy: p(
+        "Umm Salama is the standing proof that a woman's counsel can change the course of Muslim history. The Companions who would not move at the Prophet's ﷺ thrice-repeated command moved instantly because of one woman's sentence delivered behind a curtain.",
+        "She is also a model of the long-living Mother of the Believers — a teacher of generations, a legal authority of the highest rank, and a witness to almost the entire arc from the migration to Abyssinia to the tragedy of Karbala.",
+      ),
+      keyFacts: [
+        "Married the Prophet ﷺ in 4 AH after the death of Abu Salama",
+        "Migrated twice — to Abyssinia, then to Madinah",
+        "Her counsel resolved the Hudaybiyya impasse, 6 AH",
+        "Narrated 378 hadiths",
+        "Last surviving wife of the Prophet ﷺ; died c. 61 AH after Karbala",
+      ],
+      lessons: p(
+        "A wise woman's single sentence can do what a Prophet's repeated command cannot — Allah places hikma in unexpected places.",
+        "Lead by example before commanding. Her advice was: act, then they will follow.",
+        "Marry — and consult — women of intellect.",
+        "Long life is a station of teaching. Outliving the Prophet ﷺ by half a century, she became a portal of knowledge for two generations.",
+      ),
+    },
+  },
+  {
+    id: "women-umm-ayman",
+    title: "Umm Ayman (RA) — The Mother After His Mother",
+    description:
+      "Barakah al-Habashiyya, the Abyssinian nursemaid who raised the orphan Muhammad ﷺ from infancy, migrated twice, and whom he called 'my mother after my mother'.",
+    category: "HeroicWomen",
+    readTime: "7 min",
+    sections: {
+      intro: p(
+        "Barakah bint Tha'labah, known as Umm Ayman, was an Abyssinian (Habashi) slave-girl who belonged to the Prophet's ﷺ father 'Abdullah ibn 'Abd al-Muttalib. When 'Abdullah died, she became part of the household of the infant Muhammad ﷺ and his mother Aminah bint Wahb.",
+        "She accompanied Aminah and the six-year-old Muhammad ﷺ on their journey to visit his maternal uncles in Madinah. On the return journey Aminah died at al-Abwa'. It was Umm Ayman who held the orphan, dug what comfort she could from the desert, and brought him back to Makkah and to his grandfather 'Abd al-Muttalib.",
+      ),
+      life: p(
+        "She raised him through the rest of his childhood — through the death of 'Abd al-Muttalib two years later, through his transfer into the care of his uncle Abu Talib. The Prophet ﷺ used to say of her: 'Umm Ayman is my mother after my mother.' (Ibn Sa'd, Tabaqat)",
+        "She remained part of his household into adulthood. When he married Khadijah at twenty-five, he freed Umm Ayman as a wedding gift to his new household. She married 'Ubayd ibn Zayd of the Khazraj and later, after his death, married Zayd ibn Harithah — the Prophet's ﷺ adopted son — and bore him their son Usamah ibn Zayd, the beloved 'Hibb ibn al-Hibb' (beloved son of the beloved).",
+        "She accepted Islam in the very first wave. She made the Hijra to Abyssinia and then later the Hijra to Madinah — making her one of the rare women who made both migrations. She is among the small group called 'those who migrated to the two qiblahs'.",
+        "She fought at Uhud, carrying water and tending the wounded, and at Hunayn she stood firm beside the Prophet ﷺ when most of the army fled.",
+        "She narrated several hadiths, transmitted through her son Usamah and his descendants. The Prophet ﷺ used to visit her at her home and used to drink from a special cup she kept for him. He used to laugh at her broken Arabic — once she said 'al-Salam 'alayka' instead of 'al-Salam 'alaykum' and he gently corrected her with affection.",
+        "After his death she wept inconsolably. Abu Bakr and 'Umar came to visit her — they said: 'O Umm Ayman, why do you weep? What is with the Messenger of Allah ﷺ is better for him than what he has left behind.' She said: 'I do not weep because I do not know that. I weep because the revelation from heaven has been cut off from us.' They wept with her.",
+      ),
+      legacy: p(
+        "Umm Ayman is the woman behind the Prophet ﷺ in the most literal sense — present from his infancy, accompanying him on his mother's death, raising him, freed by him, marrying into his family, mothering one of his most beloved Companions, and outliving him to weep at the loss of revelation itself.",
+        "She died about six months into the caliphate of 'Uthman, around 24 AH, in Madinah. Her son Usamah commanded the army the Prophet ﷺ dispatched on his deathbed, and her bloodline, through Usamah and his descendants, remained honoured in the city of the Prophet ﷺ for generations.",
+        "She represents the principle that nobility in Islam is not by colour or by birth: an African slave-girl became 'mother' to the Final Messenger and a Mother of the Believers in everything but title.",
+      ),
+      keyFacts: [
+        "Abyssinian nursemaid in the Prophet's ﷺ father's household",
+        "Raised the Prophet ﷺ from infancy after his mother's death",
+        "Made both Hijras — to Abyssinia and to Madinah",
+        "Married Zayd ibn Harithah; mother of Usamah ibn Zayd",
+        "Wept at the cessation of revelation, not at the Prophet's ﷺ death itself",
+        "Died c. 24 AH in Madinah",
+      ],
+      lessons: p(
+        "Honour those who raised you — even after Allah has raised you above them.",
+        "Race and rank dissolve in the service of the deen. An African slave became 'mother' to the Final Messenger.",
+        "Two hijras, two battlefields, two husbands in the cause — a single life can carry the weight of an entire chapter.",
+        "Weep for the loss of guidance, not for the loss of presence. Her wisdom on the death of the Prophet ﷺ surpassed even Abu Bakr's and 'Umar's in that moment.",
+      ),
+    },
+  },
+  {
+    id: "women-shifa-bint-abdullah",
+    title: "Al-Shifa' bint 'Abdullah (RA) — The Literate Quraysh Woman 'Umar Made Inspector of the Market",
+    description:
+      "A Qurashi woman who taught the wives of the Prophet ﷺ to read and write, and whom 'Umar appointed to oversee the market of Madinah — perhaps the first Muslim woman to hold a public administrative post.",
+    category: "HeroicWomen",
+    readTime: "6 min",
+    sections: {
+      intro: p(
+        "Al-Shifa' bint 'Abdullah ibn 'Abd Shams was of the Banu 'Adi clan of Quraysh — the same clan as 'Umar ibn al-Khattab. Her real name was Layla; al-Shifa' ('the healer') was a nickname she earned from her skill in ruqyah (Qur'anic and prophetic incantation) for the bite of ants and snakes.",
+        "She was one of the very few women in pre-Islamic Quraysh who could read and write — a skill exceedingly rare among Arab women of that time, and rare even among the men.",
+      ),
+      life: p(
+        "She accepted Islam early in Makkah and migrated to Madinah. The Prophet ﷺ knew of her literacy and her knowledge of ruqyah. He came to her one day and said: 'Will you not teach Hafsa the ruqyah for ant-bite, just as you taught her writing?' (Abu Dawud)",
+        "She taught Hafsa bint 'Umar — the daughter of 'Umar and a wife of the Prophet ﷺ — both how to read and write and how to perform the ruqyah. The Prophet ﷺ used to visit her at her home and would sometimes nap in her house.",
+        "When 'Umar became caliph he showed her exceptional respect. He used to consult her, prefer her opinion, and visit her. He gave her a house in the market area of Madinah.",
+        "Then he did something unprecedented: he appointed her as muhtasibah — inspector of the market — with authority to oversee weights, measures, and trading practices. This made her arguably the first Muslim woman to hold a public administrative office in Islamic history. Some sources qualify the appointment but the core of it — that 'Umar entrusted her with public market oversight — is firmly attested in al-Qurtubi, Ibn Hajar's Isabah, and Ibn al-Athir's Usd al-Ghabah.",
+        "She continued to teach women to write throughout her life. The line of literate women in Madinah — through Hafsa, 'A'isha, and others — passed in part through her hand.",
+      ),
+      legacy: p(
+        "Al-Shifa' is the proof that the early Muslim community recognised, valued, and publicly empowered female literacy and competence. The same Caliph 'Umar who is sometimes caricatured as harsh on women appointed her to a public role — because she was the most competent person available.",
+        "She narrated twelve hadiths, was consulted by Companions on ruqyah and on commercial matters, and her line of teaching gave the Mothers of the Believers a literacy that allowed them to become the great hadith-narrators of the next generation.",
+        "She died in Madinah around 20 AH and was buried in al-Baqi'.",
+      ),
+      keyFacts: [
+        "One of the few literate Quraysh women of her time",
+        "Taught Hafsa bint 'Umar to read and write at the Prophet's ﷺ request",
+        "Expert in shar'i ruqyah for snake and ant bites",
+        "Appointed by 'Umar as inspector of the market of Madinah",
+        "Narrated twelve hadiths; died c. 20 AH",
+      ],
+      lessons: p(
+        "Teach what you know. A single literate woman raised the literacy of an entire generation of Mothers of the Believers.",
+        "Competence is the only valid criterion for public trust. 'Umar's appointment was not symbolic — it was meritocratic.",
+        "Useful knowledge is dignified knowledge. Ruqyah, writing, market regulation — every skill she had served the ummah.",
+        "When the Caliph asks you to teach, teach. When the Caliph asks you to govern, govern.",
+      ),
+    },
+  },
+  {
+    id: "women-umm-waraqah",
+    title: "Umm Waraqah bint 'Abdullah (RA) — The Martyr of Her Own Household",
+    description:
+      "An Ansari woman who memorised the Qur'an, was given a mu'adhdhin by the Prophet ﷺ to lead her household in prayer, and was murdered by her own slaves in the caliphate of 'Umar.",
+    category: "HeroicWomen",
+    readTime: "5 min",
+    sections: {
+      intro: p(
+        "Umm Waraqah bint 'Abdullah ibn al-Harith al-Ansariyyah was an Ansari woman of Madinah who had memorised the Qur'an in the Prophet's ﷺ lifetime — one of the few women to do so. The Prophet ﷺ used to call her 'the martyr' (al-Shahidah) even though she had not yet died, in anticipation of how she would die.",
+      ),
+      life: p(
+        "When the expedition of Badr was about to leave, she came to the Prophet ﷺ and asked permission to accompany the army to nurse the wounded and to seek martyrdom. He said: 'Stay in your house — Allah will grant you martyrdom.' From then on she was called 'the martyr'.",
+        "Because she had memorised the Qur'an, the Prophet ﷺ commanded that an adhan be called in her house and that she lead her household — including her two slaves (a male and a female), her freed slave, and other women of her household — in prayer. He appointed an old man as her mu'adhdhin. This is one of the central evidences cited by jurists who permit a woman to lead other women (and her own household, in some views) in prayer.",
+        "She continued in this manner for years, leading the prayer in her own home, the Qur'an her constant companion. In the caliphate of 'Umar her two slaves — eager for freedom and resentful of her continued life — strangled her with a cloth in the night and fled.",
+        "In the morning the household discovered her dead. 'Umar said from the minbar: 'By Allah, the Prophet ﷺ used to say, Let us go and visit the martyr. Now I see what he meant.' He had the slaves pursued, captured, and crucified — they were the first to be crucified in Madinah for their crime.",
+      ),
+      legacy: p(
+        "Umm Waraqah is one of the most important figures in the discussion of women's leadership in prayer, of women as Qur'an memorisers in the Prophet's ﷺ time, and of the breadth of what 'martyrdom' includes in Islam — for she was killed by treachery in her own house and the Prophet ﷺ had named her a martyr decades in advance.",
+        "Her hadith is narrated in Abu Dawud, Ahmad, and others. The fiqh built on it is extensive.",
+      ),
+      keyFacts: [
+        "Memorised the Qur'an in the Prophet's ﷺ lifetime",
+        "Asked to go to Badr; the Prophet ﷺ promised her martyrdom at home",
+        "The Prophet ﷺ appointed a mu'adhdhin for her house and ordered her to lead her household in prayer",
+        "Murdered by her two slaves in the caliphate of 'Umar",
+        "'Umar had the killers crucified — the first crucifixion in Madinah",
+      ],
+      lessons: p(
+        "Martyrdom is not only on the battlefield. The Prophet ﷺ named a woman in her own house 'the martyr'.",
+        "Memorise the Qur'an. It elevated her to a station the Companions came to visit.",
+        "Lead prayer in your house — for women, this is a permitted noble service.",
+        "Kindness to those in your power is not a guarantee — but injustice from them does not diminish your reward.",
+      ),
+    },
+  },
+  {
+    id: "women-umm-hakim-bint-al-harith",
+    title: "Umm Hakim bint al-Harith (RA) — From Daughter of the Enemy to Killer of Romans at Marj al-Saffar",
+    description:
+      "A Qurashi woman of Banu Makhzum, daughter of the man killed at Badr, who accepted Islam at the Conquest of Makkah and killed seven Byzantine soldiers with a tent pole at Marj al-Saffar.",
+    category: "HeroicWomen",
+    readTime: "5 min",
+    sections: {
+      intro: p(
+        "Umm Hakim bint al-Harith ibn Hisham was a Qurashi noblewoman of Banu Makhzum. Her father al-Harith was a leader of Quraysh; her uncle was Abu Jahl, killed at Badr. Her husband 'Ikrimah ibn Abi Jahl was one of the most ferocious enemies of Islam in the early years.",
+        "At the Conquest of Makkah in 8 AH her husband fled toward Yemen. She accepted Islam, then went out alone after him and brought him back to the Prophet ﷺ to take Islam — saving the life of one of the men whose blood the Prophet ﷺ had permitted to be shed.",
+      ),
+      life: p(
+        "She and 'Ikrimah lived together as Muslims for less than a year before 'Ikrimah went out on the Syrian fronts and was killed at Yarmouk in 15 AH, his body covered in wounds.",
+        "She married Khalid ibn Sa'id ibn al-'As, who was killed in the same campaign at Marj al-Saffar in 14 AH (some sources reverse the order). On her wedding night to Khalid the Roman army attacked. She put on her wedding dress and her armour together, picked up a tent pole — for she had no sword — and entered the fighting beside the men.",
+        "She killed seven Byzantine soldiers with that tent pole at the Bridge of Marj al-Saffar. The bridge was thereafter called 'the Bridge of Umm Hakim' in the histories of al-Tabari and Ibn al-Athir.",
+        "She married a third time, to Yazid ibn Abi Sufyan, who died in the plague of 'Amwas. She lost three husbands in the cause of Allah within five years.",
+      ),
+      legacy: p(
+        "Umm Hakim is the answer to the claim that the noble Quraysh women of Makhzum were ornamental. The daughter of the chief of Banu Makhzum, the wife of three commanders, killed seven Romans on her wedding day with a tent pole. She bridged Jahiliyyah and Islam in a single life and gave Islam more than most men gave it.",
+      ),
+      keyFacts: [
+        "Daughter of al-Harith ibn Hisham; niece of Abu Jahl",
+        "Brought her husband 'Ikrimah ibn Abi Jahl to Islam after the Conquest",
+        "Killed seven Byzantine soldiers with a tent pole at Marj al-Saffar",
+        "The bridge there was named after her in the chronicles",
+        "Lost three husbands — 'Ikrimah, Khalid ibn Sa'id, Yazid ibn Abi Sufyan — all in the cause of Allah",
+      ],
+      lessons: p(
+        "Where you came from does not determine where you go. The niece of Abu Jahl became a slayer of Romans.",
+        "Bring your family to Islam, even at risk to yourself. She rode alone after a fugitive husband.",
+        "Wedding dress and armour are not opposites in this deen.",
+        "A tent pole in the right hand is a sword.",
+      ),
+    },
+  },
 ];
