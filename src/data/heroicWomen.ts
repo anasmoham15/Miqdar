@@ -579,4 +579,355 @@ export const heroicWomenStories: Story[] = [
       ),
     },
   },
+  {
+    id: "women-sumayyah-bint-khayyat",
+    title: "Sumayyah bint Khayyat (RA) — The First Martyr of Islam",
+    description:
+      "An elderly Abyssinian slave-woman of Banu Makhzum in Makkah who, with her husband Yasir and son 'Ammar, was tortured for refusing to renounce Islam — and was killed by Abu Jahl, becoming the first martyr in Islam.",
+    category: "HeroicWomen",
+    readTime: "5 min",
+    sections: {
+      intro: p(
+        "Sumayyah bint Khayyat was an Abyssinian slave-woman owned by Abu Hudhayfah ibn al-Mughirah of Banu Makhzum in Makkah. She was married to Yasir ibn 'Amir, a Yemeni who had come to Makkah and entered the protection of Abu Hudhayfah; she bore him 'Ammar ibn Yasir.",
+        "She was already an old woman when she accepted Islam — among the very first seven who openly declared their faith in the Prophet ﷺ. The seven were Abu Bakr, the Prophet ﷺ himself, 'Ammar, his mother Sumayyah, Suhayb, Bilal, and al-Miqdad.",
+      ),
+      life: p(
+        "Because she was a slave with no clan to defend her, Quraysh — led by Abu Jahl — felt free to torture her openly to force her to renounce Islam and to use her family as an example to others.",
+        "She, Yasir, and 'Ammar were dragged out into the burning desert in the worst heat of the day, stripped of clothing, and tortured day after day. The Prophet ﷺ used to pass by them in their torment, unable to free them, and would say: 'Patience, family of Yasir. Your appointment is Paradise.' (Hakim, Mustadrak)",
+        "Abu Jahl personally tortured her. When she refused to deny the Prophet ﷺ even at the last, he came to her with a spear and stabbed her in the lower body — the most degrading wound he could choose, to humiliate her even in death — and killed her. Her husband Yasir died under torture shortly after. 'Ammar survived only because, at his breaking point, he uttered the words of disbelief with his tongue while his heart held fast — and the Qur'an was revealed defending him: 'Except one who is forced while his heart is at peace with faith.' (al-Nahl 106)",
+        "Sumayyah thus became the first soul in Islam to die for La ilaha illa Allah. She was perhaps in her sixties or seventies when she was killed.",
+      ),
+      legacy: p(
+        "An old African slave-woman, owned and tortured, who could have spoken a single word and been spared, opened the gate of martyrdom for the entire ummah. Every shahid who followed walked through the door she opened.",
+        "The Prophet ﷺ remembered her. After Badr he stood over the body of Abu Jahl in the well of Badr and said: 'This is the Pharaoh of this ummah.' Her son 'Ammar lived to be a senior Companion, fought at Badr, helped build the Prophet's ﷺ Mosque, and was killed at Siffin in 37 AH at over ninety years of age — fulfilling the Prophet's ﷺ prophecy: ''Ammar will be killed by the transgressing party.'",
+      ),
+      keyFacts: [
+        "Abyssinian slave-woman of Banu Makhzum in Makkah",
+        "Among the first seven to openly declare Islam",
+        "Mother of 'Ammar ibn Yasir",
+        "Tortured publicly with her husband and son for years",
+        "Killed by Abu Jahl with a spear — the first martyr in Islam",
+      ],
+      lessons: p(
+        "The first to enter a path is rewarded by every soul who follows it.",
+        "The least powerful in this world can be the highest in the next.",
+        "Abu Jahl's name is cursed; Sumayyah's is honoured fifteen centuries later.",
+        "When you cannot rescue the oppressed, at least promise them Paradise — and mean it.",
+      ),
+    },
+  },
+  {
+    id: "women-khawlah-bint-al-azwar",
+    title: "Khawlah bint al-Azwar (RA) — The Veiled Knight of Yarmouk",
+    description:
+      "A poetess and warrior of Banu Asad who fought alongside Khalid ibn al-Walid in Syria, freed her captured brother in single combat, and led the Muslim women prisoners to defeat their Roman captors with tent poles.",
+    category: "HeroicWomen",
+    readTime: "6 min",
+    sections: {
+      intro: p(
+        "Khawlah bint al-Azwar was the sister of Dirar ibn al-Azwar, one of the leading Companion-warriors who fought under Khalid ibn al-Walid in the Syrian campaigns. The family was of Banu Asad. She was a noted poetess as well as a warrior — a rare combination in any age.",
+      ),
+      life: p(
+        "When her brother Dirar was wounded and captured by the Byzantines at the Battle of Sahurah (some sources: Ajnadayn) in 13 AH, Khawlah was among the women travelling with the army. The news of his capture reached the camp. She mounted her horse, wrapped a green cloak around her body and a green scarf around her face, took up a spear and a sword, and charged the Byzantine column alone.",
+        "Khalid ibn al-Walid saw the masked rider cut down Roman soldier after Roman soldier and assumed it was a Companion he had not yet identified. After the column had been broken and Dirar had been freed, the rider returned to the Muslim ranks. Khalid asked who he was. She removed her face-covering. Khalid was astonished and said: 'O sister of Dirar, by Allah you have shamed the men.'",
+        "She fought at Yarmouk in 15 AH. During that battle a section of Muslim women including her was overrun by Roman cavalry and taken captive. The Romans put them in a tent under guard. Khawlah turned to the women and said: 'Do you accept that these uncircumcised dogs should take you as concubines? Where is your honour, where is the courage you used to display before the wives of 'Umar and the Prophet's ﷺ family?'",
+        "She told them to take the tent-poles — for they had no weapons — and to form a tight circle, each woman protecting the next. They burst out of the tent. Khawlah herself led the charge. She killed the first guard with his own sword, then a second, then a third. The other women followed. They killed the Roman detachment that had captured them, freed themselves, and rejoined the Muslim line. At least five Roman soldiers fell to Khawlah's hand alone in that single fight.",
+        "She continued to fight in the Syrian campaigns. Some sources record her at the siege of Damascus and the campaigns into the Hawran. She was wounded multiple times and lived to old age.",
+      ),
+      legacy: p(
+        "Khawlah bint al-Azwar is remembered in Arabic literary tradition as the Joan of Arc of Islam — though she preceded Joan by eight centuries and survived her wars. Her poetry, fragments of which survive in the literary anthologies, was as sharp as her sword.",
+        "She is the standing answer to the claim that the Muslim woman is confined: she rode where Khalid rode, she struck where Khalid struck, and she shamed Khalid's own men into harder fighting.",
+      ),
+      keyFacts: [
+        "Sister of the Companion-warrior Dirar ibn al-Azwar",
+        "Freed her captured brother in single combat against a Roman column",
+        "Led captured Muslim women to defeat their Byzantine guards with tent poles",
+        "Fought at Sahurah (or Ajnadayn), Yarmouk, and the Syrian campaigns",
+        "Both a poetess and a warrior — rare in any era",
+      ],
+      lessons: p(
+        "Fight first; ask permission later. She mounted and rode before any council debated her right to.",
+        "Captivity is not surrender. As long as a tent pole is within reach, the fight continues.",
+        "Cover your face if you must — but do not cover your courage.",
+        "Shame the hesitant by your example, not by your tongue.",
+      ),
+    },
+  },
+  {
+    id: "women-asma-bint-umays",
+    title: "Asma' bint 'Umays (RA) — The Migrant of the Two Migrations",
+    description:
+      "Wife in turn of Ja'far ibn Abi Talib, Abu Bakr al-Siddiq, and 'Ali ibn Abi Talib — the only woman to have been wife to three of the closest men to the Prophet ﷺ, and a migrant to both Abyssinia and Madinah.",
+    category: "HeroicWomen",
+    readTime: "7 min",
+    sections: {
+      intro: p(
+        "Asma' bint 'Umays al-Khath'amiyyah was a sister of Maymunah bint al-Harith (the Prophet's ﷺ wife) on her mother's side, and one of the very early Muslimahs in Makkah. She married Ja'far ibn Abi Talib, the Prophet's ﷺ cousin and the brother of 'Ali, before the Hijra.",
+        "She and Ja'far emigrated to Abyssinia in the second migration. They lived there for over fifteen years under the protection of the Negus, raising three sons — 'Abdullah, Muhammad, and 'Awn — all born in Abyssinian exile.",
+      ),
+      life: p(
+        "She returned with Ja'far to Madinah in 7 AH, the same year the Prophet ﷺ conquered Khaybar. The Prophet ﷺ stood and embraced Ja'far between the eyes and said: 'I do not know which delights me more — the conquest of Khaybar or the coming of Ja'far.'",
+        "In 8 AH at the Battle of Mu'tah, Ja'far was killed — both his arms cut off, then his body run through. The Prophet ﷺ came to Asma' carrying the news. She had just kneaded her dough and prepared the children. He took the three boys, kissed them, and wept. She knew. She let out the cry of mourning. The Prophet ﷺ told the women of Madinah to prepare food for the family of Ja'far for three days, saying: 'Today they are too occupied with their grief to think of food.'",
+        "Some months later Abu Bakr proposed to her and she accepted. She bore him a son, Muhammad ibn Abi Bakr, on the way to the Farewell Hajj in 10 AH — she gave birth at Dhul Hulayfah and the Prophet ﷺ instructed Abu Bakr that she should still perform 'umrah and hajj.",
+        "When Abu Bakr was on his deathbed in 13 AH he asked her to bathe his body when he died — placing the most intimate trust of his last rites in her hands. She did so. After his death she married 'Ali ibn Abi Talib, who had been her brother-in-law through Ja'far.",
+        "She bore 'Ali two sons, Yahya and 'Awn. Her son Muhammad ibn Abi Bakr was raised in 'Ali's household and became one of 'Ali's closest companions; 'Ali used to say of him: 'Muhammad is my son from the back of Abu Bakr.'",
+        "She was a major narrator of hadith — sixty hadiths from her are recorded in the canonical books, including the foundational hadith on the menstruating woman in ihram and many on family law. She taught 'A'isha and many of the Tabi'in.",
+      ),
+      legacy: p(
+        "Asma' bint 'Umays is the human bridge of the early ummah. She was wife to Ja'far (martyr of Mu'tah), to Abu Bakr (the first Caliph), and to 'Ali (the fourth Caliph). Her sons led men: 'Abdullah ibn Ja'far became the most famously generous man of his generation; Muhammad ibn Abi Bakr became governor of Egypt for 'Ali.",
+        "She made the Hijra to Abyssinia and to Madinah — placing her in the small group called 'those of the two migrations'. She lived to see Karbala approach but died before her grandson 'Abdullah ibn Ja'far's children were caught in it. She was buried in Madinah.",
+      ),
+      keyFacts: [
+        "Sister-in-law of the Prophet ﷺ through her sister Maymunah",
+        "Wife in turn of Ja'far ibn Abi Talib, Abu Bakr al-Siddiq, and 'Ali ibn Abi Talib",
+        "Migrated to both Abyssinia and Madinah",
+        "Mother of 'Abdullah ibn Ja'far, Muhammad ibn Abi Bakr, Yahya and 'Awn ibn 'Ali",
+        "Bathed the body of Abu Bakr at his request",
+        "Narrated 60 hadiths",
+      ],
+      lessons: p(
+        "A long widowhood is not Allah's punishment — it can be His preparation for the next station.",
+        "Raise the orphan: the child of one martyr becomes the companion of the next caliph.",
+        "Carry knowledge across generations.",
+        "The trust of the dying is the highest trust. Abu Bakr gave it to her, not to a man.",
+      ),
+    },
+  },
+  {
+    id: "women-umm-hani-bint-abi-talib",
+    title: "Umm Hani' bint Abi Talib (RA) — The Woman Who Hosted the Isra' and Gave Sanctuary at the Conquest",
+    description:
+      "The cousin of the Prophet ﷺ, sister of 'Ali, in whose Makkan house the night of al-Isra' wa al-Mi'raj began — and who, at the Conquest, gave sanctuary to two pagan men against her own brother's sword.",
+    category: "HeroicWomen",
+    readTime: "6 min",
+    sections: {
+      intro: p(
+        "Umm Hani' — her real name was Fakhitah (some say Hind) bint Abi Talib — was the daughter of Abu Talib and the full sister of 'Ali, Ja'far, and 'Aqil. She was therefore the first cousin of the Prophet ﷺ, and the Prophet ﷺ had wanted to marry her in his early manhood, but Abu Talib married her to Hubayrah ibn Abi Wahb of Banu Makhzum.",
+      ),
+      life: p(
+        "On the night of al-Isra' wa al-Mi'raj — most reports place it in her house in Makkah — the Prophet ﷺ had been her overnight guest. She narrated: 'The Messenger of Allah ﷺ was taken on his night journey from my house. He prayed 'Isha with us, then he slept and we slept. At dawn the Messenger of Allah ﷺ woke us up, prayed Subh, and said: O Umm Hani', I have prayed 'Isha with you in this valley as you saw, then I went to Bayt al-Maqdis and prayed there, then I prayed Subh with you now as you see.'",
+        "She begged him not to tell Quraysh, knowing they would call him a liar. He said: 'By Allah, I will tell them.' He went out and the people refused to believe him until he described al-Aqsa in detail.",
+        "Her husband Hubayrah remained a polytheist. When Makkah was conquered in 8 AH he fled to Najran and never returned to Islam. Their marriage was therefore dissolved, and the Prophet ﷺ proposed to her after the Conquest, but she declined out of consideration for her young children — and the Prophet ﷺ accepted her excuse and praised her for it.",
+        "On the morning of the Conquest of Makkah, two of her in-laws from Banu Makhzum — al-Harith ibn Hisham and Zuhayr ibn Abi Umayyah, both of whom had fought against the Muslims — fled to her house seeking protection. 'Ali her brother came in armed, intending to kill them as enemy combatants. She stood in front of them and refused. She went to the Prophet ﷺ at his bath, while his daughter Fatimah held a screen for him, and explained.",
+        "He said: 'We have given protection to whomever you have given protection, O Umm Hani'.' This is one of the foundational evidences in Islamic law for amān — the right of any free Muslim, man or woman, to grant binding sanctuary to a non-Muslim.",
+        "She then prayed eight rak'ahs of Duha in his presence in his house — and this is the basis of Salat al-Duha as a recommended prayer of eight rak'ahs.",
+      ),
+      legacy: p(
+        "Umm Hani' is the source of two pillars of practice that every Muslim today inherits: the Salat al-Duha as it is commonly described, and the principle of amān granted by a single Muslim including a woman. Her house was the launching point of al-Isra' — perhaps the most blessed dwelling in Makkah after the Prophet's ﷺ own birthplace.",
+        "She lived into the caliphate of 'Ali and is buried in al-Baqi'.",
+      ),
+      keyFacts: [
+        "Daughter of Abu Talib; sister of 'Ali, Ja'far, and 'Aqil; cousin of the Prophet ﷺ",
+        "The night of al-Isra' began from her house in Makkah",
+        "Source of the eight-rak'ah Salat al-Duha",
+        "Granted sanctuary to two enemy combatants at the Conquest of Makkah; the Prophet ﷺ ratified it",
+        "Declined the Prophet's ﷺ proposal of marriage out of duty to her children",
+      ],
+      lessons: p(
+        "A woman's word of protection is binding in this deen — even on the brother who comes with the sword.",
+        "Place your young children before even the highest worldly honour.",
+        "Open your house to the righteous; you may be hosting the night that Allah will not let history forget.",
+        "Pray the Duha in eight rak'ahs as Umm Hani' did. She is your teacher in this.",
+      ),
+    },
+  },
+  {
+    id: "women-hafsa-bint-umar",
+    title: "Hafsa bint 'Umar (RA) — The Mother of the Believers Who Held the First Mushaf",
+    description:
+      "Daughter of 'Umar, widow of a martyr of Badr, wife of the Prophet ﷺ, and the woman in whose house the only complete written copy of the Qur'an was kept until 'Uthman copied from it.",
+    category: "HeroicWomen",
+    readTime: "7 min",
+    sections: {
+      intro: p(
+        "Hafsa bint 'Umar ibn al-Khattab was born five years before the Prophet ﷺ began to receive revelation. She inherited her father's height, sharpness, and quick temper. She accepted Islam as a girl in Makkah with her family and made the Hijra to Madinah.",
+        "She was first married to Khunays ibn Hudhafah al-Sahmi — one of the migrants to Abyssinia and a Companion of Badr. He died of wounds taken at Badr (some say at Uhud), leaving her a young widow.",
+      ),
+      life: p(
+        "'Umar was distressed at her widowhood. He went first to 'Uthman ibn 'Affan and offered her in marriage. 'Uthman had recently lost the Prophet's ﷺ daughter Ruqayyah; he asked for time to consider, then declined. 'Umar then went to Abu Bakr and offered her. Abu Bakr was silent and gave no answer at all. 'Umar was hurt and complained to the Prophet ﷺ. The Prophet ﷺ said: 'Hafsa will marry one better than 'Uthman, and 'Uthman will marry one better than Hafsa.' He then proposed to her himself, and 'Uthman married the Prophet's ﷺ daughter Umm Kulthum.",
+        "Abu Bakr later told 'Umar: 'Do not be angry with me. I knew the Prophet ﷺ had mentioned Hafsa, and I would not disclose his secret. Had he left her, I would have married her.'",
+        "She married the Prophet ﷺ in 3 AH. She was strong-willed; she once answered him back, and her father came and rebuked her severely. She wept. The Prophet ﷺ later forgave and reaffirmed her.",
+        "She was literate — taught to write by al-Shifa' bint 'Abdullah at the Prophet's ﷺ instruction. This literacy turned her into the guardian of the most precious physical object in Islamic history.",
+        "When Abu Bakr commissioned Zayd ibn Thabit to compile the Qur'an into a single mushaf after the Battle of Yamama, the master copy was kept in Abu Bakr's house. On his death it passed to 'Umar. On 'Umar's death — by his own instruction — it passed to his daughter Hafsa.",
+        "For roughly fifteen years the only complete authoritative written mushaf in the world was in Hafsa's possession. When 'Uthman commissioned the unified copies in 25 AH, he sent to Hafsa to borrow her mushaf to copy from. She gave it to him; the committee produced the codices that were sent to the great cities; he returned it to her. After her death Marwan ibn al-Hakam, then governor of Madinah, took it from her brother and burned it — fearing it would become a source of dispute against the 'Uthmani standard.",
+        "She narrated 60 hadiths. She was a hafizah of the Qur'an, a giver of fatwa, and a teacher.",
+      ),
+      legacy: p(
+        "Every printed mushaf in the world today descends through 'Uthman's committee — and they copied from the mushaf kept in Hafsa's house. She is, in the most literal sense, the woman who guarded the text of the Qur'an for the ummah at the most fragile moment of its written transmission.",
+        "She died in Sha'ban 45 AH in Madinah, in the caliphate of Mu'awiya, and was buried in al-Baqi'. Her brother 'Abdullah ibn 'Umar washed her body.",
+      ),
+      keyFacts: [
+        "Daughter of 'Umar ibn al-Khattab; widow of Khunays ibn Hudhafah, a Badri",
+        "Married the Prophet ﷺ in 3 AH",
+        "Literate — taught by al-Shifa' bint 'Abdullah",
+        "Guardian of the master mushaf compiled under Abu Bakr",
+        "Lent the mushaf to 'Uthman's committee — the source of every Qur'an today",
+        "Narrated 60 hadiths; died Sha'ban 45 AH",
+      ],
+      lessons: p(
+        "Literacy is a trust. Allah may use it to make you the keeper of His own Book.",
+        "The widow of a martyr is a candidate for the highest stations.",
+        "Sometimes silence about a hidden trust looks like rejection. Time will explain it.",
+        "What is given to you to keep — keep it.",
+      ),
+    },
+  },
+  {
+    id: "women-zaynab-bint-jahsh",
+    title: "Zaynab bint Jahsh (RA) — The Mother of the Believers Married by Heaven",
+    description:
+      "Cousin of the Prophet ﷺ, the only one of his wives whose marriage was contracted by Allah from above the seven heavens — and the most generous, working with her hands and giving everything in charity.",
+    category: "HeroicWomen",
+    readTime: "7 min",
+    sections: {
+      intro: p(
+        "Zaynab bint Jahsh ibn Ri'ab al-Asadiyyah was the daughter of the Prophet's ﷺ paternal aunt Umaymah bint 'Abd al-Muttalib — making her his first cousin. She was Qurashi by mother, Asadi by father. Beautiful, noble, and deeply pious from her youth.",
+      ),
+      life: p(
+        "The Prophet ﷺ proposed her in marriage to his freed slave and adopted son Zayd ibn Harithah. Zaynab and her family were initially reluctant — she was a noblewoman of Quraysh, he was a freedman — but the Prophet ﷺ insisted, and Allah revealed: 'It is not for a believing man or woman, when Allah and His Messenger have decreed a matter, to have any choice in their affair.' (al-Ahzab 36) She submitted and married Zayd.",
+        "The marriage did not flourish. Zayd repeatedly came to the Prophet ﷺ wishing to divorce her; the Prophet ﷺ repeatedly told him: 'Keep your wife and fear Allah,' even though Allah had already told the Prophet ﷺ that He intended to dissolve the marriage and to marry Zaynab to him. The Prophet ﷺ feared what people would say — that he had married the wife of his adopted son. Allah corrected him: 'You concealed within yourself that which Allah was to disclose, and you feared the people, while Allah has more right that you fear Him.' (al-Ahzab 37)",
+        "Zayd divorced her. After her 'iddah, Allah revealed: 'So when Zayd had ended his association with her, We married her to you.' (al-Ahzab 37) The marriage was contracted by Allah Himself from above the seven heavens — without a guardian on earth, without a contract written by men, without witnesses among the Companions. Zaynab used to say to the other Mothers of the Believers: 'Your families gave you in marriage; my Lord gave me in marriage from above the seven heavens.' (Bukhari)",
+        "This marriage abolished the pre-Islamic custom of treating an adopted son's wife as forbidden like a real son's wife. The verse 'Muhammad is not the father of any of your men' (al-Ahzab 40) was revealed in this connection.",
+        "She was the most generous of all the Prophet's ﷺ wives. She used to tan leather and pierce skins with her own hands and sell them, and she gave every dirham she earned in charity. The Prophet ﷺ said of his wives: 'The first of you to follow me will be the one with the longest hand' — meaning the most generous. They thought he meant the tallest, and used to compare their arms; but it was Zaynab whose 'hand' was longest in giving. She was the first to follow him to the next world after his death, dying in 20 AH.",
+        "When 'Umar's stipends from the diwan reached her she would distribute the entire bag among her relatives, the orphans, and the poor before night fell. Once she was given 12,000 dirhams. She gave it all away in a single sitting and raised her hands and said: 'O Allah, do not let me see another of these stipends.' She died before the next was distributed.",
+      ),
+      legacy: p(
+        "Zaynab is the only person in human history whose marriage contract was issued from the Throne. Her marriage abolished a Jahili practice and freed adopted sons from the legal status of biological sons.",
+        "Her generosity reset the standard. She is the model of the woman who works with her hands and keeps nothing of what she earns.",
+        "She died in Madinah in 20 AH, aged about 53, in the caliphate of 'Umar. 'Umar himself led her funeral prayer. She was the first of the Mothers of the Believers to die after the Prophet ﷺ — fulfilling his prophecy of 'the longest hand'.",
+      ),
+      keyFacts: [
+        "First cousin of the Prophet ﷺ; daughter of his aunt Umaymah",
+        "First married to Zayd ibn Harithah at the Prophet's ﷺ insistence",
+        "Married to the Prophet ﷺ by direct revelation — al-Ahzab 37",
+        "Tanned leather with her own hands and gave the proceeds in charity",
+        "First of the Mothers of the Believers to die after the Prophet ﷺ (20 AH)",
+        "Funeral led by 'Umar ibn al-Khattab",
+      ],
+      lessons: p(
+        "Submit to a difficult command — the verse may be revealed for you.",
+        "Generosity is measured by what leaves the hand, not by what enters it.",
+        "Work with your hands. Even a Mother of the Believers tanned leather.",
+        "The race to Paradise is won by the longest hand, not the loudest tongue.",
+      ),
+    },
+  },
+  {
+    id: "women-umm-habibah",
+    title: "Umm Habibah bint Abi Sufyan (RA) — The Mother of the Believers Whose Father Was Abu Sufyan",
+    description:
+      "Daughter of the chief enemy of Islam who became wife of the Prophet ﷺ — and refused even to let her father sit on her bed because his body was the body of a polytheist.",
+    category: "HeroicWomen",
+    readTime: "6 min",
+    sections: {
+      intro: p(
+        "Ramlah bint Abi Sufyan ibn Harb of Banu Umayyah — known by her kunyah Umm Habibah — was the daughter of Abu Sufyan, the chief of Quraysh and the most determined opponent of the Prophet ﷺ before the Conquest. She accepted Islam in the very first wave with her husband 'Ubaydullah ibn Jahsh.",
+        "She and her husband emigrated to Abyssinia in the second migration. There a tragedy struck: her husband apostatised to Christianity and tried to drag her with him. She refused. He died as a Christian in exile. She was left a widow with a small daughter, Habibah, in a foreign Christian land — surrounded by the Negus's court but cut off from her own people, who were Quraysh and her enemies.",
+      ),
+      life: p(
+        "The Prophet ﷺ in Madinah, hearing of her plight, sent 'Amr ibn Umayyah al-Damri to the Negus to ask for her hand in marriage on his behalf. The Negus called her, summoned Khalid ibn Sa'id ibn al-'As as her wakil, contracted the marriage, paid a mahr of 400 gold dinars on behalf of the Prophet ﷺ, and held a marriage feast. She was lifted from widowhood and exile to the rank of Mother of the Believers — without ever being in the same continent as her husband at the moment of the contract.",
+        "She returned to Madinah from Abyssinia in 7 AH, the same year Ja'far returned. She entered the Prophet's ﷺ household with quiet dignity and lived there until his death in 11 AH.",
+        "The famous incident with her father came shortly before the Conquest of Makkah. Abu Sufyan, sensing the political wind, came secretly to Madinah to try to renew the broken Treaty of Hudaybiyya. He went first to his own daughter's apartment in the Mosque. As he sat down on the bed, she pulled the bedding away from under him.",
+        "He said: 'O my daughter — am I too good for the bed, or is the bed too good for me?' She said: 'It is the bed of the Messenger of Allah ﷺ and you are an unclean polytheist. I do not wish you to sit on it.' He said: 'By Allah, evil has touched you since you left me.'",
+        "She did not recant. He left, went to Abu Bakr, then 'Umar, then 'Ali — none would intercede for him. The Conquest came. He embraced Islam at the last moment, having had — perhaps — more time to think about his daughter's words than about anyone else's argument.",
+        "She narrated 65 hadiths. After the Prophet's ﷺ death she lived in Madinah and was deeply respectful even of her own brother Mu'awiya — but never compromised on the matter of the deen.",
+      ),
+      legacy: p(
+        "Umm Habibah is the proof that the bond of faith outranks the bond of blood. Her father was the man who had organised the wars against Islam at Badr, Uhud, and Khandaq; her brother became the first Umayyad caliph; she stayed loyal to the Prophet's ﷺ household over both of them.",
+        "Her marriage contract — performed across an ocean by the Christian king of Abyssinia on behalf of the final Messenger of Allah, with no Muslim guardian present from her family — is one of the most extraordinary marriage contracts in Islamic history.",
+        "She died in Madinah in 44 AH, in the caliphate of her brother Mu'awiya, and was buried in al-Baqi'.",
+      ),
+      keyFacts: [
+        "Daughter of Abu Sufyan; sister of Mu'awiya",
+        "Migrated to Abyssinia; widowed there when her husband apostatised",
+        "Married the Prophet ﷺ by proxy through the Negus, mahr 400 dinars",
+        "Pulled the bedding from under her own father because he was a polytheist",
+        "Narrated 65 hadiths",
+        "Died in Madinah, 44 AH",
+      ],
+      lessons: p(
+        "Faith is thicker than blood. The deen is the family.",
+        "Allah replaces what He takes. She lost a husband and gained the Prophet ﷺ.",
+        "Honour your father with words; honour the Prophet ﷺ with your bed and your loyalty.",
+        "A righteous daughter may be the closing argument that brings her father to Islam.",
+      ),
+    },
+  },
+  {
+    id: "women-lubabah-al-kubra",
+    title: "Lubabah al-Kubra (Umm al-Fadl) (RA) — The Second Woman in Islam",
+    description:
+      "Wife of al-'Abbas, mother of six men of distinction including 'Abdullah ibn 'Abbas, sister of Maymunah — and reportedly the second woman after Khadijah to embrace Islam.",
+    category: "HeroicWomen",
+    readTime: "6 min",
+    sections: {
+      intro: p(
+        "Lubabah bint al-Harith al-Hilaliyyah, known as Umm al-Fadl, was the wife of al-'Abbas ibn 'Abd al-Muttalib, the Prophet's ﷺ paternal uncle. She was the sister of Maymunah bint al-Harith (later wife of the Prophet ﷺ) and of Asma' bint 'Umays through their mother. The Prophet ﷺ used to call the four sisters 'the believing sisters'.",
+        "She is reported by Ibn Sa'd, Ibn al-Athir, and al-Dhahabi to have been the second woman to embrace Islam after Khadijah — entering Islam in Makkah while the Prophet's ﷺ uncle al-'Abbas remained outwardly with Quraysh for many years to protect the Prophet ﷺ from inside.",
+      ),
+      life: p(
+        "She bore al-'Abbas six sons — al-Fadl (the eldest, after whom she was nicknamed), 'Abdullah (the great scholar Ibn 'Abbas), 'Ubaydullah, Ma'bad, Qutham, and 'Abd al-Rahman — every one of whom became a person of standing. The Prophet ﷺ said of her: 'The two sisters of faith are Umm al-Fadl and Maymunah.'",
+        "She was inside the Ka'bah area when Abu Lahab heard the news of Quraysh's defeat at Badr — Abu Lahab had not gone, having sent a substitute. When the news reached him he sat down crushed. A man named Abu Rafi' (al-'Abbas's freed slave) was sitting nearby and rejoiced quietly at the news. Abu Lahab heard him, leapt at him, and beat him.",
+        "Umm al-Fadl picked up a wooden tent peg, struck Abu Lahab on the head, and split his skull open. She said: 'Do you take advantage of him because his master is absent?' Abu Lahab walked away with the wound. It festered. Within a week he died of it — his body was so foul that no one would bury him; his sons hired men to push his corpse into a pit and throw stones over it from a distance.",
+        "Umm al-Fadl thus, with a tent peg, killed the Prophet's ﷺ uncle who had cursed him in Surah al-Masad — the same uncle whose hands Allah cursed in 'Tabbat yada Abi Lahabin wa-tabb'.",
+        "She narrated 30 hadiths, including the famous report that she gave the Prophet ﷺ a cup of milk while he was on his camel at 'Arafat in his Farewell Hajj — settling for the entire ummah the question of whether the Prophet ﷺ fasted that day (he did not, and the people followed him).",
+      ),
+      legacy: p(
+        "Umm al-Fadl gave the ummah Ibn 'Abbas — the Sea of Knowledge, the Interpreter of the Qur'an, the source of so much tafsir that no commentary on the Qur'an exists without him. Her household was the cradle of the 'Abbasid line that would later rule the Muslim world for five centuries.",
+        "She killed Abu Lahab — Allah's named enemy — with a tent peg and the courage of a believing aunt-in-law. She also gave the ummah a sealed answer on the Day of 'Arafat with a cup of milk.",
+        "She died in Madinah in the caliphate of 'Uthman, around 30 AH.",
+      ),
+      keyFacts: [
+        "Wife of al-'Abbas; mother of 'Abdullah ibn 'Abbas (Ibn 'Abbas)",
+        "Reportedly the second woman to embrace Islam after Khadijah",
+        "Sister of Maymunah (Mother of the Believers) and of Asma' bint 'Umays",
+        "Struck Abu Lahab with a tent peg; he died of the wound a week later",
+        "Settled the question of fasting on 'Arafat with the milk hadith",
+        "Narrated 30 hadiths",
+      ],
+      lessons: p(
+        "Be the second when you cannot be the first. To be the second believer in the world is no small thing.",
+        "Defend the weak slave when his master is away. Allah will avenge them both through your hand.",
+        "A tent peg in the hand of a believing woman is as deadly as a sword in the hand of an unbeliever.",
+        "Raise sons who shake centuries. She raised six.",
+      ),
+    },
+  },
+  {
+    id: "women-umm-mabad",
+    title: "Umm Ma'bad al-Khuza'iyyah (RA) — The Tent of the Hijra and the Greatest Description of the Prophet ﷺ",
+    description:
+      "A Bedouin woman in a tent on the Hijra route who fed the Prophet ﷺ from a barren goat — and gave the world the most beautiful physical description of the Messenger of Allah ﷺ ever recorded.",
+    category: "HeroicWomen",
+    readTime: "7 min",
+    sections: {
+      intro: p(
+        "Atikah bint Khalid al-Khuza'iyyah, known as Umm Ma'bad, lived in a tent at Qudayd, on the road from Makkah to Madinah. Her custom — and that of her husband Abu Ma'bad — was to sit at the door of the tent with food and water for travellers, in the noble Arab tradition of hospitality. The year was 1 AH; it was the moment of the Hijra.",
+      ),
+      life: p(
+        "The Prophet ﷺ, Abu Bakr, the freedman 'Amir ibn Fuhayrah, and the guide 'Abdullah ibn Urayqit stopped at her tent. They asked to buy meat or dates. She apologised — she had nothing. Drought had emptied the camp. The men of the family were away pasturing what little remained. The only animal in the tent was a barren goat, too weak to be sent out with the herd, so weak that it had no milk at all.",
+        "The Prophet ﷺ asked her permission to milk the goat. She said: 'By Allah, if there were any milk in her you would not have asked. She has been barren and weak for a long time.' He smiled, called for the goat, wiped over its udder with his blessed hand, mentioned the name of Allah, and milked it. Milk poured out so abundantly that he filled a large vessel. He gave Umm Ma'bad to drink first, then his Companions, then drank himself last and said: 'The cup-bearer of a people drinks last.' He milked the goat a second time and filled the vessel again, leaving it with her.",
+        "Her husband Abu Ma'bad returned that evening driving thin, exhausted goats. He saw the milk and was astonished. He asked: 'Where did this come from? Our goats are barren and there is not a milking goat in the camp!' She said: 'By Allah, no — but a blessed man passed by us today, of such-and-such description...' He said: 'Describe him to me.'",
+        "What she said next is one of the treasures of the Sirah — recorded by al-Hakim, al-Tabarani, and al-Bayhaqi: 'I saw a man of conspicuous beauty, of bright face, of well-formed build, neither marred by leanness nor disfigured by stoutness. Handsome and well-proportioned. His eyes had a deep blackness, his eyelashes were long, his voice was deep, his neck was long, his beard was thick. His eyebrows were arched. When silent, dignity covered him; when he spoke, splendour rose from him. He was the most beautiful and the most striking of men from a distance, and the sweetest from up close. His speech was clear, decisive, neither too little nor too much, as if his words were beads of pearl falling one after another. Of medium height — the eye neither despised him for shortness nor turned from him for tallness. He had companions who surrounded him; when he spoke they listened, when he commanded they hastened, served and attended, never frowning nor refuting.'",
+        "Abu Ma'bad said: 'By Allah, this is the man of Quraysh whose news has reached us. I had wanted to follow him; if I find a way, I shall.' Both of them embraced Islam and later joined the Prophet ﷺ in Madinah. Umm Ma'bad was a Sahabiyyah; her description of him became one of the most quoted descriptions of the Prophet ﷺ in all of Islamic literature.",
+      ),
+      legacy: p(
+        "Umm Ma'bad gave the ummah two priceless gifts. The first is the miracle of the barren goat — proof on the Hijra road that the Prophet ﷺ was sustained by Allah even where there was no sustenance. The second is the description: every later artist, every later writer, every Muslim who tried to imagine the face of the Messenger ﷺ has drawn from her words.",
+        "She lived into Islam and is counted among the Sahabiyyat. The exact date of her death is not preserved, but her legacy is read every Mawlid season and every Sirah class on earth.",
+      ),
+      keyFacts: [
+        "Bedouin woman of Khuza'a at Qudayd on the Hijra route",
+        "Hosted the Prophet ﷺ, Abu Bakr, 'Amir ibn Fuhayrah, and Ibn Urayqit",
+        "The Prophet ﷺ milked her barren goat by miracle",
+        "Gave the most famous physical description of the Prophet ﷺ ever recorded",
+        "She and her husband Abu Ma'bad embraced Islam and joined him in Madinah",
+      ],
+      lessons: p(
+        "Sit at the door of your tent with whatever you have. Allah may send you the Messenger ﷺ.",
+        "When you have nothing, offer it anyway. Barakah follows honesty in poverty.",
+        "Watch carefully and remember precisely. Your description may feed the imagination of the ummah for fifteen centuries.",
+        "The cup-bearer of a people drinks last.",
+      ),
+    },
+  },
 ];
