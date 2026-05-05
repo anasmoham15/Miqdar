@@ -741,4 +741,148 @@ export const heroicWomenStories: Story[] = [
       ),
     },
   },
+  {
+    id: "women-umm-ruman",
+    title: "Umm Ruman (RA) — Mother of 'A'isha and the Siddiq's Wife",
+    description:
+      "The Kinani woman who married Abu Bakr, raised 'A'isha and 'Abd al-Rahman, and of whom the Prophet ﷺ said: 'Whoever wishes to look at a woman of the people of Paradise, let him look at Umm Ruman.'",
+    category: "HeroicWomen",
+    readTime: "5 min",
+    sections: {
+      intro: p(
+        "Zaynab bint 'Amir ibn 'Uwaymir, known as Umm Ruman, was a woman of the Banu Kinanah of Sarat. After the death of her first husband 'Abdullah ibn al-Harith, she came to Makkah, where Abu Bakr al-Siddiq married her.",
+        "From this marriage came two of the most beloved figures of early Islam: 'Abd al-Rahman ibn Abi Bakr and 'A'isha bint Abi Bakr, the Mother of the Believers.",
+      ),
+      life: p(
+        "She embraced Islam in the very earliest days of the Makkan call, alongside her husband Abu Bakr — among the first handful of human beings ever to accept the Prophet ﷺ. She bore the boycott in the valley of Abu Talib, the persecution, and the long years of waiting in Makkah while her husband emptied his wealth in the cause.",
+        "She made hijrah to Madinah after the Prophet ﷺ, and it was in her household that the most delicate moment in 'A'isha's life unfolded. When the slander of the Hypocrites (the ifk) was spread against 'A'isha after the expedition of Banu al-Mustaliq, 'A'isha came home weeping. She did not know yet what was being said. She asked her mother. Umm Ruman tried to soften it: 'O my daughter, take it easy on yourself. By Allah, rarely is there a beautiful woman beloved to her husband who has co-wives, except that they invent things against her.'",
+        "Then came the verses of Surah al-Nur clearing 'A'isha entirely. Umm Ruman lived to see her daughter publicly vindicated by Allah from above the seven heavens.",
+        "She died in Madinah during the Prophet's lifetime, around 6 AH. The Prophet ﷺ descended into her grave himself to lay her in it, and he said: 'O Allah, what You have done for Umm Ruman is not hidden from You — what she bore in You and in Your Messenger.' He then said: 'Whoever would like to look at a woman of the people of Paradise, let him look at Umm Ruman.'",
+      ),
+      legacy: p(
+        "Umm Ruman is remembered as a woman of Paradise by the testimony of the Prophet ﷺ himself. She raised the most knowledgeable woman in the history of the Ummah, and stood by the most truthful man in the history of the Ummah, in poverty and in exile, without complaint.",
+        "She is the mother who, when the world said the worst it could about her daughter, advised her with calm and waited for Allah's verdict.",
+      ),
+      keyFacts: [
+        "Of Banu Kinanah; second wife of Abu Bakr al-Siddiq",
+        "Mother of 'A'isha (RA) and 'Abd al-Rahman ibn Abi Bakr (RA)",
+        "Among the very first to embrace Islam",
+        "Made hijrah to Madinah",
+        "Counselled 'A'isha calmly during the slander (ifk)",
+        "Died c. 6 AH; the Prophet ﷺ entered her grave himself",
+        "Testified by the Prophet ﷺ as a woman of Paradise",
+      ],
+      lessons: p(
+        "Bear with a husband who gives everything to Allah. Abu Bakr emptied his wealth; she did not complain.",
+        "When your child is publicly attacked, advise calmly. Do not add panic to her grief. Wait for Allah.",
+        "Aim for the testimony of the Prophet ﷺ. She received it because she lived a quiet life of patience under the Siddiq's roof.",
+      ),
+    },
+  },
+  {
+    id: "women-umm-mihjan",
+    title: "Umm Mihjan (RA) — The Black Woman Who Swept the Masjid",
+    description:
+      "A poor woman whose only service was to clean the Prophet's masjid — and when she died, the Prophet ﷺ asked for her grave so that he could pray over her himself.",
+    category: "HeroicWomen",
+    readTime: "5 min",
+    sections: {
+      intro: p(
+        "Umm Mihjan — also reported as a black woman whose name was not even fully recorded by every chronicler — was a poor Sahabiyyah of Madinah whose service was the simplest possible: she swept the floor of the Masjid of the Prophet ﷺ.",
+        "She had no wealth, no lineage, no battles, no narrations. She had a broom and a love for the house of Allah.",
+      ),
+      life: p(
+        "She would come quietly to the masjid and sweep it, day after day, and pick up whatever debris had fallen. The Prophet ﷺ noticed her, and her absence noticed her more.",
+        "She died, and the Companions, knowing how small a person she was in the eyes of the world, did not bother to inform the Prophet ﷺ. They prayed over her at night and buried her quietly.",
+        "The next day the Prophet ﷺ asked: 'What happened to that woman who used to sweep the masjid? I have not seen her.' They said: 'O Messenger of Allah, she died in the night, and we did not want to disturb you.' He said: 'Why did you not inform me?' It was as if they had made light of her affair. He said: 'Show me her grave.' They led him to it. He stood at her grave and prayed the funeral prayer over her, and then said: 'These graves are full of darkness for their inhabitants, and Allah illuminates them for them by my prayer over them.' (Bukhari, Muslim)",
+      ),
+      legacy: p(
+        "Umm Mihjan is the woman whose broom in the masjid earned her the funeral prayer of the Messenger of Allah ﷺ at her own graveside. She is the proof that the smallest service done with love for Allah's house outweighs the loudest service done for show.",
+        "Her story is one of the most repeated in books of zuhd, raqa'iq and the rights of the masjid — taught to every child who learns that no act of service is too small for Allah.",
+      ),
+      keyFacts: [
+        "A poor black Sahabiyyah of Madinah",
+        "Her only known service: sweeping the Prophet's masjid",
+        "Died quietly; Companions buried her without informing the Prophet ﷺ",
+        "The Prophet ﷺ went to her grave and prayed janazah over her",
+        "Subject of the famous hadith on illuminating graves through the funeral prayer",
+      ],
+      lessons: p(
+        "Pick up the trash in the masjid. The smallest hand-broom can earn the largest prayer.",
+        "Do not measure people by what the world sees. The Prophet ﷺ noticed the sweeper; we should too.",
+        "Aim for invisible service. The Companions did not even think to mention her — and the Prophet ﷺ went to her grave anyway.",
+      ),
+    },
+  },
+  {
+    id: "women-umm-kulthum-bint-ali",
+    title: "Umm Kulthum bint 'Ali (RA) — Granddaughter of the Prophet ﷺ, Wife of 'Umar",
+    description:
+      "The daughter of 'Ali and Fatimah whom 'Umar al-Khattab asked for in marriage to attach himself to the Prophet's household — and who lived to bury her brothers and her son.",
+    category: "HeroicWomen",
+    readTime: "6 min",
+    sections: {
+      intro: p(
+        "Umm Kulthum bint 'Ali ibn Abi Talib was the daughter of 'Ali and Fatimah al-Zahra (RA), the granddaughter of the Prophet ﷺ, and the younger sister of al-Hasan and al-Husayn.",
+        "She was born in Madinah a few years before the Prophet's death and was raised in the most blessed household of the Ummah.",
+      ),
+      life: p(
+        "When she came of age, 'Umar ibn al-Khattab — then Khalifah — sent to 'Ali asking for her hand. 'Ali initially proposed a younger daughter; 'Umar insisted on Umm Kulthum, saying: 'I heard the Messenger of Allah ﷺ say: Every lineage and relation will be cut off on the Day of Resurrection except my lineage and my relation. I love that there be between me and the Messenger of Allah ﷺ both lineage and relation.' (Reported in many sources including al-Hakim and al-Bayhaqi.)",
+        "'Ali agreed and gave her in marriage to 'Umar. From them came Zayd ibn 'Umar and Ruqayyah bint 'Umar.",
+        "After 'Umar's assassination in 23 AH she returned to her family. She was later married to 'Awn ibn Ja'far, then to his brother Muhammad ibn Ja'far, then to 'Abdullah ibn Ja'far — three sons of Ja'far ibn Abi Talib in succession after the death of each.",
+        "She lived through the murder of her brother al-Husayn at Karbala in 61 AH. Her own son Zayd ibn 'Umar — the son she had with the Khalifah 'Umar — was killed shortly afterwards in a tribal clash, and she died of grief on the same day, in the same hour. They were buried together. She was around fifty.",
+      ),
+      legacy: p(
+        "Umm Kulthum bint 'Ali is the bridge between the household of the Prophet ﷺ and the household of 'Umar — a marriage that, in classical Sunni scholarship, is itself a refutation of the later claim of unbridgeable enmity between 'Umar and the family of 'Ali.",
+        "She is the Hashimi princess who bore the title 'Mother of Zayd ibn 'Umar', and who, after a lifetime of loss, was buried beside her son on the day they both died.",
+      ),
+      keyFacts: [
+        "Daughter of 'Ali ibn Abi Talib and Fatimah al-Zahra (RA)",
+        "Granddaughter of the Prophet ﷺ; sister of al-Hasan and al-Husayn",
+        "Married to 'Umar ibn al-Khattab; bore him Zayd and Ruqayyah",
+        "Later married three sons of Ja'far ibn Abi Talib in succession",
+        "Lived to see Karbala; died on the same day as her son Zayd",
+      ],
+      lessons: p(
+        "Honour the Prophet's lineage, and honour what Islam joined together. The marriage of 'Umar and Umm Kulthum is itself a Sunni heritage.",
+        "A long life is a long parade of funerals. Build your sabr now while you still have the chance.",
+        "Marry to be near the Prophet ﷺ in the akhirah. 'Umar said it openly; we should pray for it quietly.",
+      ),
+    },
+  },
+  {
+    id: "women-umm-hisham-bint-harithah",
+    title: "Umm Hisham bint Harithah (RA) — She Who Memorised Surah Qaf from the Minbar",
+    description:
+      "The Ansariyyah whose oven shared smoke with the Prophet's household for two years, and who learned Surah Qaf only by hearing him recite it every Jumu'ah.",
+    category: "HeroicWomen",
+    readTime: "4 min",
+    sections: {
+      intro: p(
+        "Umm Hisham bint Harithah ibn al-Nu'man al-Ansariyyah was a woman of the Ansar of Madinah, sister of the Companion Harithah ibn al-Nu'man, in whose house the Prophet ﷺ frequently visited and prayed.",
+      ),
+      life: p(
+        "Her family lived close to the Masjid of the Prophet ﷺ — so close that, as she narrated, 'Our oven and the Messenger of Allah's oven were one for two years or so.' (Muslim)",
+        "She was a frequent attendant at the Friday khutbah. She narrated: 'I did not memorise Surah Qaf — By the glorious Qur'an — except from the tongue of the Messenger of Allah ﷺ. He used to recite it every Jumu'ah on the minbar when he addressed the people.' (Muslim, Abu Dawud, al-Nasa'i, and others.)",
+        "From this single narration the Sunnah of reciting Surah Qaf in the Friday khutbah is preserved, and the practice of women attending the khutbah and learning Qur'an from it is established.",
+        "She lived a quiet life of worship in Madinah and transmitted her hadiths to the early Tabi'in.",
+      ),
+      legacy: p(
+        "Umm Hisham is the woman who preserved a Sunnah of the Prophet's Friday sermon — a Sunnah that no man's report alone established as fully as hers. Her hadith is in Sahih Muslim and is the foundation of the chapter on what is recited from the minbar.",
+        "She is the proof that women in the back rows of the masjid are not absent from the transmission of the deen — they are sometimes its sole preservers.",
+      ),
+      keyFacts: [
+        "Of the Ansar; sister of Harithah ibn al-Nu'man (RA)",
+        "Lived next door to the Prophet's household",
+        "Memorised Surah Qaf solely by hearing the Friday khutbah",
+        "Sole narrator of the hadith that the Prophet ﷺ used to recite Qaf on the minbar",
+        "Hadith recorded in Sahih Muslim",
+      ],
+      lessons: p(
+        "Attend the Friday khutbah ready to learn. A surah can enter your heart between two adhans.",
+        "Sit close to the people of knowledge. Her oven shared smoke with the Prophet's; her chest carried his Qur'an.",
+        "A woman's narration can carry an entire Sunnah. Honour the female chains of the deen.",
+      ),
+    },
+  },
 ];
