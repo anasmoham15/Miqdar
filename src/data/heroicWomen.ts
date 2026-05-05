@@ -593,4 +593,152 @@ export const heroicWomenStories: Story[] = [
       ),
     },
   },
+  {
+    id: "women-fatimah-bint-al-khattab",
+    title: "Fatimah bint al-Khattab (RA) — The Sister Who Brought 'Umar to Islam",
+    description:
+      "Her brother burst into her house with a sword to kill the new Muslims — and left it carrying the parchment of Surah Ta-Ha and a kalimah on his lips.",
+    category: "HeroicWomen",
+    readTime: "6 min",
+    sections: {
+      intro: p(
+        "Fatimah bint al-Khattab al-'Adawiyyah was the younger sister of 'Umar ibn al-Khattab. She and her husband Sa'id ibn Zayd — one of the ten promised Paradise — had embraced Islam in the early days of the Makkan call, while 'Umar was still its most violent opponent.",
+        "She kept her Islam secret because she knew her brother. Khabbab ibn al-Aratt would come to her house quietly to teach her and her husband the Qur'an from a parchment of Surah Ta-Ha.",
+      ),
+      life: p(
+        "One day in the sixth year of prophethood, 'Umar set out from his house with his sword drawn, intending to kill the Prophet ﷺ once and for all. On the way Nu'aym ibn 'Abdullah met him and said: 'O 'Umar, will you not first set right your own household? Your sister and her husband have followed Muhammad.' 'Umar turned in fury and went to her door.",
+        "Inside, Khabbab was teaching them Surah Ta-Ha. They heard 'Umar's voice and Khabbab hid; the parchment was hidden under Fatimah's thigh. 'Umar burst in and demanded to know what they had been reading. They denied it. He struck Sa'id, then struck Fatimah across the face with such force that her face bled. The blood ran onto her dress.",
+        "Seeing his sister bleeding for what she believed in, something broke in him. His tone changed. 'Show me what you were reading.' She said: 'You are impure in your shirk. None touches it but the pure.' He went and washed.",
+        "He read: 'Ta-Ha. We have not sent down the Qur'an upon you to cause you distress…' By the time he reached: 'Indeed I am Allah; there is no god but Me, so worship Me and establish prayer for My remembrance,' he said: 'Take me to Muhammad.' He went straight to Dar al-Arqam, knocked on the door with his sword still in his hand, and embraced Islam in front of the Prophet ﷺ.",
+        "Fatimah lived a long life in Madinah. She raised her sons and daughters with Sa'id, narrated hadith, and saw her brother become the second Khalifah and the conqueror of two empires. The blood on her face had been the seed of all of it.",
+      ),
+      legacy: p(
+        "Fatimah bint al-Khattab is the woman whose patience under a slap from her own brother bought the Ummah 'Umar ibn al-Khattab. The Prophet ﷺ had supplicated: 'O Allah, strengthen Islam with one of the two 'Umars — 'Umar ibn al-Khattab or 'Amr ibn Hisham (Abu Jahl).' Fatimah's blood was the answer.",
+        "She is the model of the believing relative who keeps the deen alive inside a hostile household, waiting patiently for Allah to open the heart of the one who hates her for it.",
+      ),
+      keyFacts: [
+        "Sister of 'Umar ibn al-Khattab; wife of Sa'id ibn Zayd (one of the ten promised Paradise)",
+        "Embraced Islam years before 'Umar, in secret",
+        "Was struck by 'Umar; her bleeding face softened him",
+        "Refused to let him touch the Qur'an parchment until he washed",
+        "Her brother went directly from her house to embrace Islam at Dar al-Arqam",
+        "Lived to see 'Umar conquer Persia and Sham",
+      ],
+      lessons: p(
+        "Bleed for the truth before you preach it. 'Umar saw blood, not a sermon, and that is what moved him.",
+        "Give the Qur'an its dignity. She refused her brother's hand on it until he was pure — and that demand was itself da'wah.",
+        "Be patient with the harshest member of your family. The one most violent against Islam may yet become its sword.",
+        "The believer at home is a key. Many a tyrant has been turned by the silent iman of a sister, a wife, a mother in his own house.",
+      ),
+    },
+  },
+  {
+    id: "women-umm-kulthum-bint-uqbah",
+    title: "Umm Kulthum bint 'Uqbah (RA) — The Woman Who Crossed the Desert Alone",
+    description:
+      "The first Qurashi woman to make hijrah from Makkah on her own — and the reason Allah revealed the verse forbidding the return of believing women to the disbelievers.",
+    category: "HeroicWomen",
+    readTime: "6 min",
+    sections: {
+      intro: p(
+        "Umm Kulthum bint 'Uqbah ibn Abi Mu'ayt was a young Qurashi woman of Banu Umayyah. Her father 'Uqbah was one of the most vicious enemies of the Prophet ﷺ, the man who threw the camel's entrails on his back as he prayed and was later executed after Badr.",
+        "She was the half-sister, by mother, of 'Uthman ibn 'Affan. Despite her father's hostility she had become Muslim secretly in Makkah and longed to migrate.",
+      ),
+      life: p(
+        "After the Treaty of Hudaybiyah in 6 AH, one of the conditions was that any Makkan who came to Madinah would be returned. The Companions assumed this applied to women as well as men.",
+        "Umm Kulthum slipped out of Makkah on her own — a young woman crossing the open desert without escort, family, or caravan, with nothing but her trust in Allah and her direction toward Madinah. She reached the city alive.",
+        "Her two brothers, al-Walid and 'Umarah, came after her demanding her return under the treaty. She begged the Prophet ﷺ not to send her back. Allah then revealed: 'O you who believe, when believing women come to you as emigrants, examine them. Allah is most knowing as to their faith. And if you know them to be believers, then do not return them to the disbelievers… (al-Mumtahanah 60:10).' The Prophet ﷺ refused to hand her over.",
+        "She married Zayd ibn Harithah, then after his martyrdom Zubayr ibn al-'Awwam, then 'Abd al-Rahman ibn 'Awf, then 'Amr ibn al-'As — four of the most prominent Companions in succession. She narrated hadith and lived through 'Uthman's caliphate.",
+      ),
+      legacy: p(
+        "Umm Kulthum is the woman whose lone journey caused a verse of the Qur'an to be revealed in her defence. Her hijrah established as a permanent ruling that no believing woman who flees to the Muslims for her faith is to be returned.",
+        "She is the proof that a single sincere woman walking toward Allah can change the legal landscape of the Ummah.",
+      ),
+      keyFacts: [
+        "First Qurashi woman to migrate to Madinah on her own after Hudaybiyah",
+        "Half-sister (by mother) of 'Uthman ibn 'Affan",
+        "Daughter of 'Uqbah ibn Abi Mu'ayt, an arch-enemy of the Prophet ﷺ",
+        "Cause of revelation of Qur'an 60:10 protecting migrating believing women",
+        "Married Zayd, then al-Zubayr, then 'Abd al-Rahman ibn 'Awf, then 'Amr ibn al-'As",
+      ],
+      lessons: p(
+        "Do not let your father's record decide your faith. She came from one of the worst houses in Quraysh and walked alone toward the Prophet ﷺ.",
+        "A woman's hijrah can be a legal precedent. Her courage protected every fleeing sister after her.",
+        "Walk toward Allah even if no one walks with you. The desert was empty; her destination was not.",
+      ),
+    },
+  },
+  {
+    id: "women-umm-atiyyah",
+    title: "Umm 'Atiyyah al-Ansariyyah (RA) — The Washer of the Prophet's Daughter",
+    description:
+      "An Ansari woman who fought in seven expeditions, washed the body of the Prophet's own daughter Zaynab, and transmitted the entire fiqh of women's burial to the Ummah.",
+    category: "HeroicWomen",
+    readTime: "6 min",
+    sections: {
+      intro: p(
+        "Nusaybah bint al-Harith — known as Umm 'Atiyyah al-Ansariyyah — was a woman of the Ansar who embraced Islam early and lived a long, full life of service to the Prophet ﷺ and his household.",
+        "She is a primary source in the Sunnah for two distinct fields: the participation of women in jihad, and the rulings of ghusl al-mayyit (washing the dead) for women.",
+      ),
+      life: p(
+        "She narrated: 'I went out with the Messenger of Allah ﷺ on seven expeditions. I would stay in their tents, prepare their food, treat the wounded, and look after the sick.' (Muslim) Among these expeditions were Khaybar and Hunayn.",
+        "When the Prophet's daughter Zaynab (RA) died in 8 AH, the Prophet ﷺ entered the women and gave Umm 'Atiyyah and a small group the duty of washing her body. He instructed: 'Wash her three times, or five, or more if you see fit, with water and lote-leaf. Make the last washing with camphor — or a touch of camphor. When you have finished, inform me.' When they finished, he handed them his own waist-cloth and said: 'Wrap her in this innermost.' (Bukhari, Muslim)",
+        "From this single episode the entire fiqh of washing a deceased woman is derived: odd numbers, sidr, camphor in the last wash, the tying of the hair into three braids behind her, beginning with the right side and the parts of wudu — all of it on Umm 'Atiyyah's authority.",
+        "She also narrated the hadith commanding women — including young girls and even those in their menses — to come out for the 'Eid prayer: 'We were ordered to bring out the unmarried girls and the menstruating women on the two 'Eids, that they may witness the gathering of the Muslims and the supplication, while the menstruating women remain apart from the prayer-place.' (Bukhari, Muslim)",
+        "She lived a long life, settled in Basra in her later years, and taught both men and women.",
+      ),
+      legacy: p(
+        "Umm 'Atiyyah is one of the major women narrators of the fiqh of janazah and the participation of women in 'Eid and in expeditions. Her hadith are foundational in every madhhab on these chapters.",
+        "She is the proof that the women of the Sahaba were not bystanders to the Sunnah but its primary transmitters in the most intimate matters of life and death.",
+      ),
+      keyFacts: [
+        "Of the Ansar of Madinah",
+        "Accompanied the Prophet ﷺ on seven expeditions",
+        "Washed the body of Zaynab bint Muhammad (RA), the Prophet's daughter",
+        "Primary narrator for the fiqh of washing a female corpse",
+        "Narrator of the hadith commanding women out for the two 'Eids",
+        "Settled in Basra in later life and taught the Tabi'in",
+      ],
+      lessons: p(
+        "Some sisters carry whole chapters of fiqh. Honour the women narrators of the Sunnah.",
+        "Serve the Prophet's household in life and in death. Her hands prepared his daughter for burial.",
+        "Bring your daughters to the 'Eid gathering. The Sunnah is for them too.",
+      ),
+    },
+  },
+  {
+    id: "women-umm-sharik",
+    title: "Umm Sharik al-Dawsiyyah (RA) — The Woman Who Spread Islam Through the Women of Makkah",
+    description:
+      "A Qurashi woman of Daws who used her access to other women's homes to call them to Islam — until her own clan tortured her in the desert sun.",
+    category: "HeroicWomen",
+    readTime: "5 min",
+    sections: {
+      intro: p(
+        "Ghaziyyah bint Jabir, known as Umm Sharik, was of the tribe of Daws (the same tribe as Abu Hurayrah). She was married into Quraysh and lived in Makkah, which gave her unusual social access to the women of the city.",
+      ),
+      life: p(
+        "When she embraced Islam she did not hide it from the Makkan women. She moved from house to house quietly calling them to the new religion, and a number of women accepted Islam through her — slipping into the community of believers without their husbands knowing.",
+        "When her clan discovered what she was doing they seized her, tied her up, and took her out into the desert sun. They withheld water from her for three days in the height of summer, hoping to force her to renounce Islam. She narrated: 'I would have been finished, but every night I would feel a cool bucket placed between my hands. I would drink, and it would be lifted away. They came in the morning and said: Who has given you food and drink? I said: He who provides for you all without account. Allah's hand was upon me.' Eventually they realised they could not break her and let her go.",
+        "She made hijrah to Madinah. Some narrations report that she offered herself in marriage to the Prophet ﷺ, and the verse 'a believing woman who offers herself to the Prophet' (al-Ahzab 33:50) was revealed in connection with such cases. The Prophet ﷺ did not consummate the marriage but gave her the honour of being one of those who offered herself for his sake.",
+        "She was generous, kept the doors of her house open to guests, and spent on travellers and the poor.",
+      ),
+      legacy: p(
+        "Umm Sharik is the model of the believing woman who uses her natural social access — to other women's homes, to women's gatherings — as a quiet field of da'wah.",
+        "Her three days in the desert sun, sustained by an unseen bucket, are remembered as one of the early karamat granted to a woman tortured for the deen.",
+      ),
+      keyFacts: [
+        "Of Daws by birth, married into Quraysh",
+        "Brought a number of Makkan women to Islam through quiet visits",
+        "Tortured for three days in the desert sun without water",
+        "Reported to have been miraculously sustained by hidden water",
+        "Among those who offered themselves in marriage to the Prophet ﷺ",
+      ],
+      lessons: p(
+        "Use the access Allah gives you. Doors closed to men are open to women — go through them with the deen.",
+        "The torture cannot break the one Allah is feeding in secret. Trust the unseen bucket.",
+        "Quiet da'wah inside homes converts more than loud speeches in the street.",
+      ),
+    },
+  },
 ];
