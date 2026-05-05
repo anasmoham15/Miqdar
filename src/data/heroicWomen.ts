@@ -55,141 +55,6 @@ export const heroicWomenStories: Story[] = [
     },
   },
   {
-    id: "women-asma-bint-abi-bakr",
-    title: "Asma bint Abi Bakr (RA) — Dhat al-Nitaqayn",
-    description:
-      "She fed the Prophet ﷺ and her father in the Cave of Thawr, tearing her belt in two — and over a hundred years later still stood up to a tyrant in front of his soldiers.",
-    category: "HeroicWomen",
-    readTime: "8 min",
-    sections: {
-      intro: p(
-        "Asma bint Abi Bakr was the eldest daughter of Abu Bakr al-Siddiq, the half-sister of 'A'ishah, the wife of al-Zubayr ibn al-'Awwam, and the mother of 'Abdullah ibn al-Zubayr — the man who would one day rule Makkah and the Hijaz from inside the Sacred Mosque itself.",
-        "She embraced Islam in the early Makkan years and is counted among the seventeenth or eighteenth person to do so. She was about twenty-seven at the Hijrah and lived to be over a hundred — long enough to see her son killed in front of her by al-Hajjaj.",
-        "Her character was simple, brave, sharp-tongued when needed, and entirely bound to the truth. She was raised by Abu Bakr — and the apple did not fall far.",
-      ),
-      life: p(
-        "Her most famous moment came on the night of the Hijrah. The Prophet ﷺ and her father Abu Bakr were hiding in the Cave of Thawr, while Quraysh's search parties combed the hills above. Asma had to climb up the mountain at night with food and a water-skin without being detected.",
-        "When she reached the cave she found she had no rope to tie the food. She tore her belt — her nitaq — into two pieces, used one to tie the food, and used the other to tie the water-skin around her shoulder. The Prophet ﷺ said: 'Allah has given you in exchange two belts in Paradise.' From that day she was known as Dhat al-Nitaqayn — 'She of the Two Belts.'",
-        "After her father and the Prophet ﷺ left the cave for Madinah, Abu Jahl came to her family's house in fury. He demanded to know where her father had gone. She refused to tell him. He struck her so hard across the face that her earring flew off — but she said nothing.",
-        "She was pregnant with 'Abdullah ibn al-Zubayr when she made her own hijrah to Madinah. She gave birth to him on the way, at Quba'. He was the first Muslim child born in Madinah after the Hijrah, and the Muslims rejoiced openly because Quraysh had spread the rumour that magic had been worked on the Muhajirin so that they would have no children.",
-        "She lived in Madinah, then in Sham. She was famously generous, giving everything she had as fast as it came in. She raised 'Abdullah and his brother 'Urwah ibn al-Zubayr — who became one of the great Tabi'in jurists.",
-        "Her final great moment came at the very end of her long life. After her son 'Abdullah, the Caliph of the Hijaz, was killed in battle by al-Hajjaj's forces and his body crucified outside Makkah, al-Hajjaj came to her — an old, blind woman over a hundred years old. He thought she had broken. She had not.",
-        "He said: 'How do you find what I have done with the enemy of Allah?' She said: 'I find that you have ruined his world for him, but he has ruined your akhirah for you. I have heard that you said to him, You are the son of Dhat al-Nitaqayn — well, I am Dhat al-Nitaqayn. I tied with one belt the food of the Messenger of Allah ﷺ and the food of Abu Bakr in the cave, and with the other I tied a water-skin which a woman cannot do without. As for what you have done — the Messenger of Allah ﷺ told us that two will come out of Thaqif: a liar and a destroyer. The liar we have already seen. The destroyer is no one but you.'",
-        "She died in Makkah only days or weeks after her son's death, having held to the truth in the face of his killer until the very last hour of her life. She was over a hundred years old.",
-      ),
-      legacy: p(
-        "Asma's life is a single line drawn from the Cave of Thawr to the body of her son hanging outside Makkah — a line of unbroken courage in service of the Messenger of Allah ﷺ and his Ummah.",
-        "She is the woman who fed the Hijrah and who, more than seventy years later, faced its killer. Her two belts are remembered. The slap from Abu Jahl is remembered. The face-off with al-Hajjaj is remembered. Every one of these is a model for women of every generation.",
-        "She also raised one of the greatest Tabi'in: 'Urwah ibn al-Zubayr — one of the seven jurists of Madinah, a foundational source for the Sirah, and a quiet, scholarly opposite of his brother 'Abdullah's stormy political life. The same mother raised both.",
-      ),
-      keyFacts: [
-        "Eldest daughter of Abu Bakr; sister of 'A'ishah; wife of al-Zubayr",
-        "Tore her belt in two to carry food to the Prophet ﷺ in the Cave of Thawr",
-        "Slapped by Abu Jahl for refusing to reveal her father's hiding place",
-        "Mother of 'Abdullah ibn al-Zubayr — first Muslim child born in Madinah after the Hijrah",
-        "Mother of 'Urwah ibn al-Zubayr — one of the seven great jurists of Madinah",
-        "Confronted al-Hajjaj after he killed her son and crucified his body",
-        "Died in Makkah, over 100 years old, around 73 AH",
-      ],
-      lessons: p(
-        "Cut what you must to feed the truth. Asma tore her belt for the Prophet ﷺ. What can you tear from your own life to support the deen — your time, your image, your comforts?",
-        "Silence under a slap is a kind of strength. Asma did not betray her father even with a hand to her face. Train yourself to keep secrets and to bear pain for the right reasons.",
-        "Generosity blesses what passes through your hands. She gave away as fast as she received and her household was never short. Allah handles the books for the generous.",
-        "Raise sons who will face tyrants. 'Abdullah ibn al-Zubayr was raised by Asma. Mothers shape the spine of every leader.",
-        "Speak the truth at the very last hour of your life. At over a hundred years old, blind, mourning her son, she still spoke the prophetic word to al-Hajjaj's face. Live so that your last sentences are still true.",
-      ),
-    },
-  },
-  {
-    id: "women-umm-sulaym",
-    title: "Umm Sulaym bint Milhan (RA) — The Mahr of Islam",
-    description:
-      "Refused gold to marry a Muslim, asked only for his Islam as her dowry, raised Anas ibn Malik, and went into Hunayn pregnant with a dagger to defend her husband.",
-    category: "HeroicWomen",
-    readTime: "8 min",
-    sections: {
-      intro: p(
-        "Umm Sulaym al-Rumaysa' bint Milhan was an Ansari woman of Banu Najjar in Madinah. She was the mother of Anas ibn Malik — the boy who would serve the Prophet ﷺ for ten years and become one of the most prolific narrators of hadith in history.",
-        "She was among the very first women of Madinah to embrace Islam, in the period before the Hijrah, when the Ansar were quietly accepting the message brought by Mus'ab ibn 'Umayr. Her first husband Malik ibn al-Nadr — Anas's father — refused Islam and left her. He died on a journey to Sham.",
-        "Her character was patient, clear-headed, principled to the point that she would walk away from gold for a matter of faith — and as the moment at Hunayn would prove, physically courageous as well.",
-      ),
-      life: p(
-        "After her husband's death, Abu Talhah al-Ansari — one of the most eligible men of Madinah, still then a polytheist — proposed to her. She said: 'O Abu Talhah, do you not know that the god you worship is a tree that grew from the earth, that a carpenter from Banu so-and-so carved? Are you not ashamed?'",
-        "He said: 'I will think about what you have said.' He went away, returned, and said: 'I have thought. What you have said is true.' She answered: 'Then I will marry you, and I do not ask any mahr from you except your Islam.' He embraced Islam, married her on that mahr, and Thabit narrated from Anas: 'I never heard of a woman whose mahr was nobler than the mahr of Umm Sulaym — Islam.' (al-Nasa'i)",
-        "She and Abu Talhah had a son together. While Abu Talhah was away, the boy fell ill and died. Umm Sulaym laid him out, covered him, and told the household: 'Tell no one until I have told Abu Talhah.' Abu Talhah came home. She fed him, and she beautified herself for him. He spent the night with her as a husband. In the morning she said: 'O Abu Talhah, what do you think of a people who lent something to a household and then asked for it back — does that household have the right to refuse?' He said: 'No.' She said: 'Then count your son to be from Allah.' He was angry and went to the Prophet ﷺ. The Prophet ﷺ said: 'May Allah bless you in your night.' (Bukhari) From that night Allah gave them a son, 'Abdullah ibn Abi Talhah, who lived and had nine children, all of whom became scholars and reciters of the Qur'an.",
-        "Umm Sulaym brought her son Anas — a small boy of around ten — to the Prophet ﷺ when he arrived in Madinah, and said: 'O Messenger of Allah, this is my son. He can read and write. Take him as your servant.' The Prophet ﷺ accepted. Anas served him for ten years and later said: 'I served the Messenger of Allah ﷺ for ten years, and never did he say to me, Why did you do that? or Why did you not do that?' (Bukhari)",
-        "She fought at Hunayn alongside Abu Talhah. The Hawazin's first volley of arrows broke the Muslim front, and many — including new converts of Makkah — turned back. The Prophet ﷺ stood his ground with a small group, calling: 'I am the Prophet, no falsehood — I am the son of 'Abd al-Muttalib!'",
-        "Umm Sulaym had a small dagger tied at her waist. She was pregnant. Abu Talhah saw it and asked the Prophet ﷺ: 'O Messenger of Allah, this woman has a dagger.' She said: 'O Messenger of Allah, I keep it to slit the belly of any polytheist who comes near me.' The Prophet ﷺ laughed.",
-        "She survived the Prophet ﷺ by many years and continued narrating hadith. Anas reached great age and produced students who carried hadith all over the Muslim world.",
-      ),
-      legacy: p(
-        "Umm Sulaym is the woman who priced her marriage in iman. The phrase 'her mahr was Islam' has rung through the Ummah for fourteen centuries as the standard for what a believing woman can demand of a man.",
-        "She is also the perfect example of female sabr. The death of her child, the way she fed and beautified herself for her husband first, the way she broke the news with a question rather than an outburst — this is one of the most carefully studied prophetic stories of grief in classical scholarship.",
-        "And she is the woman with the dagger at Hunayn — pregnant, calm, intent on defending her Prophet ﷺ. Her body produced Anas ibn Malik for Islam; her hand was ready to produce blood for it as well.",
-      ),
-      keyFacts: [
-        "Ansari of Banu Najjar; one of the first women of Madinah to accept Islam",
-        "Mother of Anas ibn Malik, the Prophet's young servant",
-        "Refused all wealth from Abu Talhah; took only his Islam as mahr",
-        "Bore the death of her son with patience and broke the news to her husband through a question",
-        "Brought Anas to serve the Prophet ﷺ as a small boy",
-        "Carried a dagger at Hunayn to defend the Prophet ﷺ — while pregnant",
-        "Lived to see her son and grandson narrate the prophetic Sunnah",
-      ],
-      lessons: p(
-        "Marry for iman, not for wealth. The most blessed mahr in the Ummah's history was a kalimah. Sisters: lower the bar of money and raise the bar of deen. Brothers: make iman, not income, your offering.",
-        "Train your tongue to break hard news softly. Umm Sulaym told Abu Talhah of his son's death through a question. Hard news always lands better when wrapped in a calm word.",
-        "Children of patient mothers are blessed. Allah gave Umm Sulaym 'Abdullah and his nine scholar children after her sabr. Long-term patience grows long-term children.",
-        "Place your sons in the service of the deen. She brought Anas to the Prophet ﷺ at ten years old. Wherever you can, push your children toward the masjid, the scholars, and the work of Islam.",
-        "A woman with a dagger at Hunayn is not less feminine. Islam never asked Umm Sulaym to choose between dignity, marriage, motherhood and courage. She was all of these at once.",
-      ),
-    },
-  },
-  {
-    id: "women-al-khansa",
-    title: "Al-Khansa' bint 'Amr (RA) — The Poetess Who Sent Four Sons to Martyrdom",
-    description:
-      "The greatest woman poet of the Arabs, who at al-Qadisiyyah sent her four sons into battle and praised Allah when news came that all four had been killed.",
-    category: "HeroicWomen",
-    readTime: "7 min",
-    sections: {
-      intro: p(
-        "Tumadir bint 'Amr ibn al-Sharid al-Sulamiyyah, known to history as al-Khansa', was the greatest woman poet of the Arabs. She was born in pre-Islamic Najd and her elegies for her brother Sakhr, who was killed in tribal warfare, became proverbial. Even today they are studied in Arabic literature departments as the high water mark of the elegy form.",
-        "She came to the Prophet ﷺ as part of a delegation of her tribe, Banu Sulaym, and embraced Islam. The Prophet ﷺ used to say to her: 'Recite, O Khansa', recite!' She would recite poetry for him, and he would clap his hands together and say: 'Excellent, O Khansa', excellent!'",
-        "Her character was one of dignified, unwavering resolve. She had wept oceans for her brother before Islam — and after Islam, she would not weep for her sons.",
-      ),
-      life: p(
-        "Al-Khansa' had four sons, all of whom were Muslim. In 16 AH, the Caliph 'Umar ibn al-Khattab launched the campaign against the Persian Empire, and the decisive battle was fought at al-Qadisiyyah under Sa'd ibn Abi Waqqas.",
-        "On the night before the battle, al-Khansa' gathered her four sons in her tent and addressed them. The historians have preserved her speech almost word for word.",
-        "She said: 'O my sons, you embraced Islam by choice and emigrated by choice. By Allah, besides whom there is no god, you are the sons of one man as you are the sons of one woman. I did not betray your father, nor did I shame your maternal uncle, nor did I dishonour your lineage. You know what Allah has prepared for the Muslims of immense reward in fighting the disbelievers. Know that the everlasting Hereafter is better than the perishing world. Allah said: O you who have believed, persevere and endure and remain stationed and fear Allah that you may be successful.' (Aal 'Imran 3:200)",
-        "She continued: 'When the morning comes, may Allah keep you safe — go to the battlefield with the first who go. Plunge into the very heart of the enemy. Seek victory or martyrdom. By Allah, I do not wish to see any of you return.'",
-        "Her four sons rode out at dawn. They fought from sunrise to sunset. By evening, all four had been killed. The news reached al-Khansa' in her tent. She did not wail. She did not tear her clothes. She did not strike her face. She said: 'Praise be to Allah who honoured me with their martyrdom. And I hope from my Lord that He will gather me with them in the abode of His mercy.'",
-        "When 'Umar heard, he wept. He continued to send her the share of the four sons' stipends from the bait al-mal until she died — and she gave most of it away.",
-      ),
-      legacy: p(
-        "Al-Khansa' is studied in Arabic literature for her poetry and in Islamic history for her motherhood. Both are giant.",
-        "Before Islam she had wept until her eyes were almost ruined for her brother Sakhr — single grief, single brother, a personal loss. After Islam she gave four sons in one day and praised Allah. The transformation in her is the transformation Islam works in the soul: from grieving the loss of one for personal pride, to giving four for the pleasure of Allah.",
-        "Her speech to her sons on the night before al-Qadisiyyah is one of the most quoted speeches in classical Arabic literature. Mothers in every Muslim land have read it to their sons before exams, before leaving for hijrah, before going to war, for fourteen centuries.",
-      ),
-      keyFacts: [
-        "The greatest woman poet of the Arabs, before and after Islam",
-        "Embraced Islam with a delegation of Banu Sulaym",
-        "The Prophet ﷺ used to ask her to recite her poetry to him",
-        "Her four sons were Muslims who fought at al-Qadisiyyah in 16 AH",
-        "She delivered a famous speech to them the night before the battle",
-        "All four were killed; she said: 'Praise be to Allah who honoured me with their martyrdom'",
-        "'Umar continued the four stipends to her until she died, and she gave most of them away",
-      ],
-      lessons: p(
-        "Your speech to your children is your most powerful teaching. Al-Khansa's words to her sons shaped their last hours on earth. What are the last words your children remember from you?",
-        "Convert grief into worship. Al-Khansa' wept for one in jahiliyyah and praised Allah for four in Islam. Iman reframes loss into reward.",
-        "Send your sons toward what Allah loves. Many parents push their children toward safety, comfort, status. Al-Khansa' pushed hers toward the front line. Push your children, in proportion, toward what Allah loves: knowledge, sincerity, masjid, service.",
-        "Poets are leaders. The Prophet ﷺ celebrated her poetry. Beautiful, righteous words shape generations. Use your writing, your speaking, your social media for words that lift Islam.",
-        "Praise Allah at the moment that breaks others. The hour of news of four martyred sons is the hour of test. Praising Allah at that hour is what Allah loves. Train your tongue now to say 'Alhamdulillah' on autopilot.",
-      ),
-    },
-  },
-  {
     id: "women-rufaydah",
     title: "Rufaydah bint Sa'd al-Aslamiyyah (RA) — The First Nurse of Islam",
     description:
@@ -385,86 +250,6 @@ export const heroicWomenStories: Story[] = [
         "Use what is in your hand. A tent pole became a weapon of strategic deception.",
         "Defend the vulnerable before they realise they are in danger. She acted before the spy reported back.",
         "Courage is inherited and cultivated. Her son and grandson built nations on what she demonstrated in one afternoon.",
-      ),
-    },
-  },
-  {
-    id: "women-umm-salama-political",
-    title: "Umm Salama (RA) at Hudaybiyya — The Counsel That Saved a Treaty",
-    description:
-      "The Mother of the Believers whose single piece of advice at Hudaybiyya broke a deadlock that nearly destroyed the Muslim camp.",
-    category: "HeroicWomen",
-    readTime: "6 min",
-    sections: {
-      intro: p(
-        "Hind bint Abi Umayyah, known as Umm Salama, was a Qurashi noblewoman of Makhzum. She was first married to Abu Salama 'Abdullah ibn 'Abd al-Asad, with whom she emigrated to Abyssinia and then to Madinah. After Abu Salama's death from a Uhud wound, the Prophet ﷺ married her in 4 AH.",
-        "She was among the most intelligent of the Mothers of the Believers — a woman of fiqh, of poise, and of remarkable political wisdom. She lived to be perhaps the last surviving wife of the Prophet ﷺ, dying around 61 AH, having seen the martyrdom of al-Husayn at Karbala.",
-      ),
-      life: p(
-        "In 6 AH the Prophet ﷺ took 1,400 Companions to Makkah for 'Umrah. Quraysh blocked them at al-Hudaybiyya. After tense negotiations the Treaty of Hudaybiyya was signed — its terms appearing to favour Quraysh. The Muslims were to turn back without 'Umrah and return the next year.",
-        "When the Prophet ﷺ finished signing he commanded the Companions: 'Stand up, sacrifice your animals, and shave your heads.' He had to repeat the command three times. Not a single Companion moved. They were so devastated by what looked like humiliation that they could not bring themselves to act.",
-        "The Prophet ﷺ entered the tent of Umm Salama greatly distressed. She listened, then said: 'O Messenger of Allah, do you want this? Go out, do not speak a word to anyone, sacrifice your camel, and call your barber to shave your head.'",
-        "He went out, sacrificed his camel without a word, and called Khirash to shave his head. The moment the Companions saw him acting, they leaped up — the dam broke — and they began sacrificing and shaving so quickly and so emotionally that, in the Prophet's ﷺ own words, 'they almost killed each other from grief'.",
-        "Umm Salama's counsel saved the day. The treaty held. Within two years the Conquest of Makkah was achieved as a direct consequence of Hudaybiyya. She was — at that moment — perhaps the single most strategically valuable advisor the Prophet ﷺ had.",
-        "She narrated 378 hadiths, taught fiqh in the Prophet's ﷺ Mosque after his death, and was consulted by 'A'isha and by senior Companions on matters of inheritance, divorce, and ritual.",
-      ),
-      legacy: p(
-        "Umm Salama is the standing proof that a woman's counsel can change the course of Muslim history. The Companions who would not move at the Prophet's ﷺ thrice-repeated command moved instantly because of one woman's sentence delivered behind a curtain.",
-        "She is also a model of the long-living Mother of the Believers — a teacher of generations, a legal authority of the highest rank, and a witness to almost the entire arc from the migration to Abyssinia to the tragedy of Karbala.",
-      ),
-      keyFacts: [
-        "Married the Prophet ﷺ in 4 AH after the death of Abu Salama",
-        "Migrated twice — to Abyssinia, then to Madinah",
-        "Her counsel resolved the Hudaybiyya impasse, 6 AH",
-        "Narrated 378 hadiths",
-        "Last surviving wife of the Prophet ﷺ; died c. 61 AH after Karbala",
-      ],
-      lessons: p(
-        "A wise woman's single sentence can do what a Prophet's repeated command cannot — Allah places hikma in unexpected places.",
-        "Lead by example before commanding. Her advice was: act, then they will follow.",
-        "Marry — and consult — women of intellect.",
-        "Long life is a station of teaching. Outliving the Prophet ﷺ by half a century, she became a portal of knowledge for two generations.",
-      ),
-    },
-  },
-  {
-    id: "women-umm-ayman",
-    title: "Umm Ayman (RA) — The Mother After His Mother",
-    description:
-      "Barakah al-Habashiyya, the Abyssinian nursemaid who raised the orphan Muhammad ﷺ from infancy, migrated twice, and whom he called 'my mother after my mother'.",
-    category: "HeroicWomen",
-    readTime: "7 min",
-    sections: {
-      intro: p(
-        "Barakah bint Tha'labah, known as Umm Ayman, was an Abyssinian (Habashi) slave-girl who belonged to the Prophet's ﷺ father 'Abdullah ibn 'Abd al-Muttalib. When 'Abdullah died, she became part of the household of the infant Muhammad ﷺ and his mother Aminah bint Wahb.",
-        "She accompanied Aminah and the six-year-old Muhammad ﷺ on their journey to visit his maternal uncles in Madinah. On the return journey Aminah died at al-Abwa'. It was Umm Ayman who held the orphan, dug what comfort she could from the desert, and brought him back to Makkah and to his grandfather 'Abd al-Muttalib.",
-      ),
-      life: p(
-        "She raised him through the rest of his childhood — through the death of 'Abd al-Muttalib two years later, through his transfer into the care of his uncle Abu Talib. The Prophet ﷺ used to say of her: 'Umm Ayman is my mother after my mother.' (Ibn Sa'd, Tabaqat)",
-        "She remained part of his household into adulthood. When he married Khadijah at twenty-five, he freed Umm Ayman as a wedding gift to his new household. She married 'Ubayd ibn Zayd of the Khazraj and later, after his death, married Zayd ibn Harithah — the Prophet's ﷺ adopted son — and bore him their son Usamah ibn Zayd, the beloved 'Hibb ibn al-Hibb' (beloved son of the beloved).",
-        "She accepted Islam in the very first wave. She made the Hijra to Abyssinia and then later the Hijra to Madinah — making her one of the rare women who made both migrations. She is among the small group called 'those who migrated to the two qiblahs'.",
-        "She fought at Uhud, carrying water and tending the wounded, and at Hunayn she stood firm beside the Prophet ﷺ when most of the army fled.",
-        "She narrated several hadiths, transmitted through her son Usamah and his descendants. The Prophet ﷺ used to visit her at her home and used to drink from a special cup she kept for him. He used to laugh at her broken Arabic — once she said 'al-Salam 'alayka' instead of 'al-Salam 'alaykum' and he gently corrected her with affection.",
-        "After his death she wept inconsolably. Abu Bakr and 'Umar came to visit her — they said: 'O Umm Ayman, why do you weep? What is with the Messenger of Allah ﷺ is better for him than what he has left behind.' She said: 'I do not weep because I do not know that. I weep because the revelation from heaven has been cut off from us.' They wept with her.",
-      ),
-      legacy: p(
-        "Umm Ayman is the woman behind the Prophet ﷺ in the most literal sense — present from his infancy, accompanying him on his mother's death, raising him, freed by him, marrying into his family, mothering one of his most beloved Companions, and outliving him to weep at the loss of revelation itself.",
-        "She died about six months into the caliphate of 'Uthman, around 24 AH, in Madinah. Her son Usamah commanded the army the Prophet ﷺ dispatched on his deathbed, and her bloodline, through Usamah and his descendants, remained honoured in the city of the Prophet ﷺ for generations.",
-        "She represents the principle that nobility in Islam is not by colour or by birth: an African slave-girl became 'mother' to the Final Messenger and a Mother of the Believers in everything but title.",
-      ),
-      keyFacts: [
-        "Abyssinian nursemaid in the Prophet's ﷺ father's household",
-        "Raised the Prophet ﷺ from infancy after his mother's death",
-        "Made both Hijras — to Abyssinia and to Madinah",
-        "Married Zayd ibn Harithah; mother of Usamah ibn Zayd",
-        "Wept at the cessation of revelation, not at the Prophet's ﷺ death itself",
-        "Died c. 24 AH in Madinah",
-      ],
-      lessons: p(
-        "Honour those who raised you — even after Allah has raised you above them.",
-        "Race and rank dissolve in the service of the deen. An African slave became 'mother' to the Final Messenger.",
-        "Two hijras, two battlefields, two husbands in the cause — a single life can carry the weight of an entire chapter.",
-        "Weep for the loss of guidance, not for the loss of presence. Her wisdom on the death of the Prophet ﷺ surpassed even Abu Bakr's and 'Umar's in that moment.",
       ),
     },
   },
@@ -732,128 +517,6 @@ export const heroicWomenStories: Story[] = [
     },
   },
   {
-    id: "women-hafsa-bint-umar",
-    title: "Hafsa bint 'Umar (RA) — The Mother of the Believers Who Held the First Mushaf",
-    description:
-      "Daughter of 'Umar, widow of a martyr of Badr, wife of the Prophet ﷺ, and the woman in whose house the only complete written copy of the Qur'an was kept until 'Uthman copied from it.",
-    category: "HeroicWomen",
-    readTime: "7 min",
-    sections: {
-      intro: p(
-        "Hafsa bint 'Umar ibn al-Khattab was born five years before the Prophet ﷺ began to receive revelation. She inherited her father's height, sharpness, and quick temper. She accepted Islam as a girl in Makkah with her family and made the Hijra to Madinah.",
-        "She was first married to Khunays ibn Hudhafah al-Sahmi — one of the migrants to Abyssinia and a Companion of Badr. He died of wounds taken at Badr (some say at Uhud), leaving her a young widow.",
-      ),
-      life: p(
-        "'Umar was distressed at her widowhood. He went first to 'Uthman ibn 'Affan and offered her in marriage. 'Uthman had recently lost the Prophet's ﷺ daughter Ruqayyah; he asked for time to consider, then declined. 'Umar then went to Abu Bakr and offered her. Abu Bakr was silent and gave no answer at all. 'Umar was hurt and complained to the Prophet ﷺ. The Prophet ﷺ said: 'Hafsa will marry one better than 'Uthman, and 'Uthman will marry one better than Hafsa.' He then proposed to her himself, and 'Uthman married the Prophet's ﷺ daughter Umm Kulthum.",
-        "Abu Bakr later told 'Umar: 'Do not be angry with me. I knew the Prophet ﷺ had mentioned Hafsa, and I would not disclose his secret. Had he left her, I would have married her.'",
-        "She married the Prophet ﷺ in 3 AH. She was strong-willed; she once answered him back, and her father came and rebuked her severely. She wept. The Prophet ﷺ later forgave and reaffirmed her.",
-        "She was literate — taught to write by al-Shifa' bint 'Abdullah at the Prophet's ﷺ instruction. This literacy turned her into the guardian of the most precious physical object in Islamic history.",
-        "When Abu Bakr commissioned Zayd ibn Thabit to compile the Qur'an into a single mushaf after the Battle of Yamama, the master copy was kept in Abu Bakr's house. On his death it passed to 'Umar. On 'Umar's death — by his own instruction — it passed to his daughter Hafsa.",
-        "For roughly fifteen years the only complete authoritative written mushaf in the world was in Hafsa's possession. When 'Uthman commissioned the unified copies in 25 AH, he sent to Hafsa to borrow her mushaf to copy from. She gave it to him; the committee produced the codices that were sent to the great cities; he returned it to her. After her death Marwan ibn al-Hakam, then governor of Madinah, took it from her brother and burned it — fearing it would become a source of dispute against the 'Uthmani standard.",
-        "She narrated 60 hadiths. She was a hafizah of the Qur'an, a giver of fatwa, and a teacher.",
-      ),
-      legacy: p(
-        "Every printed mushaf in the world today descends through 'Uthman's committee — and they copied from the mushaf kept in Hafsa's house. She is, in the most literal sense, the woman who guarded the text of the Qur'an for the ummah at the most fragile moment of its written transmission.",
-        "She died in Sha'ban 45 AH in Madinah, in the caliphate of Mu'awiya, and was buried in al-Baqi'. Her brother 'Abdullah ibn 'Umar washed her body.",
-      ),
-      keyFacts: [
-        "Daughter of 'Umar ibn al-Khattab; widow of Khunays ibn Hudhafah, a Badri",
-        "Married the Prophet ﷺ in 3 AH",
-        "Literate — taught by al-Shifa' bint 'Abdullah",
-        "Guardian of the master mushaf compiled under Abu Bakr",
-        "Lent the mushaf to 'Uthman's committee — the source of every Qur'an today",
-        "Narrated 60 hadiths; died Sha'ban 45 AH",
-      ],
-      lessons: p(
-        "Literacy is a trust. Allah may use it to make you the keeper of His own Book.",
-        "The widow of a martyr is a candidate for the highest stations.",
-        "Sometimes silence about a hidden trust looks like rejection. Time will explain it.",
-        "What is given to you to keep — keep it.",
-      ),
-    },
-  },
-  {
-    id: "women-zaynab-bint-jahsh",
-    title: "Zaynab bint Jahsh (RA) — The Mother of the Believers Married by Heaven",
-    description:
-      "Cousin of the Prophet ﷺ, the only one of his wives whose marriage was contracted by Allah from above the seven heavens — and the most generous, working with her hands and giving everything in charity.",
-    category: "HeroicWomen",
-    readTime: "7 min",
-    sections: {
-      intro: p(
-        "Zaynab bint Jahsh ibn Ri'ab al-Asadiyyah was the daughter of the Prophet's ﷺ paternal aunt Umaymah bint 'Abd al-Muttalib — making her his first cousin. She was Qurashi by mother, Asadi by father. Beautiful, noble, and deeply pious from her youth.",
-      ),
-      life: p(
-        "The Prophet ﷺ proposed her in marriage to his freed slave and adopted son Zayd ibn Harithah. Zaynab and her family were initially reluctant — she was a noblewoman of Quraysh, he was a freedman — but the Prophet ﷺ insisted, and Allah revealed: 'It is not for a believing man or woman, when Allah and His Messenger have decreed a matter, to have any choice in their affair.' (al-Ahzab 36) She submitted and married Zayd.",
-        "The marriage did not flourish. Zayd repeatedly came to the Prophet ﷺ wishing to divorce her; the Prophet ﷺ repeatedly told him: 'Keep your wife and fear Allah,' even though Allah had already told the Prophet ﷺ that He intended to dissolve the marriage and to marry Zaynab to him. The Prophet ﷺ feared what people would say — that he had married the wife of his adopted son. Allah corrected him: 'You concealed within yourself that which Allah was to disclose, and you feared the people, while Allah has more right that you fear Him.' (al-Ahzab 37)",
-        "Zayd divorced her. After her 'iddah, Allah revealed: 'So when Zayd had ended his association with her, We married her to you.' (al-Ahzab 37) The marriage was contracted by Allah Himself from above the seven heavens — without a guardian on earth, without a contract written by men, without witnesses among the Companions. Zaynab used to say to the other Mothers of the Believers: 'Your families gave you in marriage; my Lord gave me in marriage from above the seven heavens.' (Bukhari)",
-        "This marriage abolished the pre-Islamic custom of treating an adopted son's wife as forbidden like a real son's wife. The verse 'Muhammad is not the father of any of your men' (al-Ahzab 40) was revealed in this connection.",
-        "She was the most generous of all the Prophet's ﷺ wives. She used to tan leather and pierce skins with her own hands and sell them, and she gave every dirham she earned in charity. The Prophet ﷺ said of his wives: 'The first of you to follow me will be the one with the longest hand' — meaning the most generous. They thought he meant the tallest, and used to compare their arms; but it was Zaynab whose 'hand' was longest in giving. She was the first to follow him to the next world after his death, dying in 20 AH.",
-        "When 'Umar's stipends from the diwan reached her she would distribute the entire bag among her relatives, the orphans, and the poor before night fell. Once she was given 12,000 dirhams. She gave it all away in a single sitting and raised her hands and said: 'O Allah, do not let me see another of these stipends.' She died before the next was distributed.",
-      ),
-      legacy: p(
-        "Zaynab is the only person in human history whose marriage contract was issued from the Throne. Her marriage abolished a Jahili practice and freed adopted sons from the legal status of biological sons.",
-        "Her generosity reset the standard. She is the model of the woman who works with her hands and keeps nothing of what she earns.",
-        "She died in Madinah in 20 AH, aged about 53, in the caliphate of 'Umar. 'Umar himself led her funeral prayer. She was the first of the Mothers of the Believers to die after the Prophet ﷺ — fulfilling his prophecy of 'the longest hand'.",
-      ),
-      keyFacts: [
-        "First cousin of the Prophet ﷺ; daughter of his aunt Umaymah",
-        "First married to Zayd ibn Harithah at the Prophet's ﷺ insistence",
-        "Married to the Prophet ﷺ by direct revelation — al-Ahzab 37",
-        "Tanned leather with her own hands and gave the proceeds in charity",
-        "First of the Mothers of the Believers to die after the Prophet ﷺ (20 AH)",
-        "Funeral led by 'Umar ibn al-Khattab",
-      ],
-      lessons: p(
-        "Submit to a difficult command — the verse may be revealed for you.",
-        "Generosity is measured by what leaves the hand, not by what enters it.",
-        "Work with your hands. Even a Mother of the Believers tanned leather.",
-        "The race to Paradise is won by the longest hand, not the loudest tongue.",
-      ),
-    },
-  },
-  {
-    id: "women-umm-habibah",
-    title: "Umm Habibah bint Abi Sufyan (RA) — The Mother of the Believers Whose Father Was Abu Sufyan",
-    description:
-      "Daughter of the chief enemy of Islam who became wife of the Prophet ﷺ — and refused even to let her father sit on her bed because his body was the body of a polytheist.",
-    category: "HeroicWomen",
-    readTime: "6 min",
-    sections: {
-      intro: p(
-        "Ramlah bint Abi Sufyan ibn Harb of Banu Umayyah — known by her kunyah Umm Habibah — was the daughter of Abu Sufyan, the chief of Quraysh and the most determined opponent of the Prophet ﷺ before the Conquest. She accepted Islam in the very first wave with her husband 'Ubaydullah ibn Jahsh.",
-        "She and her husband emigrated to Abyssinia in the second migration. There a tragedy struck: her husband apostatised to Christianity and tried to drag her with him. She refused. He died as a Christian in exile. She was left a widow with a small daughter, Habibah, in a foreign Christian land — surrounded by the Negus's court but cut off from her own people, who were Quraysh and her enemies.",
-      ),
-      life: p(
-        "The Prophet ﷺ in Madinah, hearing of her plight, sent 'Amr ibn Umayyah al-Damri to the Negus to ask for her hand in marriage on his behalf. The Negus called her, summoned Khalid ibn Sa'id ibn al-'As as her wakil, contracted the marriage, paid a mahr of 400 gold dinars on behalf of the Prophet ﷺ, and held a marriage feast. She was lifted from widowhood and exile to the rank of Mother of the Believers — without ever being in the same continent as her husband at the moment of the contract.",
-        "She returned to Madinah from Abyssinia in 7 AH, the same year Ja'far returned. She entered the Prophet's ﷺ household with quiet dignity and lived there until his death in 11 AH.",
-        "The famous incident with her father came shortly before the Conquest of Makkah. Abu Sufyan, sensing the political wind, came secretly to Madinah to try to renew the broken Treaty of Hudaybiyya. He went first to his own daughter's apartment in the Mosque. As he sat down on the bed, she pulled the bedding away from under him.",
-        "He said: 'O my daughter — am I too good for the bed, or is the bed too good for me?' She said: 'It is the bed of the Messenger of Allah ﷺ and you are an unclean polytheist. I do not wish you to sit on it.' He said: 'By Allah, evil has touched you since you left me.'",
-        "She did not recant. He left, went to Abu Bakr, then 'Umar, then 'Ali — none would intercede for him. The Conquest came. He embraced Islam at the last moment, having had — perhaps — more time to think about his daughter's words than about anyone else's argument.",
-        "She narrated 65 hadiths. After the Prophet's ﷺ death she lived in Madinah and was deeply respectful even of her own brother Mu'awiya — but never compromised on the matter of the deen.",
-      ),
-      legacy: p(
-        "Umm Habibah is the proof that the bond of faith outranks the bond of blood. Her father was the man who had organised the wars against Islam at Badr, Uhud, and Khandaq; her brother became the first Umayyad caliph; she stayed loyal to the Prophet's ﷺ household over both of them.",
-        "Her marriage contract — performed across an ocean by the Christian king of Abyssinia on behalf of the final Messenger of Allah, with no Muslim guardian present from her family — is one of the most extraordinary marriage contracts in Islamic history.",
-        "She died in Madinah in 44 AH, in the caliphate of her brother Mu'awiya, and was buried in al-Baqi'.",
-      ),
-      keyFacts: [
-        "Daughter of Abu Sufyan; sister of Mu'awiya",
-        "Migrated to Abyssinia; widowed there when her husband apostatised",
-        "Married the Prophet ﷺ by proxy through the Negus, mahr 400 dinars",
-        "Pulled the bedding from under her own father because he was a polytheist",
-        "Narrated 65 hadiths",
-        "Died in Madinah, 44 AH",
-      ],
-      lessons: p(
-        "Faith is thicker than blood. The deen is the family.",
-        "Allah replaces what He takes. She lost a husband and gained the Prophet ﷺ.",
-        "Honour your father with words; honour the Prophet ﷺ with your bed and your loyalty.",
-        "A righteous daughter may be the closing argument that brings her father to Islam.",
-      ),
-    },
-  },
-  {
     id: "women-lubabah-al-kubra",
     title: "Lubabah al-Kubra (Umm al-Fadl) (RA) — The Second Woman in Islam",
     description:
@@ -927,6 +590,154 @@ export const heroicWomenStories: Story[] = [
         "When you have nothing, offer it anyway. Barakah follows honesty in poverty.",
         "Watch carefully and remember precisely. Your description may feed the imagination of the ummah for fifteen centuries.",
         "The cup-bearer of a people drinks last.",
+      ),
+    },
+  },
+  {
+    id: "women-fatimah-bint-al-khattab",
+    title: "Fatimah bint al-Khattab (RA) — The Sister Who Brought 'Umar to Islam",
+    description:
+      "Her brother burst into her house with a sword to kill the new Muslims — and left it carrying the parchment of Surah Ta-Ha and a kalimah on his lips.",
+    category: "HeroicWomen",
+    readTime: "6 min",
+    sections: {
+      intro: p(
+        "Fatimah bint al-Khattab al-'Adawiyyah was the younger sister of 'Umar ibn al-Khattab. She and her husband Sa'id ibn Zayd — one of the ten promised Paradise — had embraced Islam in the early days of the Makkan call, while 'Umar was still its most violent opponent.",
+        "She kept her Islam secret because she knew her brother. Khabbab ibn al-Aratt would come to her house quietly to teach her and her husband the Qur'an from a parchment of Surah Ta-Ha.",
+      ),
+      life: p(
+        "One day in the sixth year of prophethood, 'Umar set out from his house with his sword drawn, intending to kill the Prophet ﷺ once and for all. On the way Nu'aym ibn 'Abdullah met him and said: 'O 'Umar, will you not first set right your own household? Your sister and her husband have followed Muhammad.' 'Umar turned in fury and went to her door.",
+        "Inside, Khabbab was teaching them Surah Ta-Ha. They heard 'Umar's voice and Khabbab hid; the parchment was hidden under Fatimah's thigh. 'Umar burst in and demanded to know what they had been reading. They denied it. He struck Sa'id, then struck Fatimah across the face with such force that her face bled. The blood ran onto her dress.",
+        "Seeing his sister bleeding for what she believed in, something broke in him. His tone changed. 'Show me what you were reading.' She said: 'You are impure in your shirk. None touches it but the pure.' He went and washed.",
+        "He read: 'Ta-Ha. We have not sent down the Qur'an upon you to cause you distress…' By the time he reached: 'Indeed I am Allah; there is no god but Me, so worship Me and establish prayer for My remembrance,' he said: 'Take me to Muhammad.' He went straight to Dar al-Arqam, knocked on the door with his sword still in his hand, and embraced Islam in front of the Prophet ﷺ.",
+        "Fatimah lived a long life in Madinah. She raised her sons and daughters with Sa'id, narrated hadith, and saw her brother become the second Khalifah and the conqueror of two empires. The blood on her face had been the seed of all of it.",
+      ),
+      legacy: p(
+        "Fatimah bint al-Khattab is the woman whose patience under a slap from her own brother bought the Ummah 'Umar ibn al-Khattab. The Prophet ﷺ had supplicated: 'O Allah, strengthen Islam with one of the two 'Umars — 'Umar ibn al-Khattab or 'Amr ibn Hisham (Abu Jahl).' Fatimah's blood was the answer.",
+        "She is the model of the believing relative who keeps the deen alive inside a hostile household, waiting patiently for Allah to open the heart of the one who hates her for it.",
+      ),
+      keyFacts: [
+        "Sister of 'Umar ibn al-Khattab; wife of Sa'id ibn Zayd (one of the ten promised Paradise)",
+        "Embraced Islam years before 'Umar, in secret",
+        "Was struck by 'Umar; her bleeding face softened him",
+        "Refused to let him touch the Qur'an parchment until he washed",
+        "Her brother went directly from her house to embrace Islam at Dar al-Arqam",
+        "Lived to see 'Umar conquer Persia and Sham",
+      ],
+      lessons: p(
+        "Bleed for the truth before you preach it. 'Umar saw blood, not a sermon, and that is what moved him.",
+        "Give the Qur'an its dignity. She refused her brother's hand on it until he was pure — and that demand was itself da'wah.",
+        "Be patient with the harshest member of your family. The one most violent against Islam may yet become its sword.",
+        "The believer at home is a key. Many a tyrant has been turned by the silent iman of a sister, a wife, a mother in his own house.",
+      ),
+    },
+  },
+  {
+    id: "women-umm-kulthum-bint-uqbah",
+    title: "Umm Kulthum bint 'Uqbah (RA) — The Woman Who Crossed the Desert Alone",
+    description:
+      "The first Qurashi woman to make hijrah from Makkah on her own — and the reason Allah revealed the verse forbidding the return of believing women to the disbelievers.",
+    category: "HeroicWomen",
+    readTime: "6 min",
+    sections: {
+      intro: p(
+        "Umm Kulthum bint 'Uqbah ibn Abi Mu'ayt was a young Qurashi woman of Banu Umayyah. Her father 'Uqbah was one of the most vicious enemies of the Prophet ﷺ, the man who threw the camel's entrails on his back as he prayed and was later executed after Badr.",
+        "She was the half-sister, by mother, of 'Uthman ibn 'Affan. Despite her father's hostility she had become Muslim secretly in Makkah and longed to migrate.",
+      ),
+      life: p(
+        "After the Treaty of Hudaybiyah in 6 AH, one of the conditions was that any Makkan who came to Madinah would be returned. The Companions assumed this applied to women as well as men.",
+        "Umm Kulthum slipped out of Makkah on her own — a young woman crossing the open desert without escort, family, or caravan, with nothing but her trust in Allah and her direction toward Madinah. She reached the city alive.",
+        "Her two brothers, al-Walid and 'Umarah, came after her demanding her return under the treaty. She begged the Prophet ﷺ not to send her back. Allah then revealed: 'O you who believe, when believing women come to you as emigrants, examine them. Allah is most knowing as to their faith. And if you know them to be believers, then do not return them to the disbelievers… (al-Mumtahanah 60:10).' The Prophet ﷺ refused to hand her over.",
+        "She married Zayd ibn Harithah, then after his martyrdom Zubayr ibn al-'Awwam, then 'Abd al-Rahman ibn 'Awf, then 'Amr ibn al-'As — four of the most prominent Companions in succession. She narrated hadith and lived through 'Uthman's caliphate.",
+      ),
+      legacy: p(
+        "Umm Kulthum is the woman whose lone journey caused a verse of the Qur'an to be revealed in her defence. Her hijrah established as a permanent ruling that no believing woman who flees to the Muslims for her faith is to be returned.",
+        "She is the proof that a single sincere woman walking toward Allah can change the legal landscape of the Ummah.",
+      ),
+      keyFacts: [
+        "First Qurashi woman to migrate to Madinah on her own after Hudaybiyah",
+        "Half-sister (by mother) of 'Uthman ibn 'Affan",
+        "Daughter of 'Uqbah ibn Abi Mu'ayt, an arch-enemy of the Prophet ﷺ",
+        "Cause of revelation of Qur'an 60:10 protecting migrating believing women",
+        "Married Zayd, then al-Zubayr, then 'Abd al-Rahman ibn 'Awf, then 'Amr ibn al-'As",
+      ],
+      lessons: p(
+        "Do not let your father's record decide your faith. She came from one of the worst houses in Quraysh and walked alone toward the Prophet ﷺ.",
+        "A woman's hijrah can be a legal precedent. Her courage protected every fleeing sister after her.",
+        "Walk toward Allah even if no one walks with you. The desert was empty; her destination was not.",
+      ),
+    },
+  },
+  {
+    id: "women-umm-atiyyah",
+    title: "Umm 'Atiyyah al-Ansariyyah (RA) — The Washer of the Prophet's Daughter",
+    description:
+      "An Ansari woman who fought in seven expeditions, washed the body of the Prophet's own daughter Zaynab, and transmitted the entire fiqh of women's burial to the Ummah.",
+    category: "HeroicWomen",
+    readTime: "6 min",
+    sections: {
+      intro: p(
+        "Nusaybah bint al-Harith — known as Umm 'Atiyyah al-Ansariyyah — was a woman of the Ansar who embraced Islam early and lived a long, full life of service to the Prophet ﷺ and his household.",
+        "She is a primary source in the Sunnah for two distinct fields: the participation of women in jihad, and the rulings of ghusl al-mayyit (washing the dead) for women.",
+      ),
+      life: p(
+        "She narrated: 'I went out with the Messenger of Allah ﷺ on seven expeditions. I would stay in their tents, prepare their food, treat the wounded, and look after the sick.' (Muslim) Among these expeditions were Khaybar and Hunayn.",
+        "When the Prophet's daughter Zaynab (RA) died in 8 AH, the Prophet ﷺ entered the women and gave Umm 'Atiyyah and a small group the duty of washing her body. He instructed: 'Wash her three times, or five, or more if you see fit, with water and lote-leaf. Make the last washing with camphor — or a touch of camphor. When you have finished, inform me.' When they finished, he handed them his own waist-cloth and said: 'Wrap her in this innermost.' (Bukhari, Muslim)",
+        "From this single episode the entire fiqh of washing a deceased woman is derived: odd numbers, sidr, camphor in the last wash, the tying of the hair into three braids behind her, beginning with the right side and the parts of wudu — all of it on Umm 'Atiyyah's authority.",
+        "She also narrated the hadith commanding women — including young girls and even those in their menses — to come out for the 'Eid prayer: 'We were ordered to bring out the unmarried girls and the menstruating women on the two 'Eids, that they may witness the gathering of the Muslims and the supplication, while the menstruating women remain apart from the prayer-place.' (Bukhari, Muslim)",
+        "She lived a long life, settled in Basra in her later years, and taught both men and women.",
+      ),
+      legacy: p(
+        "Umm 'Atiyyah is one of the major women narrators of the fiqh of janazah and the participation of women in 'Eid and in expeditions. Her hadith are foundational in every madhhab on these chapters.",
+        "She is the proof that the women of the Sahaba were not bystanders to the Sunnah but its primary transmitters in the most intimate matters of life and death.",
+      ),
+      keyFacts: [
+        "Of the Ansar of Madinah",
+        "Accompanied the Prophet ﷺ on seven expeditions",
+        "Washed the body of Zaynab bint Muhammad (RA), the Prophet's daughter",
+        "Primary narrator for the fiqh of washing a female corpse",
+        "Narrator of the hadith commanding women out for the two 'Eids",
+        "Settled in Basra in later life and taught the Tabi'in",
+      ],
+      lessons: p(
+        "Some sisters carry whole chapters of fiqh. Honour the women narrators of the Sunnah.",
+        "Serve the Prophet's household in life and in death. Her hands prepared his daughter for burial.",
+        "Bring your daughters to the 'Eid gathering. The Sunnah is for them too.",
+      ),
+    },
+  },
+  {
+    id: "women-umm-sharik",
+    title: "Umm Sharik al-Dawsiyyah (RA) — The Woman Who Spread Islam Through the Women of Makkah",
+    description:
+      "A Qurashi woman of Daws who used her access to other women's homes to call them to Islam — until her own clan tortured her in the desert sun.",
+    category: "HeroicWomen",
+    readTime: "5 min",
+    sections: {
+      intro: p(
+        "Ghaziyyah bint Jabir, known as Umm Sharik, was of the tribe of Daws (the same tribe as Abu Hurayrah). She was married into Quraysh and lived in Makkah, which gave her unusual social access to the women of the city.",
+      ),
+      life: p(
+        "When she embraced Islam she did not hide it from the Makkan women. She moved from house to house quietly calling them to the new religion, and a number of women accepted Islam through her — slipping into the community of believers without their husbands knowing.",
+        "When her clan discovered what she was doing they seized her, tied her up, and took her out into the desert sun. They withheld water from her for three days in the height of summer, hoping to force her to renounce Islam. She narrated: 'I would have been finished, but every night I would feel a cool bucket placed between my hands. I would drink, and it would be lifted away. They came in the morning and said: Who has given you food and drink? I said: He who provides for you all without account. Allah's hand was upon me.' Eventually they realised they could not break her and let her go.",
+        "She made hijrah to Madinah. Some narrations report that she offered herself in marriage to the Prophet ﷺ, and the verse 'a believing woman who offers herself to the Prophet' (al-Ahzab 33:50) was revealed in connection with such cases. The Prophet ﷺ did not consummate the marriage but gave her the honour of being one of those who offered herself for his sake.",
+        "She was generous, kept the doors of her house open to guests, and spent on travellers and the poor.",
+      ),
+      legacy: p(
+        "Umm Sharik is the model of the believing woman who uses her natural social access — to other women's homes, to women's gatherings — as a quiet field of da'wah.",
+        "Her three days in the desert sun, sustained by an unseen bucket, are remembered as one of the early karamat granted to a woman tortured for the deen.",
+      ),
+      keyFacts: [
+        "Of Daws by birth, married into Quraysh",
+        "Brought a number of Makkan women to Islam through quiet visits",
+        "Tortured for three days in the desert sun without water",
+        "Reported to have been miraculously sustained by hidden water",
+        "Among those who offered themselves in marriage to the Prophet ﷺ",
+      ],
+      lessons: p(
+        "Use the access Allah gives you. Doors closed to men are open to women — go through them with the deen.",
+        "The torture cannot break the one Allah is feeding in secret. Trust the unseen bucket.",
+        "Quiet da'wah inside homes converts more than loud speeches in the street.",
       ),
     },
   },
