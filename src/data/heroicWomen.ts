@@ -918,4 +918,140 @@ export const heroicWomenStories: Story[] = [
       ),
     },
   },
+  {
+    id: "women-khawlah-bint-thalabah",
+    title: "Khawlah bint Tha'labah (RA) — The Woman Whose Complaint Allah Heard from Above the Heavens",
+    description:
+      "The Ansari woman whose case against her husband descended as the opening of Surah al-Mujadilah, immortalising her voice in the Qur'an.",
+    category: "HeroicWomen",
+    readTime: "5 min",
+    sections: {
+      intro: p(
+        "Khawlah bint Tha'labah ibn Asram was an Ansari woman of the Khazraj, married to Aws ibn al-Samit, the brother of the famous Companion 'Ubadah ibn al-Samit (RA). She was a woman known for her sharp intelligence, her fear of Allah, and a tongue that did not flatter.",
+      ),
+      life: p(
+        "Aws was an older man of difficult temperament. One day in anger he said to her the pre-Islamic formula of zihar: 'You are to me as the back of my mother' — a jahili divorce that left a woman neither married nor free. Khawlah refused to accept that her marriage and the future of her children should be ended by an angry word and a pagan custom.",
+        "She went to the Prophet ﷺ and pleaded her case. She said: 'O Messenger of Allah, he has consumed my youth, I have given him my belly. Now that I am old and can bear no more children, he has cast me off. O Allah, I complain to You.' The Prophet ﷺ at first said: 'I see nothing but that you are now forbidden to him.' She kept arguing, raising her voice in complaint to Allah while the Prophet ﷺ listened.",
+        "'A'ishah (RA) said: 'Blessed is the One whose hearing encompasses all things. I could hear Khawlah from one corner of the room and some of her words were hidden from me — and Allah, from above the seven heavens, revealed concerning her: \"Allah has heard the speech of the woman who disputes with you concerning her husband and complains to Allah…\"' (Surah al-Mujadilah, 58:1).",
+        "The Qur'an then legislated the kaffarah of zihar — freeing a slave, or fasting two consecutive months, or feeding sixty poor people — and her marriage was restored. Aws could not free a slave nor fast, so the Prophet ﷺ helped them feed the sixty poor.",
+        "Years later, 'Umar ibn al-Khattab (RA), as Caliph, was riding with a group when an old woman stopped him in the road and lectured him at length about the fear of Allah and the rights of the people. He stood in the sun and listened until she finished. A man said: 'O Amir al-Mu'minin, you stood for this old woman and held up the chiefs of Quraysh for her?' 'Umar said: 'Woe to you. Do you know who this is? This is Khawlah bint Tha'labah, whose words Allah heard from above the seven heavens. By Allah, if she had kept me standing from morning until night, I would not have left except for prayer.'",
+      ),
+      legacy: p(
+        "Khawlah is the woman whose disputation is named in the Qur'an: Surah al-Mujadilah — 'The Woman Who Disputes' — is named after her. Her case ended the jahili practice of zihar in the Ummah forever and established that a woman's complaint, when sincere, can reach the Throne.",
+      ),
+      keyFacts: [
+        "Ansari Sahabiyyah, wife of Aws ibn al-Samit (RA)",
+        "Cause of revelation of Surah al-Mujadilah, verses 1-4",
+        "Established the ruling of kaffarah for zihar in Islam",
+        "'Umar (RA) as Caliph would stop in the road to listen to her counsel",
+        "Recorded by al-Bukhari, Ibn Majah, Ahmad, and the books of asbab al-nuzul",
+      ],
+      lessons: p(
+        "No woman's voice is too small for the Throne. Allah heard Khawlah from beneath a roof — He hears you wherever you are.",
+        "Sincere complaint to Allah is worship. She turned to her Lord before any human court.",
+        "True leadership listens. 'Umar held up Quraysh in the sun for one old woman of taqwa.",
+      ),
+    },
+  },
+  {
+    id: "women-khawlah-bint-hakim",
+    title: "Khawlah bint Hakim (RA) — The Matchmaker of the Prophet ﷺ",
+    description:
+      "The righteous Sahabiyyah who, after Khadijah's death, gently proposed to the Prophet ﷺ that he remarry, opening the way for Sawda and 'A'ishah.",
+    category: "HeroicWomen",
+    readTime: "4 min",
+    sections: {
+      intro: p(
+        "Khawlah bint Hakim al-Sulamiyyah was the wife of 'Uthman ibn Maz'un (RA), one of the earliest Companions and the first Muhajir to die in Madinah. She was an early Muslim woman of high piety, known for her closeness to the household of the Prophet ﷺ and her care for his needs after the death of Khadijah (RA).",
+      ),
+      life: p(
+        "After Khadijah (RA) passed away in the Year of Sorrow, the Prophet ﷺ was left with young daughters and a household without a wife. Khawlah saw what no one else dared to mention. She came to him and said: 'O Messenger of Allah, will you not marry?' He said: 'After Khadijah?' She said: 'Yes. If you wish, a virgin, and if you wish, a previously married woman.' He said: 'Who is the virgin and who is the previously married woman?' She said: 'The virgin is the daughter of the most beloved of Allah's creation to you — 'A'ishah bint Abi Bakr. And the previously married woman is Sawda bint Zam'ah; she has believed in you and followed you.' He said: 'Go and mention me to them both.'",
+        "Khawlah went first to the house of Abu Bakr (RA), then to the house of Sawda. By her hand the two marriages were arranged that would shape the rest of the Prophet's household and, through 'A'ishah, the transmission of more than two thousand hadith to the Ummah.",
+        "Khawlah is also the woman to whom the Prophet ﷺ said: 'O Khawlah, this dunya is sweet and green. Whoever takes it with its right has been blessed in it, and whoever takes it without right will be like the one who eats and is not satisfied.' (Ahmad)",
+        "She and her husband 'Uthman ibn Maz'un were neighbours of the Prophet ﷺ in Madinah. She nursed her husband through his last illness and the Prophet ﷺ kissed his forehead after his death and wept until his tears fell on 'Uthman's cheek.",
+      ),
+      legacy: p(
+        "Khawlah is remembered as the architect of the Prophet's later household. The most consequential women in his life after Khadijah — 'A'ishah and Sawda — entered through her tongue. The Ummah's connection to the Prophet's private Sunnah passes through a door she opened.",
+      ),
+      keyFacts: [
+        "Wife of 'Uthman ibn Maz'un (RA), early Muhajir",
+        "Proposed both Sawda and 'A'ishah as wives to the Prophet ﷺ",
+        "Recipient of the hadith 'this dunya is sweet and green'",
+        "Lived as a neighbour of the Prophet's household in Madinah",
+        "Recorded by Ibn Sa'd, Ibn Ishaq, and al-Tabarani",
+      ],
+      lessons: p(
+        "A small act of care for a brother or sister in deen can shape the Ummah for centuries.",
+        "Insight is a gift: see what others do not see and act before the moment passes.",
+        "The dunya is sweet — handle it the way Khawlah was told to: with right, or not at all.",
+      ),
+    },
+  },
+  {
+    id: "women-layla-bint-abi-hathma",
+    title: "Layla bint Abi Hathma (RA) — The First Woman to Migrate to Abyssinia",
+    description:
+      "An early Muslimah who, with her husband 'Amir ibn Rabi'ah, was among the very first to abandon Makkah for the sake of Allah, twice — to Abyssinia and then to Madinah.",
+    category: "HeroicWomen",
+    readTime: "4 min",
+    sections: {
+      intro: p(
+        "Layla bint Abi Hathma ibn Hudhayfah was of the Quraysh, married to 'Amir ibn Rabi'ah (RA), one of the earliest Companions. She and her husband accepted Islam in the very first days of the call, while it was still being whispered in the houses of Makkah.",
+      ),
+      life: p(
+        "When Quraysh's persecution intensified and the Prophet ﷺ permitted his Companions to migrate to Abyssinia, Layla and 'Amir were among the first to leave. 'Umar ibn al-Khattab (RA) — then still an enemy of Islam — saw her loading her camel as she prepared to depart. He stopped and watched her in silence for a long moment. She said: 'Yes, O Abu Hafs, we are going out in the land of Allah. You have hurt us and oppressed us, and we are going to a land where we will not be hurt.' He said: 'May Allah accompany you,' and she saw a softness in him she had never seen before. When 'Amir came home, she said to him: 'O Abu 'Abdullah, if only you had seen 'Umar today, his gentleness and his sadness for us!' He said: 'Do you hope that he will become Muslim?' She said: 'Yes.' He said: 'The donkey of al-Khattab will become Muslim before 'Umar.' She remembered her husband's words years later when 'Umar entered Islam and shook Quraysh.",
+        "Layla and 'Amir migrated twice — to Abyssinia first, then back to Makkah, and finally to Madinah. Some of the early sources name her as the very first woman to migrate to Abyssinia. Her son 'Abdullah ibn 'Amir was born in the migration and grew up to be a Companion in his own right.",
+        "She lived in Madinah as a respected Muhajirah, witnessing the building of the masjid, the change of qiblah, and the great battles. Her husband 'Amir was a fighter at Badr.",
+      ),
+      legacy: p(
+        "Layla represents the first wave of Muslim women who chose exile over comfort. Her conversation with 'Umar before his Islam is preserved in Ibn Ishaq, Ibn Hisham, and Ibn Sa'd as one of the key human moments before 'Umar's heart turned.",
+      ),
+      keyFacts: [
+        "Of Quraysh; wife of 'Amir ibn Rabi'ah (RA), an early Companion",
+        "Among the first — by some accounts the very first — woman to migrate to Abyssinia",
+        "Her parting from 'Umar before his Islam is recorded in the Sira",
+        "Migrated again to Madinah; mother of 'Abdullah ibn 'Amir, a Sahabi",
+        "Recorded in Ibn Hisham's Sira and Ibn Sa'd's Tabaqat",
+      ],
+      lessons: p(
+        "When a land harms your deen, leave it for Allah's land — the earth is wide.",
+        "Speak the truth even to your oppressors with dignity, not insult. Layla's calm reply softened 'Umar.",
+        "You may be the small seed of someone else's guidance without ever knowing it in this life.",
+      ),
+    },
+  },
+  {
+    id: "women-atikah-bint-zayd",
+    title: "'Atikah bint Zayd (RA) — The Wife of Martyrs",
+    description:
+      "A Qurayshi poetess and Sahabiyyah married in turn to four of the greatest men of Islam — almost all of whom were martyred — and praised by 'Umar (RA) himself.",
+    category: "HeroicWomen",
+    readTime: "5 min",
+    sections: {
+      intro: p(
+        "'Atikah bint Zayd ibn 'Amr ibn Nufayl was a noblewoman of Quraysh, the sister of the Companion Sa'id ibn Zayd (RA), one of the ten promised Paradise, and the niece of Zayd ibn 'Amr — the hanif who had rejected idols before the message even came. She was a poetess of beautiful elegies and a woman of unusual presence.",
+      ),
+      life: p(
+        "She was first married to 'Abdullah ibn Abi Bakr al-Siddiq (RA), the son of the first Caliph. He loved her so intensely that she distracted him from his daily worship. His father Abu Bakr (RA) noticed and told him to choose between her and his deen. 'Abdullah divorced her — and was then so heartbroken that Abu Bakr ordered him to take her back. 'Abdullah was wounded at the siege of Ta'if and died of his wounds in Madinah, leaving her widowed. She composed a famous elegy beginning: 'I have sworn that my eye will never cease its weeping, and that my skin will not cease its mourning…'",
+        "'Umar ibn al-Khattab (RA), then Caliph, married her after her 'iddah. She used to attend the prayers in the Prophet's masjid even at night. 'Umar disliked it but knew he could not forbid what the Prophet ﷺ had permitted; he would say: 'By Allah, you know I do not love this.' She would say: 'By Allah, I will not stop until you forbid me.' He would not. 'Umar himself was martyred at the mihrab in 23 AH, and she was widowed a second time.",
+        "She then married al-Zubayr ibn al-'Awwam (RA), the disciple of the Prophet ﷺ and one of the ten promised Paradise. He too was killed — in the conflict after the Battle of the Camel. Some narrations add a fourth marriage to al-Husayn ibn 'Ali (RA), who was martyred at Karbala, though the historians differ on this. Whether three or four, every husband she had was either a Companion of the highest rank or a martyr — and she outlived them all.",
+        "She composed an elegy for 'Umar after his martyrdom that the Companions remembered for generations: 'O eye, be generous with a flowing tear / for a man who feared no blame in Allah…' Ibn 'Abbas heard her recite it and said: 'She has spoken the truth, by Allah.'",
+      ),
+      legacy: p(
+        "'Atikah is one of the great Qurayshi Sahabiyyat whose life traces, like a golden thread, the very spine of early Islam — Siddiq, Faruq, Hawari, and (by some accounts) the grandson of the Prophet ﷺ. She is the woman whose tongue made elegies for the men who built the Ummah.",
+      ),
+      keyFacts: [
+        "Sister of Sa'id ibn Zayd (RA), one of the ten promised Paradise",
+        "Married to 'Abdullah ibn Abi Bakr, then 'Umar ibn al-Khattab, then al-Zubayr ibn al-'Awwam (RA)",
+        "Famous Arab poetess of elegies for her martyred husbands",
+        "Insisted on attending congregational prayer in the Prophet's masjid",
+        "Recorded by Ibn Sa'd, Ibn Hajar in al-Isabah, and Ibn 'Abd al-Barr in al-Isti'ab",
+      ],
+      lessons: p(
+        "A believing woman is honoured by the company of righteous men, but her own deen is hers alone — 'Atikah was known for her prayer, not only her marriages.",
+        "Grief in Islam is allowed beautiful expression — her elegies were not despair but love and witness.",
+        "What the Prophet ﷺ permitted, no husband — even 'Umar — can forbid. Hold the Sunnah firmly.",
+      ),
+    },
+  },
 ];
