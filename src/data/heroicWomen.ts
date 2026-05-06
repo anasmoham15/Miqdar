@@ -885,4 +885,37 @@ export const heroicWomenStories: Story[] = [
       ),
     },
   },
+  {
+    id: "women-arwa-bint-abd-al-muttalib",
+    title: "Arwa bint 'Abd al-Muttalib (RA) — The Aunt Who Defended the Prophet ﷺ",
+    description:
+      "Paternal aunt of the Prophet ﷺ who stood publicly against Quraysh in defence of her nephew, accepted Islam, and migrated to Madinah.",
+    category: "HeroicWomen",
+    readTime: "4 min",
+    sections: {
+      intro: p(
+        "Arwa bint 'Abd al-Muttalib was a paternal aunt of the Prophet ﷺ — sister of his father 'Abdullah, of Hamzah, of Abu Talib, and of Safiyyah. She was married to 'Umayr ibn Wahb and was the mother of Tulayb ibn 'Umayr, one of the early Companions.",
+      ),
+      life: p(
+        "Her son Tulayb accepted Islam early, in Dar al-Arqam, and went home to his mother. He said: 'I have followed Muhammad and submitted to Allah, the Lord of the worlds.' She said: 'The most worthy of your support and aid is your cousin. By Allah, if we could do what the men do, we would protect him and defend him.' He said: 'What stops you from accepting Islam and following him? Your brother Hamzah has accepted it.' She said: 'I will see what my sisters do, then I will be like one of them.' He said: 'I beg you to go to him and greet him with salam, believe in him, and bear witness that there is no god but Allah and that he is the Messenger of Allah.' She did.",
+        "When Quraysh increased their persecution of the Prophet ﷺ and Abu Lahab spoke against him publicly, Tulayb struck Abu Lahab on the head and split it open. Abu Lahab's people seized Tulayb. Arwa came out and said in front of the gathered Quraysh: 'How excellent is what he has done — defending the son of his maternal uncle who has come to him with the truth from his Lord!' Abu Lahab said: 'I see you have followed Muhammad as well!' She said: 'Yes — so help your nephew. By Allah, if I could fight beside him, I would.'",
+        "She migrated to Madinah and lived there as a Sahabiyyah. Her son Tulayb was at Badr.",
+      ),
+      legacy: p(
+        "Arwa is one of the early aunts of the Prophet ﷺ who openly took his side at a time when his own uncle Abu Lahab was leading the war against him. Her words in the courtyard of the Ka'bah are preserved by Ibn Sa'd and Ibn Hisham as one of the bravest public declarations made by a Qurayshi woman in the Makkan period.",
+      ),
+      keyFacts: [
+        "Paternal aunt of the Prophet ﷺ; sister of Hamzah and Abu Talib",
+        "Mother of Tulayb ibn 'Umayr, one of the early Companions of Dar al-Arqam",
+        "Defended the Prophet ﷺ publicly against Abu Lahab",
+        "Accepted Islam in Makkah and migrated to Madinah",
+        "Recorded by Ibn Sa'd in Tabaqat al-Kubra and Ibn Hisham in the Sira",
+      ],
+      lessons: p(
+        "Family ties tested by truth reveal who is truly noble. Arwa chose her nephew over her clan.",
+        "A mother's words can shape a son's courage. Tulayb struck Abu Lahab because he was raised on truth.",
+        "Public testimony for Islam in a hostile setting is a station the Prophet ﷺ never forgot.",
+      ),
+    },
+  },
 ];
