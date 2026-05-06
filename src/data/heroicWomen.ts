@@ -885,4 +885,141 @@ export const heroicWomenStories: Story[] = [
       ),
     },
   },
+  {
+    id: "women-umm-waraqah-bint-abdullah-al-ansariyyah",
+    title: "Umm Waraqah bint 'Abdullah (RA) — The Imam of Her Own Household",
+    description:
+      "An Ansari woman who memorised the Qur'an in the lifetime of the Prophet ﷺ and was appointed by him as imam of her household, the first woman in Islam given that station.",
+    category: "HeroicWomen",
+    readTime: "4 min",
+    sections: {
+      intro: p(
+        "Umm Waraqah bint 'Abdullah ibn al-Harith al-Ansariyyah was a woman of the Ansar of Madinah. She was one of the small number of Companions — male or female — who had memorised the entire Qur'an in the lifetime of the Prophet ﷺ.",
+      ),
+      life: p(
+        "When the expedition of Badr was about to march, Umm Waraqah came to the Prophet ﷺ and said: 'O Messenger of Allah, give me permission to go out with you on this expedition. I will tend to your wounded and nurse your sick. Perhaps Allah will grant me martyrdom.' He said: 'Stay in your house, for Allah will grant you martyrdom.' From that day she was called al-Shahidah — 'the Martyr.'",
+        "Because of her memorisation of the Qur'an, the Prophet ﷺ appointed her to lead the people of her household — including a male mu'adhdhin — in prayer in her own home. She had a male caller to prayer who would call the adhan, and she would lead the household. (Abu Dawud, Ahmad)",
+        "She had freed two of her slaves on the condition of mudabbar — that they would be free upon her death. Years later, in the caliphate of 'Umar ibn al-Khattab (RA), those two became impatient for their freedom. They strangled her in her own bed at night and fled.",
+        "When her body was discovered, 'Umar (RA) stood in Madinah and said: 'By Allah, the Messenger of Allah ﷺ spoke the truth. He used to say: Come, let us visit the martyr.' He hunted down the two slaves and crucified them — the first crucifixion in Madinah after the Prophet ﷺ.",
+      ),
+      legacy: p(
+        "Umm Waraqah is the proof from the lifetime of the Prophet ﷺ that a woman of knowledge can lead the prayer of her own household — a position recorded in the books of Abu Dawud, Ahmad, and Ibn Khuzaymah, and discussed by every major school of fiqh.",
+        "She is also the proof that martyrdom is not only on the battlefield. The Prophet ﷺ called her al-Shahidah while she lived, and she died, decades later, exactly as he had foretold.",
+      ),
+      keyFacts: [
+        "Ansariyyah; one of the few female huffaz of the Qur'an in the Prophet's lifetime",
+        "Called al-Shahidah ('the Martyr') by the Prophet ﷺ before her death",
+        "Appointed by the Prophet ﷺ to lead the prayer of her household",
+        "Killed by two of her slaves in the caliphate of 'Umar (RA), as foretold",
+        "Hadith of her imamate recorded by Abu Dawud and Ahmad",
+      ],
+      lessons: p(
+        "Memorise the Book of Allah. It changes the station Allah gives you, in this life and the next.",
+        "Ambition for martyrdom is not foolishness — it is faith. Allah answers the sincere request even from a quiet bedroom.",
+        "Knowledge confers leadership. Where the Prophet ﷺ placed knowledge, he placed authority.",
+      ),
+    },
+  },
+  {
+    id: "women-umm-sulaym-bint-milhan-second",
+    title: "Umm Haram bint Milhan (RA) — The First Martyr of the Sea",
+    description:
+      "An Ansari woman, aunt of Anas ibn Malik, whom the Prophet ﷺ foretold would sail with the first naval expedition of Islam — and she did, dying as a martyr at sea.",
+    category: "HeroicWomen",
+    readTime: "4 min",
+    sections: {
+      intro: p(
+        "Umm Haram bint Milhan al-Ansariyyah was a woman of Banu Najjar, sister of Umm Sulaym, aunt of Anas ibn Malik (RA), and wife of 'Ubadah ibn al-Samit (RA), one of the great Companions and a participant at the Pledges of al-'Aqabah.",
+        "She was a mahram of the Prophet ﷺ through breastfeeding ties, which is why he visited her house in Quba' and rested there.",
+      ),
+      life: p(
+        "Anas ibn Malik narrated: 'The Messenger of Allah ﷺ entered upon Umm Haram bint Milhan, and she fed him. He slept, then woke up smiling. She said: What makes you smile, O Messenger of Allah? He said: People of my ummah were shown to me, riding upon this sea like kings upon thrones. She said: O Messenger of Allah, ask Allah to make me one of them. He supplicated for her, then slept again. He woke smiling and said the same thing. She asked the same question. He said: You will be among the first.' (Bukhari, Muslim)",
+        "Decades passed. In the caliphate of 'Uthman ibn 'Affan (RA), in 27 AH, Mu'awiyah — then governor of Sham — was given permission to launch the first Muslim naval expedition, against Cyprus. Umm Haram, by now an old woman, sailed with her husband 'Ubadah ibn al-Samit on that fleet. She had not forgotten the Prophet's promise.",
+        "The Muslims landed on Cyprus and conquered the island. As Umm Haram dismounted from her riding animal after the campaign, the animal threw her. Her neck broke. She died there, on the soil of Cyprus, exactly as the Prophet ﷺ had foretold — among the first of his ummah to ride upon the sea like kings.",
+      ),
+      legacy: p(
+        "Her grave is in Larnaca, Cyprus, to this day — known as the Tomb of Hala Sultan and one of the most visited Muslim sites in the eastern Mediterranean.",
+        "Her hadith is one of the foundational evidences for naval jihad in Islamic law and one of the clearest miracles of the Prophet's foreknowledge: a promise made in a small Ansari house in Quba' in the 1st year of the Hijrah, fulfilled on a Mediterranean island a quarter of a century later.",
+      ),
+      keyFacts: [
+        "Ansariyyah of Banu Najjar; aunt of Anas ibn Malik (RA)",
+        "Wife of 'Ubadah ibn al-Samit (RA)",
+        "Foretold by the Prophet ﷺ to be among the first to sail in Allah's path",
+        "Sailed with the first Muslim naval expedition (Cyprus, 27 AH)",
+        "Died on Cyprus; her tomb stands there to this day",
+      ],
+      lessons: p(
+        "Ask Allah for great things. The Prophet ﷺ never refused a sincere request for martyrdom.",
+        "A promise of Allah's Messenger ﷺ is a debt that time always pays.",
+        "Old age is not a barrier to jihad, hijrah, or sea-travel for the sake of Allah.",
+      ),
+    },
+  },
+  {
+    id: "women-arwa-bint-abd-al-muttalib",
+    title: "Arwa bint 'Abd al-Muttalib (RA) — The Aunt Who Defended the Prophet ﷺ",
+    description:
+      "Paternal aunt of the Prophet ﷺ who stood publicly against Quraysh in defence of her nephew, accepted Islam, and migrated to Madinah.",
+    category: "HeroicWomen",
+    readTime: "4 min",
+    sections: {
+      intro: p(
+        "Arwa bint 'Abd al-Muttalib was a paternal aunt of the Prophet ﷺ — sister of his father 'Abdullah, of Hamzah, of Abu Talib, and of Safiyyah. She was married to 'Umayr ibn Wahb and was the mother of Tulayb ibn 'Umayr, one of the early Companions.",
+      ),
+      life: p(
+        "Her son Tulayb accepted Islam early, in Dar al-Arqam, and went home to his mother. He said: 'I have followed Muhammad and submitted to Allah, the Lord of the worlds.' She said: 'The most worthy of your support and aid is your cousin. By Allah, if we could do what the men do, we would protect him and defend him.' He said: 'What stops you from accepting Islam and following him? Your brother Hamzah has accepted it.' She said: 'I will see what my sisters do, then I will be like one of them.' He said: 'I beg you to go to him and greet him with salam, believe in him, and bear witness that there is no god but Allah and that he is the Messenger of Allah.' She did.",
+        "When Quraysh increased their persecution of the Prophet ﷺ and Abu Lahab spoke against him publicly, Tulayb struck Abu Lahab on the head and split it open. Abu Lahab's people seized Tulayb. Arwa came out and said in front of the gathered Quraysh: 'How excellent is what he has done — defending the son of his maternal uncle who has come to him with the truth from his Lord!' Abu Lahab said: 'I see you have followed Muhammad as well!' She said: 'Yes — so help your nephew. By Allah, if I could fight beside him, I would.'",
+        "She migrated to Madinah and lived there as a Sahabiyyah. Her son Tulayb was at Badr.",
+      ),
+      legacy: p(
+        "Arwa is one of the early aunts of the Prophet ﷺ who openly took his side at a time when his own uncle Abu Lahab was leading the war against him. Her words in the courtyard of the Ka'bah — 'How excellent is what he has done!' — are preserved by Ibn Sa'd and Ibn Hisham as one of the bravest public declarations made by a Qurayshi woman in the Makkan period.",
+      ),
+      keyFacts: [
+        "Paternal aunt of the Prophet ﷺ; sister of Hamzah and Abu Talib",
+        "Mother of Tulayb ibn 'Umayr, one of the early Companions of Dar al-Arqam",
+        "Defended the Prophet ﷺ publicly against Abu Lahab",
+        "Accepted Islam in Makkah and migrated to Madinah",
+        "Recorded by Ibn Sa'd in Tabaqat al-Kubra and Ibn Hisham in the Sira",
+      ],
+      lessons: p(
+        "Family ties tested by truth reveal who is truly noble. Arwa chose her nephew over her clan.",
+        "A mother's words can shape a son's courage. Tulayb struck Abu Lahab because he was raised on truth.",
+        "Public testimony for Islam in a hostile setting is a station the Prophet ﷺ never forgot.",
+      ),
+    },
+  },
+  {
+    id: "women-barakah-umm-ayman-second",
+    title: "Umm Sharik al-Dawsiyyah (RA) — The Tortured Da'iyah of Makkah",
+    description:
+      "A Qurayshi woman of Banu 'Amir who took Islam back to the women of Makkah, was arrested and tortured for it, and was sustained by miraculous food sent down from heaven.",
+    category: "HeroicWomen",
+    readTime: "4 min",
+    sections: {
+      intro: p(
+        "Umm Sharik al-Dawsiyyah — Ghaziyyah bint Jabir — was a woman of the tribe of Daws who had married into Quraysh of the Banu 'Amir ibn Lu'ayy clan. She accepted Islam in Makkah in the early period and immediately began taking the message to the women of Quraysh in secret.",
+      ),
+      life: p(
+        "She would slip from house to house, telling the women: 'Muhammad ﷺ has come with the truth, with a Lord who is one, with a religion that lifts you from buried daughters and idols of stone.' Many women accepted Islam through her. Quraysh found out.",
+        "Her own clansmen seized her. They said: 'If it were not for the honour of your clan, we would have killed you. But we will hand you over to your people.' They put her on a slow camel, gave her no food and no water but a little, and led her out into the desert toward her tribe. The sun was furious. They would camp in shade and tie her in the sun, telling her: 'Renounce the religion of Muhammad and we will leave you alone.' She refused.",
+        "She narrated: 'When the heat became unbearable and they had withheld water from me for three days, I lost the ability to hear or understand what they said. While I was in that state, I felt something cold on my chest. I took it: it was a vessel of water. I drank a little. It was lifted away. I drank again. I poured it on my head, my face, my clothes. They came back and saw me dripping, with the vessel still beside me. They said: Where did you get the water from? We have been guarding our skins! I said: Allah, the Lord of Muhammad ﷺ, sent it to me. They looked at their water-skins — sealed and untouched — and they said: We bear witness that your Lord is our Lord. They all accepted Islam.' (Ibn Sa'd, Ibn Hajar in al-Isabah)",
+        "She made hijrah to Madinah. She lived there as one of the great Sahabiyyat and was, according to one well-known opinion in tafsir, the woman referred to in Surah al-Ahzab: 'And a believing woman if she gives herself to the Prophet…' — she had offered herself in marriage to the Prophet ﷺ.",
+      ),
+      legacy: p(
+        "Umm Sharik is one of the great women of da'wah of the Makkan period — a woman who carried the message into other women's houses when men could not enter. Her miracle in the desert is recorded in the major books of sirah and Sahabah biographies.",
+      ),
+      keyFacts: [
+        "From the tribe of Daws; married into Quraysh of Banu 'Amir",
+        "Secret da'iyah to the women of Makkah",
+        "Tortured in the desert with thirst and sun for refusing to leave Islam",
+        "Sustained by water lowered to her — a karamah preserved by Ibn Sa'd",
+        "Migrated to Madinah and was a Sahabiyyah of high standing",
+      ],
+      lessons: p(
+        "Carry the deen to those whom no one else can reach. The first da'iyat were women who walked into other women's homes.",
+        "Allah does not abandon the tortured believer. Water reached her chest in the open desert.",
+        "A miracle given to one believer became the cause of an entire convoy embracing Islam.",
+      ),
+    },
+  },
 ];
