@@ -1199,4 +1199,153 @@ export const heroicWomenStories: Story[] = [
       ),
     },
   },
+  {
+    id: "women-umm-sulaym-bint-milhan",
+    title: "Umm Sulaym bint Milhan (RA) — The Mother Who Carried a Dagger at Hunayn",
+    description:
+      "An Ansari woman whose mahr was Islam itself, who raised Anas to serve the Prophet ﷺ, and who carried a dagger at Hunayn to gut any pagan who came near her.",
+    category: "HeroicWomen",
+    readTime: "7 min",
+    sections: {
+      intro: p(
+        "Umm Sulaym bint Milhan al-Ansariyyah was one of the early women of Madinah to accept Islam, before the Prophet's ﷺ migration. Her first husband Malik ibn al-Nadr refused Islam and left her; she stayed and raised her young son Anas alone in the new faith.",
+        "When Abu Talhah al-Ansari (RA) — then still a pagan — came to propose, she refused him: 'A man like you is not refused, Abu Talhah. But you are a disbeliever, and I am a Muslimah. If you accept Islam, that is my mahr. I ask for nothing else.' He accepted Islam, and her dowry became his shahadah. Thabit al-Bunani said: 'I have never heard of a woman whose mahr was nobler than the mahr of Umm Sulaym — Islam.' (al-Nasa'i)",
+      ),
+      life: p(
+        "She gave her son Anas (RA), aged about ten, into the service of the Prophet ﷺ — and Anas served him for ten years and became one of the great narrators of hadith. Every hadith Anas narrated, in some sense, is also her gift.",
+        "When her young son with Abu Talhah died while Abu Talhah was away, she washed and shrouded the boy, then prepared dinner, perfumed herself, and met her husband as if nothing had happened. After he had eaten and slept with her, she said: 'Abu Talhah, what do you say about a people who lent something to a household and then asked for it back — should the household refuse?' He said: 'No.' She said: 'Then count your son.' He went to the Prophet ﷺ in grief and anger; the Prophet ﷺ said: 'May Allah bless your night.' She conceived 'Abdullah ibn Abi Talhah that night, and from him came nine sons, all reciters of the Qur'an. (Bukhari, Muslim)",
+        "She went out at Hunayn (8 AH) heavily pregnant, with a dagger tucked into her belt. The Prophet ﷺ saw it and said: 'What is this, Umm Sulaym?' She said: 'A dagger I have taken — if any of the polytheists comes near me, I will rip his belly open with it.' The Prophet ﷺ smiled.",
+        "She is the only woman, other than his wives, whom the Prophet ﷺ used to visit and rest in her house. He once slept there, sweated, and she collected his sweat into a small bottle, saying it was the most blessed perfume she could own. (Muslim)",
+      ),
+      legacy: p(
+        "Umm Sulaym is the proof that a woman's wealth is her deen. She refused a noble suitor with no dowry on the table — and won him for Islam.",
+        "She is one of the very few women the Prophet ﷺ promised Paradise by name. He said: 'I entered Paradise and heard footsteps. I asked, who is this? They said: al-Ghumaysa' bint Milhan, the mother of Anas ibn Malik.' (Muslim)",
+      ),
+      keyFacts: [
+        "Ansariyyah of Banu Najjar; among the first women of Madinah to accept Islam",
+        "Her mahr from Abu Talhah was his acceptance of Islam (al-Nasa'i)",
+        "Mother of Anas ibn Malik (RA), the great hadith narrator",
+        "Carried a dagger at Hunayn while heavily pregnant",
+        "Promised Paradise by name by the Prophet ﷺ (Muslim)",
+        "Mother of nine grandsons by 'Abdullah ibn Abi Talhah, all reciters of Qur'an",
+      ],
+      lessons: p(
+        "Make your deen your dowry. What you refuse to compromise on becomes what others have to rise to meet.",
+        "Raise children to serve the deen, not to serve you. She handed her ten-year-old to the Prophet ﷺ.",
+        "Sabr is not silent collapse. It is washing your child, perfuming yourself, and trusting Allah's gift back.",
+      ),
+    },
+  },
+  {
+    id: "women-asma-bint-abi-bakr",
+    title: "Asma' bint Abi Bakr (RA) — Dhat al-Nitaqayn, the Woman of Two Belts",
+    description:
+      "Daughter of Abu Bakr, sister of 'A'ishah, mother of 'Abdullah ibn al-Zubayr — the woman who fed the Prophet ﷺ in the cave and stood unbroken before al-Hajjaj at the age of 100.",
+    category: "HeroicWomen",
+    readTime: "8 min",
+    sections: {
+      intro: p(
+        "Asma' bint Abi Bakr al-Siddiq (RA) was born about 27 years before the Hijrah, the elder sister of 'A'ishah and the eldest daughter of Abu Bakr (RA). She was among the first seventeen or so people to accept Islam.",
+        "She is known by the title Dhat al-Nitaqayn — 'the Woman of Two Belts' — given to her by the Prophet ﷺ on the night of the Hijrah, when she tore her own waist-belt in two to tie up the food and water-skin she was sending to the Prophet ﷺ and her father in the cave of Thawr.",
+      ),
+      life: p(
+        "On the night of the Hijrah, she carried food and water through the streets of Makkah to the cave. When she had no rope, she tore her waist-belt in two, used one half for the water-skin and one for the food. The Prophet ﷺ said: 'Allah has exchanged them for you with two belts in Paradise.' (Bukhari)",
+        "Abu Quhafah, her grandfather — then still a pagan and old and blind — came to her after Abu Bakr left and said: 'He has wronged you by taking all his wealth.' She gathered some pebbles, placed them where her father's money had been, threw a cloth over them, took her grandfather's hand and let him feel the heap. 'No,' she said, 'he has left us plenty.' She kept the old man's heart at peace and protected her father's secret.",
+        "She was pregnant with 'Abdullah ibn al-Zubayr when she made the Hijrah on foot to Madinah. He was the first child born to the Muhajirun in Madinah, and the Muslims rejoiced and said the takbir, because the Jews of Madinah had spread a rumour that they had bewitched the Muhajirun so no child would be born to them.",
+        "She was married to al-Zubayr ibn al-'Awwam (RA), a hard, poor man in his early years. She used to grind dates for his horse, draw water, knead, and carry date-stones on her head from his land two miles away. The Prophet ﷺ once passed her on the road carrying the load and offered her a ride on his camel; she was too shy in front of al-Zubayr's jealousy and refused. (Bukhari)",
+        "At about 100 years old, blind and toothless, she stood before al-Hajjaj ibn Yusuf after he had killed and crucified her son 'Abdullah ibn al-Zubayr in Makkah. He came to her hoping to break her. She said: 'I have heard the Messenger of Allah ﷺ say that from Thaqif will come a liar and a destroyer. The liar we have seen — Mukhtar. The destroyer is you.' She died a few days later.",
+      ),
+      legacy: p(
+        "Asma' is one of the great Sahabiyyat in whom the whole arc of early Islam is concentrated: Makkah, the cave, the Hijrah, the birth of the first Muhajir child, the marriage to a Companion of the Garden, the mother of a counter-caliph, and a death standing tall before a tyrant.",
+        "She lived almost a century — long enough to see her son rule Makkah and then be crucified, and to face his killer and not flinch.",
+      ),
+      keyFacts: [
+        "Eldest daughter of Abu Bakr al-Siddiq (RA); sister of 'A'ishah",
+        "Among the first seventeen Muslims",
+        "Tore her waist-belt to tie food/water for the Prophet ﷺ on the Hijrah",
+        "Titled Dhat al-Nitaqayn ('Woman of Two Belts') by the Prophet ﷺ",
+        "Mother of 'Abdullah ibn al-Zubayr — first child born to the Muhajirun in Madinah",
+        "Wife of al-Zubayr ibn al-'Awwam (RA), one of the ten promised Paradise",
+        "Stood unbroken before al-Hajjaj at age 100; died days later",
+      ],
+      lessons: p(
+        "Cut your own belt for the deen. What you tear off in this life is tied for you in Jannah.",
+        "Protect the believers' secrets — even from the family that does not yet understand.",
+        "Old age is no excuse to lower your voice before tyrants. Asma' was 100 and blind, and she still spoke the truth to al-Hajjaj.",
+      ),
+    },
+  },
+  {
+    id: "women-al-khansa",
+    title: "Al-Khansa' bint 'Amr (RA) — The Poetess Who Sent Four Sons to Martyrdom",
+    description:
+      "The greatest woman poet of the Arabs, who accepted Islam, and at al-Qadisiyyah sent her four sons into the battle and praised Allah when all four were martyred.",
+    category: "HeroicWomen",
+    readTime: "7 min",
+    sections: {
+      intro: p(
+        "Tumadir bint 'Amr ibn al-Sharid al-Sulamiyyah, known by her nickname al-Khansa' ('the snub-nosed gazelle'), was already in Jahiliyyah the most famous female poet of the Arabs — the master of the elegy. She had wept her brothers Sakhr and Mu'awiyah in poetry that the Arabs memorised.",
+        "She came to the Prophet ﷺ with her tribe, accepted Islam, and the Prophet ﷺ used to ask her to recite for him and would say: 'Go on, Khunas' — and she would recite, and he would listen.",
+      ),
+      life: p(
+        "When the Muslim army marched to al-Qadisiyyah (14/15 AH) to face the Persian Empire, al-Khansa' went out with her four sons. The night before the battle she gathered them and said: 'My sons, you accepted Islam by choice and you migrated by choice. By Allah, beside whom there is no god, you are the sons of one man as you are the sons of one woman. I have not betrayed your father, nor disgraced your maternal uncle, nor mixed your lineage, nor changed your nasab. You know what Allah has prepared for the Muslims who fight the disbelievers, and that the abiding abode is better than the passing one. Allah has said: Be patient and outdo others in patience and remain stationed and fear Allah, that you may be successful (Q 3:200). When you see the battle in the morning, plunge into its midst, and seek the killing of its chief, that you may win the spoils and the honour in the abode of permanence.'",
+        "In the morning the four of them charged into the Persian ranks one by one, each reciting verses of his own composition before he was killed. Word came back to her that all four had been martyred. She said: 'Praise be to Allah who honoured me with their martyrdom. I hope my Lord will join me with them in the abode of His mercy.'",
+        "She did not weep. The woman who had wept Sakhr until her one good eye was said to have gone blind from tears in Jahiliyyah, did not weep for four sons in Islam. She said: 'For Sakhr I wept in the days of ignorance; for these I praise Allah.'",
+        "'Umar ibn al-Khattab (RA), as caliph, continued to pay her the pension of all four of her sons until she died.",
+      ),
+      legacy: p(
+        "Al-Khansa' is the patron of every Muslim mother who has buried a son for the deen and not let her grief eat her tawhid. She is taught in every Arabic literature class as the greatest elegist of the Arabs — and in every Sira class as the woman who turned her gift of words into a goodbye for four mujahideen.",
+        "Her lines are quoted from Andalusia to India. The Prophet ﷺ himself sat to listen to her. No Arab poet, man or woman, has been so honoured.",
+      ),
+      keyFacts: [
+        "Tumadir bint 'Amr al-Sulamiyyah; greatest female poet of the Arabs",
+        "Accepted Islam with her tribe; the Prophet ﷺ enjoyed her poetry",
+        "Lost four sons in one day at al-Qadisiyyah against the Persians",
+        "Said: 'Praise be to Allah who honoured me with their martyrdom'",
+        "'Umar (RA) paid her the pension of all four sons until her death",
+      ],
+      lessons: p(
+        "Use your gift for the deen. The tongue that wept Jahili tribal pride was the same tongue that sent four sons to Jannah.",
+        "Train your children before the night of battle. Her speech to them was not improvised — it was a lifetime of tarbiyah said out loud.",
+        "What you wept for in Jahiliyyah, you may praise Allah for in Islam. The same loss, two religions, two responses.",
+      ),
+    },
+  },
+  {
+    id: "women-umm-ayman-barakah",
+    title: "Umm Ayman Barakah (RA) — The Mother After His Mother",
+    description:
+      "The Abyssinian freedwoman who raised the orphan Muhammad ﷺ, who he called 'my mother after my mother', and who walked from Makkah to Madinah alone in the desert.",
+    category: "HeroicWomen",
+    readTime: "7 min",
+    sections: {
+      intro: p(
+        "Barakah bint Tha'labah, known by her kunyah Umm Ayman, was an Abyssinian woman inherited by 'Abdullah ibn 'Abd al-Muttalib from his father. When 'Abdullah died, she passed to his widow Aminah, and when Aminah took her infant son Muhammad ﷺ to Madinah to visit his uncles, Umm Ayman walked beside her.",
+        "Aminah died on the return journey at al-Abwa', and it was Umm Ayman who carried the six-year-old orphan back to Makkah and delivered him to his grandfather 'Abd al-Muttalib. From that day, she did not leave him.",
+      ),
+      life: p(
+        "When the Prophet ﷺ married Khadijah (RA), one of the first things he did with his new household's resources was free Umm Ayman. He used to call her 'ummi ba'da ummi' — 'my mother after my mother' — and used to say: 'Whoever wishes to marry a woman of the people of Paradise, let him marry Umm Ayman.' Zayd ibn Harithah (RA) — his beloved freedman, called for years 'Zayd ibn Muhammad' — married her, and from that marriage was born Usamah ibn Zayd, 'the beloved son of the beloved' to the Prophet ﷺ.",
+        "She accepted Islam early in Makkah and migrated to Madinah — but not with a caravan. She set out alone on foot, with no water. She nearly died in the desert; she said a bucket of water with a white rope was lowered to her from the sky, she drank, and she never thirsted again the rest of her life. (Ibn Sa'd)",
+        "She was at Uhud, giving water to the wounded and pulling arrows out of fighters. She was at Khaybar. After the Prophet's ﷺ death, Abu Bakr and 'Umar (RA) used to visit her together, as the Prophet ﷺ had done. They found her weeping. They said: 'Why do you weep? What is with Allah is better for His Messenger.' She said: 'I am not weeping because I do not know that. I am weeping because revelation from the heavens has been cut off.' Both of them wept with her. (Muslim)",
+        "She lived until the early caliphate of 'Uthman (RA). Her son Ayman was martyred at Hunayn beside the Prophet ﷺ; her son Usamah led the army the Prophet ﷺ had personally appointed as his last command.",
+      ),
+      legacy: p(
+        "Umm Ayman is the only woman in Islam to whom the Messenger of Allah ﷺ used the phrase 'my mother'. She is the line that runs from Aminah to Khadijah to 'A'ishah — the unbroken thread of women who poured themselves into him and into his mission.",
+        "She is also a refutation of every racism that has ever crept into Muslim communities. A black African freedwoman was 'umm' to the Messenger of Allah ﷺ, mother-in-law to the future caliphs through Usamah, and a woman of Paradise.",
+      ),
+      keyFacts: [
+        "Abyssinian freedwoman of 'Abdullah ibn 'Abd al-Muttalib",
+        "Raised the Prophet ﷺ from infancy after the death of his mother Aminah",
+        "Called by him 'my mother after my mother'",
+        "Wife of Zayd ibn Harithah; mother of Usamah ibn Zayd (RA)",
+        "Migrated alone on foot to Madinah; given water from the sky",
+        "Wept after the Prophet's ﷺ death — not for him, but for the cutting of revelation",
+      ],
+      lessons: p(
+        "Care for the orphan. The woman who raised the orphan of Quraysh became 'mother' of the Messenger of Allah ﷺ.",
+        "Loyalty across decades is its own ibadah. Forty years she stood beside him, from desert journey to Madinah.",
+        "Weep for the right loss. After the Prophet ﷺ died, her grief was for revelation, not for herself.",
+      ),
+    },
+  },
 ];
