@@ -1051,6 +1051,151 @@ export const heroicWomenStories: Story[] = [
         "A believing woman is honoured by the company of righteous men, but her own deen is hers alone — 'Atikah was known for her prayer, not only her marriages.",
         "Grief in Islam is allowed beautiful expression — her elegies were not despair but love and witness.",
         "What the Prophet ﷺ permitted, no husband — even 'Umar — can forbid. Hold the Sunnah firmly.",
+    ),
+    },
+  },
+  {
+    id: "women-hind-bint-utbah",
+    title: "Hind bint 'Utbah (RA) — From Enemy at Uhud to Sword at Yarmuk",
+    description:
+      "The Qurayshi noblewoman who once led the women against the Muslims at Uhud, then accepted Islam at the Conquest of Makkah and fought against Byzantium at Yarmuk.",
+    category: "HeroicWomen",
+    readTime: "7 min",
+    sections: {
+      intro: p(
+        "Hind bint 'Utbah ibn Rabi'ah was a noblewoman of Quraysh, daughter of one of the chiefs of Makkah and wife of Abu Sufyan ibn Harb, the leader of Quraysh in its long war against the Prophet ﷺ. Her father 'Utbah, brother al-Walid, and uncle Shaybah were killed at Badr by the Muslims.",
+        "For years she was among the bitterest enemies of Islam. Then, at the Conquest of Makkah, she came forward veiled, gave her bay'ah, and lived the rest of her life as a Sahabiyyah — and died fighting Byzantium at Yarmuk.",
+      ),
+      life: p(
+        "After Badr she vowed revenge. At Uhud she rode out with the Qurayshi women, beating tambourines and reciting verses to drive the men forward. When Hamzah ibn 'Abd al-Muttalib (RA) — the man who had killed her father — was struck down by Wahshi's spear, she committed the act for which she is most often remembered: she mutilated his body in grief and rage.",
+        "Six years later, when the Prophet ﷺ entered Makkah victorious, she came in disguise among the women giving bay'ah. The Prophet ﷺ stipulated: do not associate anything with Allah, do not steal, do not commit zina, do not kill your children. She spoke up from behind her veil at each clause — and finally said, 'By Allah, you are taking from us a pledge you have not taken from the men!' She accepted Islam there, in front of the man whose uncle she had wronged, and he forgave her.",
+        "She lived the rest of her life as a Muslim woman of Quraysh. When the Muslim armies marched against the Byzantines, she rode out at Yarmuk (13 AH) with the Muslim women — including her old enemies the Ansariyyat — to drive the Muslim men forward. When the Muslim line briefly broke, the women, Hind among them, struck at any Muslim retreating with tent poles and shouted: 'Where do you flee from? Back to the women who will spit in your faces?' The line held. Yarmuk was won.",
+        "She is said to have died on the same day as Abu Bakr al-Siddiq (RA), 13 AH.",
+      ),
+      legacy: p(
+        "Hind bint 'Utbah is the Qur'anic mercy made flesh. The Prophet ﷺ did not turn her away when she came to give bay'ah, even though every fibre of his earthly love would have remembered Hamzah. He let Allah's mercy be larger than his own grief.",
+        "Her story is the answer to anyone who thinks their past is too dark for Islam. The woman who chewed Hamzah's liver became the woman who drove Muslim men forward at Yarmuk against Caesar's army.",
+      ),
+      keyFacts: [
+        "Daughter of 'Utbah ibn Rabi'ah, chief of Quraysh; wife of Abu Sufyan",
+        "Lost father, brother, and uncle at Badr",
+        "Mutilated Hamzah ibn 'Abd al-Muttalib's body at Uhud out of grief",
+        "Accepted Islam at the Conquest of Makkah and was forgiven",
+        "Argued the bay'ah clauses point by point with the Prophet ﷺ",
+        "Fought at Yarmuk against the Byzantines, rallying men with tent poles",
+        "Mother of Mu'awiyah ibn Abi Sufyan (RA), the future caliph",
+      ],
+      lessons: p(
+        "No past is too heavy for Islam to lift. The woman who wronged Hamzah was forgiven and ended fighting on Allah's path.",
+        "When Allah opens mercy, do not close it. The Prophet ﷺ did not even rebuke her — he let her become a Sahabiyyah.",
+        "Hold the line when the men waver. At Yarmuk the women turned the battle by refusing to let the men retreat.",
+      ),
+    },
+  },
+  {
+    id: "women-rubayyi-bint-muawwidh",
+    title: "al-Rubayyi' bint Mu'awwidh (RA) — The Bride Who Sang for the Prophet ﷺ",
+    description:
+      "An Ansari woman who as a young bride had the Prophet ﷺ enter her wedding, who nursed wounded fighters in his battles, and who became a major narrator of his sunnah on wudu.",
+    category: "HeroicWomen",
+    readTime: "6 min",
+    sections: {
+      intro: p(
+        "Al-Rubayyi' bint Mu'awwidh ibn 'Afra' was an Ansariyyah of Madinah, daughter of one of the brothers (Mu'awwidh and Mu'adh ibn 'Afra') who killed Abu Jahl at Badr. She grew up in a household soaked in the sacrifice of Badr.",
+        "She is best known for two things: the famous narration of the Prophet ﷺ entering her wedding, and her hadith on the way the Prophet ﷺ performed wudu — narrated in al-Bukhari, Muslim, and the Sunan books.",
+      ),
+      life: p(
+        "On the morning of her wedding, the Prophet ﷺ entered her chamber and sat down. Young Ansari girls began beating a small drum and singing of the slain of Badr, including her father. Then one of the girls said: 'And among us is a Prophet who knows what will happen tomorrow.' The Prophet ﷺ stopped her: 'Leave that and say what you were saying before.' (Bukhari)",
+        "She went out with the army on more than one expedition — she said: 'We used to go out with the Messenger of Allah ﷺ on his campaigns, giving water to the fighters, serving them, and bringing the killed and the wounded back to Madinah.' (Bukhari)",
+        "She is the principal narrator of how the Prophet ﷺ made wudu. She would re-enact it, telling the men: 'I will show you how the Messenger of Allah ﷺ made wudu' — and would perform each limb three times, wipe his head from front to back and back to front, and wash his feet. Companions and Tabi'in came to her house in Madinah to learn it from her.",
+        "She narrated rulings on women's affairs, on khul' (a woman's right to separate from her husband — the famous case of Habibah bint Sahl is connected to her narrations), and on the Prophet's ﷺ Friday sunnah.",
+      ),
+      legacy: p(
+        "Al-Rubayyi' is one of those Sahabiyyat through whom a piece of the Prophet's ﷺ daily worship has reached every Muslim who has ever made wudu. The image of him pouring water over his hands, rinsing his mouth, wiping his head — that is, in part, her gift to the Ummah.",
+        "She is also a witness that the Prophet ﷺ was present at women's weddings, that small drums and chaste songs were welcomed, and that the boundaries he drew were drawn with mercy and joy, not severity.",
+      ),
+      keyFacts: [
+        "Ansariyyah of Madinah; daughter of Mu'awwidh ibn 'Afra' (one of Abu Jahl's killers)",
+        "Famous for the hadith of the Prophet ﷺ at her wedding (Bukhari)",
+        "Went out on campaigns to nurse the wounded and bring back the slain",
+        "Principal narrator of the Prophet's ﷺ wudu",
+        "Her narrations are recorded in al-Bukhari, Muslim, and the Sunan",
+      ],
+      lessons: p(
+        "Joy is part of the deen. The Prophet ﷺ blessed her wedding song; he only corrected the line that overstepped.",
+        "Watch the Prophet's ﷺ practice carefully and pass it on. She is remembered because she paid attention.",
+        "Service in the cause of Allah is not limited to the battlefield — bringing water and binding wounds is in the same record.",
+      ),
+    },
+  },
+  {
+    id: "women-sahla-bint-suhayl",
+    title: "Sahla bint Suhayl (RA) — The Migrant Twice Over",
+    description:
+      "Daughter of Suhayl ibn 'Amr of Quraysh, she migrated to Abyssinia and then to Madinah, and is the woman whose question about her adopted son became a major fiqh ruling.",
+    category: "HeroicWomen",
+    readTime: "6 min",
+    sections: {
+      intro: p(
+        "Sahla bint Suhayl ibn 'Amr was a Qurayshi woman of 'Amir ibn Lu'ayy, daughter of the same Suhayl ibn 'Amr who would one day negotiate the Treaty of Hudaybiyah for the pagans and then die a Muslim. She accepted Islam early in Makkah, and her husband Abu Hudhayfah ibn 'Utbah (RA) was among the foremost of the early believers.",
+        "She made both hijrahs — first to Abyssinia, then to Madinah — and she is the woman behind one of the most discussed fiqh narrations in the Sunnah: the breastfeeding of Salim, the freed slave whom her husband had adopted as a son.",
+      ),
+      life: p(
+        "In Makkah her father Suhayl beat and imprisoned her brother 'Abdullah for accepting Islam, and her own household became a battlefront. She and Abu Hudhayfah were among the very small first wave that crossed to Abyssinia under the leadership of 'Uthman ibn 'Affan and Ruqayyah (RA), and there she gave birth to her son Muhammad ibn Abi Hudhayfah — among the first children born in Islam in the land of the Najashi.",
+        "She and her husband had adopted Salim, a freed slave, as their son in the pre-Islamic custom. When the Qur'an forbade adoption — 'Call them by their fathers' (Q 33:5) — Salim, now grown, could no longer freely enter their house as a son. Sahla came to the Prophet ﷺ in distress: Abu Hudhayfah saw discomfort on his face whenever Salim entered. The Prophet ﷺ said: 'Breastfeed him, and you will become forbidden to him.' She did, and the matter was settled. (Muslim)",
+        "Her husband Abu Hudhayfah was martyred at Yamamah fighting Musaylimah, on the same day and on the same field as Salim. They had asked Allah to take them together; He did. Sahla lived on in Madinah as a widow of Badr and a mother of jihad.",
+      ),
+      legacy: p(
+        "Sahla's narration on Salim is, to this day, one of the case studies in the books of fiqh on the limits and exceptions of mahram-relationships through breastfeeding. The 'Ulama disagree on its scope — but they all sit at her feet to learn the case.",
+        "She is also a quiet portrait of the early Muhajirah: twice exiled for her deen, mother of one of the children of Abyssinia, widow of Yamamah, and a woman who took her domestic difficulty straight to the Messenger of Allah ﷺ instead of suffering it in silence.",
+      ),
+      keyFacts: [
+        "Qurayshi woman of 'Amir ibn Lu'ayy; daughter of Suhayl ibn 'Amr",
+        "Wife of Abu Hudhayfah ibn 'Utbah (RA), one of the foremost early believers",
+        "Made both hijrahs — Abyssinia and Madinah",
+        "Mother of Muhammad ibn Abi Hudhayfah, born in Abyssinia",
+        "Narrator of the famous hadith on the breastfeeding of Salim (Muslim)",
+        "Husband and adopted son both martyred at Yamamah",
+      ],
+      lessons: p(
+        "Take your real-life problems straight to revelation. She did not endure in silence; she asked, and Allah gave a ruling through His Messenger ﷺ.",
+        "Hijrah is not always once. Some believers leave, return, and leave again — Allah counts every step.",
+        "A woman's question can become a chapter of fiqh. Do not underestimate the weight of one honest question asked sincerely.",
+      ),
+    },
+  },
+  {
+    id: "women-umm-al-mundhir-salma",
+    title: "Umm al-Mundhir Salma bint Qays (RA) — The Aunt Who Hosted the Prophet ﷺ",
+    description:
+      "An Ansari woman of Banu Najjar, maternal aunt of the Prophet ﷺ through nasab, who took the Pledge, fought in six battles, and gave us the hadith of the dates and the convalescent.",
+    category: "HeroicWomen",
+    readTime: "6 min",
+    sections: {
+      intro: p(
+        "Salma bint Qays, known as Umm al-Mundhir, was an Ansariyyah of Banu Najjar in Madinah — the same clan as the Prophet's ﷺ paternal grandmother Salma bint 'Amr, which made her one of the maternal 'aunts' of the Prophet ﷺ in the Arab reckoning of kin. He used to visit her, and she used to host him.",
+        "She was among the Ansari women who took the Pledge, and she is one of the relatively few Sahabiyyat who is recorded as having actually fought with the Prophet ﷺ in his expeditions.",
+      ),
+      life: p(
+        "Ibn Sa'd records from her own narration: 'I prayed both qiblahs with the Messenger of Allah ﷺ, gave him the bay'ah, and fought with him in six battles. We used to bandage the wounded, take care of the sick, and take the killed back to Madinah.' Few women are remembered with such a soldier's-roll style of speech.",
+        "She is the narrator of the famous hadith of dates and convalescence: 'Ali (RA) had just recovered from an illness and came to her house with the Prophet ﷺ. There were dates hanging on a string for them. 'Ali stretched his hand to eat. The Prophet ﷺ said: 'Stop, 'Ali — you are still convalescent.' She then made some chard and barley for them, and the Prophet ﷺ said: 'Take from this, 'Ali, it is more suitable for you.' (Abu Dawud, al-Tirmidhi, Ibn Majah — and the basis of an entire chapter in the books on the etiquette of food for the sick.)",
+        "She was one of the older women of Madinah who outlived many of the Sahabah and was sought out by the Tabi'in for the Prophet's ﷺ household practice — what he ate, how he visited, how he treated his hosts.",
+      ),
+      legacy: p(
+        "Umm al-Mundhir is a witness to a beautiful, ordinary truth: the Prophet ﷺ was a guest in the homes of his believing women relatives. He visited, he ate, he advised on health and food, and he let them serve him without ceremony.",
+        "Through her, the Ummah inherited a piece of prophetic medicine — 'this food is more suitable for the convalescent than that one' — and a piece of prophetic adab in the home.",
+      ),
+      keyFacts: [
+        "Ansariyyah of Banu Najjar; maternal aunt of the Prophet ﷺ by nasab",
+        "Prayed toward both qiblahs (Jerusalem then Ka'bah) with the Prophet ﷺ",
+        "Took the bay'ah and fought in six battles with him",
+        "Narrator of the hadith of dates and the convalescent ('Ali ibn Abi Talib)",
+        "Recorded by Ibn Sa'd, Abu Dawud, al-Tirmidhi, and Ibn Majah",
+      ],
+      lessons: p(
+        "Open your home to the people of Allah. Her name lives because she fed the Prophet ﷺ and his cousin a simple meal.",
+        "Care for the sick is part of the deen — even what they eat is part of revelation.",
+        "Six battles. A woman's record before Allah is not measured by the kitchen alone.",
       ),
     },
   },
