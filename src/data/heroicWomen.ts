@@ -180,44 +180,6 @@ export const heroicWomenStories: Story[] = [
     },
   },
   {
-    id: "women-umm-ammarah-yamama",
-    title: "Umm 'Umarah at Yamama (RA) — The Old Woman Who Killed Musaylima's Champion",
-    description:
-      "Years after Uhud, the same Nusaybah bint Ka'b went out under Khalid ibn al-Walid to fight Musaylima the Liar — and lost her hand and her son in a single afternoon.",
-    category: "HeroicWomen",
-    readTime: "6 min",
-    sections: {
-      intro: p(
-        "After the death of the Prophet ﷺ in 11 AH, the false prophet Musaylima al-Kadhdhab gathered tens of thousands of the Banu Hanifah in Yamama and rebelled against the new Muslim state. Abu Bakr dispatched Khalid ibn al-Walid against him. Umm 'Umarah, already in her sixties and bearing the scars of Uhud, asked Abu Bakr's permission to go.",
-        "He granted it. She marched east with the army that would fight the bloodiest battle the Muslims had yet known.",
-      ),
-      life: p(
-        "Her son Habib ibn Zayd had been sent earlier as the Prophet's ﷺ envoy to Musaylima. Musaylima had captured him and demanded he testify that Musaylima was a prophet alongside Muhammad ﷺ. Habib refused. Musaylima cut off a piece of him; asked again; cut another piece; asked again. Habib died of his wounds, limb by limb, refusing to deny the Prophet ﷺ.",
-        "When Umm 'Umarah heard, she vowed she would either kill Musaylima herself or die trying.",
-        "At Yamama in 12 AH the two armies met in the bloodiest fighting Arabia had seen. Over 1,200 Muslims fell, including some seventy huffaz of the Qur'an. The battle turned in the orchard later called the Garden of Death, where the remaining Hanafis were trapped.",
-        "Umm 'Umarah fought beside her surviving son 'Abdullah and lost her hand to a sword stroke. She continued to fight one-handed. She and 'Abdullah pressed toward Musaylima. 'Abdullah is reported to have struck Musaylima alongside Wahshi ibn Harb (the Abyssinian who had killed Hamzah at Uhud and now redeemed his earlier deed by killing the false prophet). Sources differ over which of the three landed the killing blow; what is agreed is that Umm 'Umarah's family was at the centre of the fighting that ended Musaylima.",
-        "She returned to Madinah with eleven new wounds added to the thirteen of Uhud, missing a hand, and missing a son. Abu Bakr came to visit her and dressed her wounds himself.",
-      ),
-      legacy: p(
-        "Umm 'Umarah is the only woman in Islamic history known to have fought in pitched battle under both the Prophet ﷺ and the first Caliph, against both Quraysh and the Riddah.",
-        "Her family alone — herself, her two husbands, her four children — gave more wounds and more martyrs to the cause than entire tribes. The Prophet's ﷺ supplication, 'O Allah, make them my companions in Paradise,' was answered in this world by lives spent entirely in His service.",
-      ),
-      keyFacts: [
-        "Fought at Uhud (3 AH), Hudaybiyya (6 AH), Khaybar (7 AH), Hunayn (8 AH), and Yamama (12 AH)",
-        "Lost her hand at Yamama",
-        "Her son Habib was tortured to death by Musaylima for refusing to deny the Prophet ﷺ",
-        "Her son 'Abdullah was among those who killed Musaylima",
-        "Carried twenty-four battle wounds in her lifetime",
-      ],
-      lessons: p(
-        "Some families are entire armies. Make your household one of them.",
-        "Old age is no excuse. She fought in her sixties what younger men could not.",
-        "Avenge what the deen has lost, not what your ego has lost. Her vow was for the Prophet's ﷺ envoy, not for personal revenge.",
-        "Wounds heal; the cause endures. Twenty-four wounds were the price of a lifetime of nearness.",
-      ),
-    },
-  },
-  {
     id: "women-safiyyah-bint-abd-al-muttalib",
     title: "Safiyyah bint 'Abd al-Muttalib (RA) — Aunt of the Prophet, Killer of the Spy",
     description:
