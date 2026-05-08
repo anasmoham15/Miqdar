@@ -1313,4 +1313,194 @@ export const heroicWomenStories: Story[] = [
       ),
     },
   },
+  {
+    id: "women-umm-al-darda",
+    title: "Umm al-Darda' (RA) — The Worshipper Who Taught Fiqh in Damascus",
+    description:
+      "The Sahabiyyah who spent her nights in prayer and her days teaching Qur'an and fiqh in the mosque of Damascus alongside her husband Abu al-Darda' — and whose home was a beacon of knowledge in Sham.",
+    category: "HeroicWomen",
+    readTime: "6 min",
+    sections: {
+      intro: p(
+        "Umm al-Darda' al-Kubra, Khayrah bint Abi Hadrad al-Ansariyyah, was the wife of Abu al-Darda' al-Ansari (RA) — one of the great Companions known for his worship and knowledge. She was a young Ansari woman when the Prophet ﷺ was alive, and she is counted among the Sahabiyyat who saw him and narrated from him.",
+        "She was famous for her tahajjud, her knowledge of fiqh, and her teaching of women — and men — in the mosque of Damascus. Abu al-Darda' would say of her: 'Umm al-Darda' prayed the night prayer as long as I was with her, and she fasted every day.' When he advised others to marry, he said: 'Marry a woman who is tender and fertile — unless it is Umm al-Darda', for she is better than them all.' (Ibn Sa'd)",
+      ),
+      life: p(
+        "She married Abu al-Darda' in Madinah and migrated with him to Damascus when 'Umar dispatched him as governor and teacher of Sham. Their home became the centre of religious learning in the city. Abu al-Darda' would teach the men in the mosque by day, and Umm al-Darda' would teach the women — and sometimes sit with the men — in the same mosque or in her home by evening.",
+        "She was known for her exceptional devotion. She prayed the night prayer so consistently that her husband testified to it. She fasted perpetually. She memorised the Qur'an and knew the rulings of inheritance, prayer, and purification well enough to answer questions from the people of Damascus.",
+        "On one occasion a man came to Abu al-Darda' with a fiqh question. Abu al-Darda' was unsure and said: 'Ask Umm al-Darda'.' She gave the correct ruling. The man was surprised; Abu al-Darda' said: 'Why are you surprised? She is a woman of knowledge.' (Ibn Sa'd, al-Tabari)",
+        "She and Abu al-Darda' lived simply, despite his position as governor. They had one bed, one cloak, and one meal. When Abu al-Darda' died in 32 AH, she continued to teach in Damascus until her own death some years later. The scholars of Sham counted her among their earliest teachers.",
+      ),
+      legacy: p(
+        "Umm al-Darda' is one of the foundational proofs that women taught in the mosques of the Sahaba. She did not teach from behind a curtain in a private house — she taught in the mosque of Damascus, answering questions on fiqh, and her husband sent questioners to her when he was uncertain.",
+        "She is also a refutation of the idea that excessive worship is only for men. Her husband, one of the most ascetic Companions, testified that she outdid him in night prayer. The woman in his house was the one who kept the lamp burning longest.",
+      ),
+      keyFacts: [
+        "Sahabiyyah of the Ansar; wife of Abu al-Darda' (RA)",
+        "Taught Qur'an and fiqh in the mosque of Damascus",
+        "Known for perpetual night prayer and fasting; her husband testified to it",
+        "Answered fiqh questions that her husband referred to her",
+        "Lived ascetically despite her husband's governorship",
+        "Died in Damascus after 32 AH; buried there",
+      ],
+      lessons: p(
+        "Worship is not gendered. Umm al-Darda' prayed through the nights of Damascus while her husband slept. Do not let anyone tell you devotion has a ceiling based on your chromosomes.",
+        "Teach what you know, even in the mosque. The Prophet's ﷺ mosque had women teachers; so did Damascus. If you know, teach.",
+        "A good marriage is two lamps, not one. She and Abu al-Darda' outdid each other in worship. Find or be a spouse who makes you compete in goodness.",
+        "Simplicity dignifies knowledge. They were governor and scholar, and they owned one bed. Do not let wealth dilute your deen.",
+      ),
+    },
+  },
+  {
+    id: "women-umm-salamah",
+    title: "Umm Salamah (Hind bint Abi Umayyah) (RA) — The Mother of the Believers Who Advised the Prophet ﷺ",
+    description:
+      "A woman of intelligence and political wisdom, one of the first to emigrate, whose advice at Hudaybiyah changed the course of Islamic history and whose hadiths illuminate the Sunnah to this day.",
+    category: "HeroicWomen",
+    readTime: "7 min",
+    sections: {
+      intro: p(
+        "Hind bint Abi Umayyah ibn al-Mughirah al-Makhzumiyyah, known by her kunyah Umm Salamah, was a Qurashi noblewoman of Banu Makhzum — the same clan as Abu Jahl and 'Umar's mother. She was the wife of Abu Salamah 'Abdullah ibn 'Abd al-Asad al-Makhzumi, and together they were among the very first Muslims in Makkah.",
+        "She was a woman of striking beauty, piercing intelligence, and extraordinary steadfastness. The Prophet ﷺ said of her: 'Umm Salamah is the most intelligent of my wives.' (Ibn Sa'd) And he married her after Abu Salamah's death, making her one of the Mothers of the Believers.",
+      ),
+      life: p(
+        "Umm Salamah and Abu Salamah made the first Hijrah to Abyssinia together, and the second Hijrah to Madinah together. At every stage of the Hijrah to Madinah, her clan and his clan tore at her — her own family snatched her son from her arms, his family snatched her daughter, and she was left alone. She said: 'Every day I would go out to the valley and weep from morning until night, for a whole year.' Eventually Allah reunited her family in Madinah.",
+        "Abu Salamah was wounded at Uhud and died from his wounds in 4 AH. The Prophet ﷺ proposed to her himself. She was initially reluctant, saying: 'I am a jealous woman, I am old, and I have children.' The Prophet ﷺ said: 'As for your jealousy, I will ask Allah to remove it. As for your age, I am older than you. As for your children, they are my children.' She accepted. (Ibn Sa'd)",
+        "At the Treaty of Hudaybiyah in 6 AH, the Prophet ﷺ had the Muslims shave their heads and sacrifice their animals to signal the end of the pilgrimage — but the Muslims did not understand and hesitated, still angry at the treaty terms. The Prophet ﷺ entered Umm Salamah's tent and told her what was happening. She said: 'O Messenger of Allah, go out and do not speak to any of them. Sacrifice your animal and shave your head, and they will do the same.' He did so, and the entire army followed. Her political judgment averted a crisis. (Bukhari, Muslim)",
+        "She narrated hadith on prayer, purification, marriage, inheritance, and the Prophet's domestic life. She lived until the caliphate of Yazid ibn Mu'awiyah and was the last of the Mothers of the Believers to die, in 59 AH. Her funeral prayer was led by Marwan ibn al-Hakam, and the people of Madinah said: 'Today the last door to the Prophet ﷺ has closed.'",
+      ),
+      legacy: p(
+        "Umm Salamah is one of the great political minds of the Sahaba. At Hudaybiyah she read the psychology of a restive army better than the commanders around the Prophet ﷺ, and her advice is recorded in the most authentic books of hadith as the turning point of that tense day.",
+        "She is also one of the most prolific narrators among the Mothers of the Believers. Her hadiths are cited in Bukhari, Muslim, Abu Dawud, al-Nasa'i, and al-Tirmidhi. Through her, the Ummah knows how the Prophet ﷺ lived at home, how he prayed at night, and how he treated his family.",
+      ),
+      keyFacts: [
+        "Qurashi noblewoman of Banu Makhzum; wife of Abu Salamah then of the Prophet ﷺ",
+        "Made both Hijrahs — to Abyssinia and to Madinah",
+        "Her political advice at Hudaybiyah caused the Muslims to follow the Prophet's ﷺ example (Bukhari, Muslim)",
+        "Narrated hadith on prayer, marriage, inheritance, and domestic life",
+        "Called by the Prophet ﷺ 'the most intelligent of my wives' (Ibn Sa'd)",
+        "Died in 59 AH; the last of the Mothers of the Believers to pass away",
+      ],
+      lessons: p(
+        "Use your intelligence for the ummah. Umm Salamah's political judgment changed the course of a day that changed history.",
+        "Grief has a season, but faith outlasts it. She wept for a year after losing her family in the Hijrah — and then Allah reunited her and gave her the Prophet ﷺ.",
+        "Do not hide your objections before marriage. She told the Prophet ﷺ she was jealous, old, and had children. Honesty before commitment is the Sunnah.",
+        "Raise children who belong to the deen, not just to you. She handed her son to the Prophet ﷺ; her daughter became a narrator of hadith.",
+      ),
+    },
+  },
+  {
+    id: "women-sawdah-bint-zamah",
+    title: "Sawdah bint Zam'ah (RA) — The First Mother of the Believers After Khadijah",
+    description:
+      "The generous, light-hearted widow who became the Prophet's ﷺ first wife after Khadijah, who made the Hijrah on foot, and who gave her turn to 'A'ishah for the sake of the Messenger of Allah.",
+    category: "HeroicWomen",
+    readTime: "6 min",
+    sections: {
+      intro: p(
+        "Sawdah bint Zam'ah ibn Qays al-Qurashiyyah was a mature widow of the tribe of Quraysh, from the clan of 'Amir ibn Lu'ayy. She had been married to Sukran ibn 'Amr, one of the early Muslims who had died in Abyssinia. The Prophet ﷺ married her in the tenth year of his prophethood, shortly after the death of Khadijah — making her the first woman to enter the household of revelation after its founder.",
+        "She was known for her generosity, her easy temper, and her habit of making people laugh. The Prophet ﷺ appreciated her kindness and her willingness to look after his young daughters. She was a large, strong woman — and she joked about it herself with the Prophet ﷺ, who laughed with her.",
+      ),
+      life: p(
+        "When the Hijrah to Madinah became possible, Sawdah was one of the women who left Makkah on foot with the Muslim caravans. She was past her youth and the journey was hard — but she walked every step of it, refusing to be left behind for the sake of the deen.",
+        "In Madinah she managed the Prophet's ﷺ household alongside the other wives, taking particular care of his daughters. She was generous to a fault; she would give away her own food and clothing to the poor and then come to the Prophet ﷺ with nothing. He would smile and provide for her again.",
+        "As the years passed and younger wives entered the household, Sawdah voluntarily gave her allocated night to 'A'ishah (RA), preferring that the Prophet ﷺ spend it with the younger wife. In exchange, she asked only that he keep her in marriage so that she would be resurrected among his wives on the Day of Judgment. The Prophet ﷺ agreed. This arrangement — a selfless sacrifice for the comfort of the Messenger of Allah — is one of the most beautiful examples of sisterhood in the Sunnah.",
+        "She outlived the Prophet ﷺ and died in the caliphate of 'Umar, around 23 AH. 'Umar carried her bier himself and buried her in al-Baqi'.",
+      ),
+      legacy: p(
+        "Sawdah represents the mature, steady, generous love that held the Prophet's ﷺ household together in its most vulnerable early years. When Khadijah died, Islam lost its most powerful supporter in Makkah; Sawdah stepped into that space with her own warmth and care.",
+        "Her gift of her night to 'A'ishah is taught in fiqh as an example of how co-wives may arrange their turns by mutual consent — but it is also taught as an example of how love for the Prophet ﷺ can override ego. She wanted only his name on the Day of Judgment, and she was willing to give up her worldly share for it.",
+      ),
+      keyFacts: [
+        "Qurashi of Banu 'Amir ibn Lu'ayy; widow of Sukran ibn 'Amr",
+        "First wife the Prophet ﷺ married after Khadijah's death",
+        "Made the Hijrah to Madinah on foot despite her age",
+        "Gave her night to 'A'ishah voluntarily, keeping only the marriage bond",
+        "Cared for the Prophet's ﷺ daughters in the household",
+        "Died in 23 AH; buried in al-Baqi' by 'Umar (RA)",
+      ],
+      lessons: p(
+        "Generosity does not diminish you. Sawdah gave away everything and the Prophet ﷺ replaced it. The hand that gives is never empty.",
+        "Maturity is an asset in the ummah. She entered the household as a steadying force, not a rival. Use your age and experience to hold communities together.",
+        "Sacrifice your share for the higher goal. She gave her night away for the name of wife on the Day of Judgment. Ask for what lasts, not what passes.",
+        "Make people laugh. The Prophet ﷺ laughed with her. Joy is sunnah.",
+      ),
+    },
+  },
+  {
+    id: "women-maymunah-bint-al-harith",
+    title: "Maymunah bint al-Harith (RA) — The Last Mother of the Believers",
+    description:
+      "The pious noblewoman who offered herself in marriage to the Prophet ﷺ, at whose tent the 'Umrah of Hudaybiyah was performed, and whose home became a place of blessing in the holy land.",
+    category: "HeroicWomen",
+    readTime: "6 min",
+    sections: {
+      intro: p(
+        "Maymunah bint al-Harith ibn Hazn al-Hilaliyyah was a noblewoman of the tribe of Banu Hilal, related to the Prophet ﷺ through her aunt Umm al-Fadl Lubabah bint al-Harith — who was already in the household as the wife of 'Abbas ibn 'Abd al-Muttalib. She was a widow, known for her extreme piety, her charity, and her devotion to the holy places around Makkah.",
+        "She sent her own proposal to the Prophet ﷺ through her brother-in-law, saying that she wished to marry him. The Prophet ﷺ accepted, and she became his last wife — the final woman to enter the house of revelation.",
+      ),
+      life: p(
+        "The Prophet ﷺ married her at the place later called Sarif, on the road to Makkah, during the year of the Treaty of Hudaybiyah in 6 AH. Because the Quraysh had prevented the Muslims from entering Makkah, the Prophet ﷺ performed the 'Umrah from her tent at Hudaybiyah — and the marriage was consummated there. This made her tent a place of unique religious significance: the site of a Prophet's marriage and the station of a Prophet's pilgrimage.",
+        "She was famously devoted to prayer and charity. She freed slaves, fed the poor, and spent her wealth in the cause of Allah. When the Prophet ﷺ was with her, he found peace; she was gentle, undemanding, and deeply spiritual.",
+        "After the Prophet's ﷺ death, she continued to live in Madinah but her heart remained with the Haramayn. She was the only wife of the Prophet ﷺ to die outside Madinah — she passed away at Sarif, the same place where she had married him, in 51 AH. 'Ibn 'Abbas led her funeral prayer, and she was buried at the very spot of her marriage. The Prophet ﷺ had once said of that place: 'Sarif is a blessed place.'",
+      ),
+      legacy: p(
+        "Maymunah is the last door of the Prophet's ﷺ household. Through her, the line of wives that began with Khadijah closed — and every hadith she narrated is a final transmission from the intimate life of the Messenger of Allah.",
+        "She narrated hadiths on the rituals of Hajj, on the Prophet's du'as, and on his domestic habits. Her narrations are found in the major collections. She is one of the reasons the Ummah knows how the Prophet ﷺ performed the 'Umrah and what he said at the holy sites.",
+      ),
+      keyFacts: [
+        "Noblewoman of Banu Hilal; aunt of Umm al-Fadl Lubabah",
+        "Proposed to the Prophet ﷺ herself through her brother-in-law",
+        "Married at Sarif during the Treaty of Hudaybiyah, 6 AH",
+        "The Prophet ﷺ performed 'Umrah from her tent at Hudaybiyah",
+        "Known for extreme piety, charity, and freeing slaves",
+        "Died at Sarif in 51 AH; buried at the place of her marriage",
+      ],
+      lessons: p(
+        "Ask for what is good, even if it seems unreachable. She sent her own proposal to the Messenger of Allah ﷺ. Do not let shyness keep you from what is halal and noble.",
+        "Make your home a place of blessing. Her tent became a station of 'Umrah. Whatever space Allah gives you, fill it with prayer and generosity.",
+        "Return to where you began with Allah. She died and was buried at the very spot where she married the Prophet ﷺ. Let your last days be at the places of your first devotion.",
+        "Piety is more attractive than beauty. The Prophet ﷺ married her for her deen, not for youth or wealth. Cultivate what Allah sees.",
+      ),
+    },
+  },
+  {
+    id: "women-hafsah-bint-umar",
+    title: "Hafsah bint 'Umar (RA) — The Keeper of the Mushaf",
+    description:
+      "The strong-willed daughter of 'Umar who was entrusted with the first compiled copy of the Qur'an, and whose questions and narrations have preserved the Sunnah for fourteen centuries.",
+    category: "HeroicWomen",
+    readTime: "7 min",
+    sections: {
+      intro: p(
+        "Hafsah bint 'Umar ibn al-Khattab al-'Adawiyyah was the daughter of the second caliph and one of the Mothers of the Believers. She was born about five years before the prophethood, embraced Islam with her father in the earliest days, and made the Hijrah to Madinah as a young woman.",
+        "She was first married to Khunays ibn Hudhafah al-Sahmi, a Companion who was wounded at Badr and died shortly after from his wounds. The Prophet ﷺ married her after Khunays's death, honouring 'Umar's family and strengthening the bond between the Messenger and the future caliph. She was a woman of strong personality, sharp intelligence, and deep devotion — qualities she inherited in full from her father.",
+      ),
+      life: p(
+        "Hafsah was among the small group of Companions who could read and write — a rare skill in that society. When Abu Bakr ordered Zayd ibn Thabit to compile the Qur'an into a single mushaf after the deaths of so many memorisers at Yamamah, the resulting codex was kept in Hafsah's custody. It was from her copy that 'Uthman produced the standardised mushaf that became the Qur'an read by the entire Muslim world to this day. (Bukhari)",
+        "She was the one person in the world entrusted with the original compiled Qur'an — a trust that shaped the textual history of the entire religion. When disputes arose about recitation during 'Uthman's caliphate, he borrowed her mushaf, made copies from it, and returned it to her. That mushaf remained with her until her death.",
+        "Her relationship with the Prophet ﷺ was close but tested. On one occasion she revealed something the Prophet ﷺ had told her in confidence, and Allah revealed verses of warning. The Prophet ﷺ considered divorcing her, but Jibril came to him and said: 'She fasts much and prays much, and she will be your wife in Paradise.' (Tirmidhi) The Prophet ﷺ then did not divorce her. This divine intervention — Allah and His angel defending a woman's place in the Prophet's household — is unique to Hafsah.",
+        "She narrated hadith on the Prophet's prayer, his character, his dreams, and his treatment of his wives. She lived into the caliphate of Mu'awiyah and died in 45 AH (or 41 AH by some accounts). She was buried in al-Baqi'.",
+      ),
+      legacy: p(
+        "Hafsah is the single most important person in the textual history of the Qur'an after Zayd ibn Thabit and 'Uthman. She was the custodian of the first mushaf. Without her safekeeping, the standardisation under 'Uthman would not have had an authoritative source.",
+        "She is also one of the great proofs that strong personality is not a flaw in a believing woman. Her father was 'Umar; she was 'Umar's daughter in temperament and in faith. The Prophet ﷺ did not ask her to become mild — Jibril told him she was already exactly what Paradise required.",
+      ),
+      keyFacts: [
+        "Daughter of 'Umar ibn al-Khattab (RA); Mother of the Believers",
+        "First husband Khunays ibn Hudhafah died of wounds from Badr",
+        "Custodian of the first compiled mushaf of the Qur'an under Abu Bakr",
+        "'Uthman borrowed her mushaf to produce the standardised codex (Bukhari)",
+        "Allah revealed verses about her; Jibril told the Prophet ﷺ she would be his wife in Paradise (Tirmidhi)",
+        "Narrated hadith on prayer, character, dreams, and domestic life",
+        "Died in 45 AH (or 41 AH); buried in al-Baqi'",
+      ],
+      lessons: p(
+        "Protect sacred trusts. Hafsah guarded the first mushaf as she would guard her own soul. If Allah entrusts you with knowledge, protect it.",
+        "Strong character is not a sin. She was 'Umar's daughter in spirit, and Jibril defended her. Do not apologise for the strength Allah gave you.",
+        "Mistakes are not final. She revealed a secret; Allah warned her; she remained in the household of revelation. Tawbah is real, and Allah's mercy is vast.",
+        "Your worship is your defence. When the Prophet ﷺ considered divorce, Jibril cited her fasting and prayer. Build your case with Allah before you need it.",
+      ),
+    },
+  },
 ];
