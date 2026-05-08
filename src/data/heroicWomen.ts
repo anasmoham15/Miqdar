@@ -42,8 +42,10 @@ export const heroicWomenStories: Story[] = [
         "Took 13 wounds defending the Prophet ﷺ at Uhud",
         "Her shoulder was permanently scarred from a sword blow defending him",
         "The Prophet ﷺ said: 'I did not turn anywhere at Uhud except I saw her fighting in front of me'",
-        "Her son Habib was martyred by Musaylimah, who tortured him for refusing to deny the Prophet ﷺ",
-        "Lost her hand and took eleven wounds at the Battle of Yamamah",
+        "Her son Habib was martyred by Musaylimah, who tortured him limb by limb for refusing to deny the Prophet ﷺ",
+        "Lost her hand and took eleven wounds at the Battle of Yamamah; 24 wounds in her lifetime",
+        "Her son 'Abdullah was among those who killed Musaylima at the Garden of Death",
+        "Abu Bakr dressed her wounds himself after Yamamah",
         "Died in Madinah years after Yamamah",
       ],
       lessons: p(
