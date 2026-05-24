@@ -12,7 +12,7 @@ A comprehensive Islamic companion app built for the Muslim community in the UK a
 React · TypeScript · Tailwind CSS · Vite · Shadcn/ui
 
 ## Live Demo
-[miqdar.vercel.app](https://miqdar.vercel.app)
+[miqdar-gamma.vercel.app](https://miqdar-gamma.vercel.app)
 
 ## About
 Miqdar was built to give Muslims a clean, reliable, all-in-one Islamic reference app. Unlike other apps, the stories section is sourced from real Islamic books — not AI-generated content — with named figures and verified details.
