@@ -1503,4 +1503,394 @@ export const heroicWomenStories: Story[] = [
       ),
     },
   },
+  {
+    id: "women-fatimah-bint-muhammad",
+    title: "Fatimah bint Muhammad (RA) — al-Zahra, Mistress of the Women of Paradise",
+    description:
+      "The beloved daughter of the Prophet ﷺ, mother of al-Hasan and al-Husayn, of whom he said: 'Fatimah is a part of me; whoever angers her angers me.'",
+    category: "HeroicWomen",
+    readTime: "8 min",
+    sections: {
+      intro: p(
+        "Fatimah bint Muhammad ibn 'Abdullah al-Hashimiyyah was the youngest daughter of the Prophet ﷺ and Khadijah (RA), born about five years before prophethood. She grew up in the household of revelation, watched her mother die in the Year of Sorrow, and was the only one of the Prophet's children to outlive him — and only by six months.",
+        "She was called al-Zahra (the Radiant), al-Batul (the Pure), and Umm Abiha (the mother of her father), because she cared for the Prophet ﷺ after Khadijah's death with a tenderness that filled the place of a mother. The Prophet ﷺ said of her: 'Fatimah is the mistress of the women of the people of Paradise.' (Bukhari)",
+      ),
+      life: p(
+        "As a young girl in Makkah, she once ran to her father when Abu Jahl and the Quraysh dumped the entrails of a camel on his back as he prayed at the Ka'bah. She wept and washed the filth from him, cursing those who had done it — a child defending the Messenger of Allah ﷺ.",
+        "She made the Hijrah to Madinah and married 'Ali ibn Abi Talib in 2 AH. Their household was the poorest of the Prophet's relatives — she ground grain with a hand-mill until her hands blistered, carried water until her chest ached, and swept the house until her clothes were stained. When she asked the Prophet ﷺ for a servant, he taught her instead the tasbih of Fatimah: 33 SubhanAllah, 33 Alhamdulillah, 34 Allahu Akbar after every prayer and before sleep. (Bukhari)",
+        "From her came al-Hasan, al-Husayn, Umm Kulthum, and Zaynab — and through al-Hasan and al-Husayn, every descendant of the Prophet ﷺ on earth today. She is the mother of the Ahl al-Bayt in the biological sense.",
+        "She was at the Prophet's ﷺ bedside in his final illness. He whispered something to her and she wept; he whispered again and she smiled. Later she explained: he first told her he was about to die, then told her she would be the first of his family to follow him. (Bukhari) She died six months after him, in 11 AH, aged about 28. She was buried at night, by her own request, in al-Baqi'.",
+      ),
+      legacy: p(
+        "Fatimah is the mother of the Prophetic lineage that continues to this day. Every Sayyid and Sharif on earth traces back through her.",
+        "She is the Qur'anic model of the believing woman of the household — patient in poverty, devoted in prayer, defender of her father, mother of martyrs. Sunni and Shi'i, scholar and layperson, all love her.",
+        "The Prophet ﷺ said: 'Fatimah is a part of me; whoever angers her angers me, and whoever pleases her pleases me.' (Bukhari) Her station is not earned by lineage alone — it is earned by a life of worship, patience, and love for Allah and His Messenger.",
+      ),
+      keyFacts: [
+        "Youngest daughter of the Prophet ﷺ and Khadijah; born ~5 BH",
+        "Wife of 'Ali ibn Abi Talib (RA); mother of al-Hasan, al-Husayn, Umm Kulthum, Zaynab",
+        "Called al-Zahra, al-Batul, Umm Abiha, Sayyidat Nisa' Ahl al-Jannah",
+        "Taught the famous tasbih of Fatimah (33/33/34) by the Prophet ﷺ (Bukhari)",
+        "Only child of the Prophet ﷺ to outlive him; died 6 months later in 11 AH",
+        "Buried at night in al-Baqi' by her own request",
+        "Ancestress of all Sayyids and Sharifs",
+      ],
+      lessons: p(
+        "Love of the Prophet ﷺ begins at home. She washed filth from his back as a child and cared for him as a daughter and a mother. Honour the Sunnah in your own family first.",
+        "Dhikr is better than service. When she asked for a servant, the Prophet ﷺ gave her the tasbih. Sometimes Allah gives us strength to bear our work instead of removing it.",
+        "Poverty is not a sign of God's displeasure. She lived poorly and earned Paradise's leadership. Do not measure your worth by your wealth.",
+        "A part of the Prophet ﷺ lives in those who please his family. Honour the Ahl al-Bayt — in their descendants and in their character.",
+      ),
+    },
+  },
+  {
+    id: "women-ruqayyah-bint-muhammad",
+    title: "Ruqayyah bint Muhammad (RA) — Twice Migrator, Wife of Dhu al-Nurayn",
+    description:
+      "The daughter of the Prophet ﷺ who made both hijrahs to Abyssinia and to Madinah with 'Uthman, and whose death at Badr brought the first tears to her father's heart in victory.",
+    category: "HeroicWomen",
+    readTime: "6 min",
+    sections: {
+      intro: p(
+        "Ruqayyah bint Muhammad was a daughter of the Prophet ﷺ and Khadijah (RA), born a few years before prophethood. She was originally engaged to 'Utbah ibn Abi Lahab, but when the surah al-Masad was revealed cursing Abu Lahab, he ordered his son to divorce her — a divorce that turned out to be a gift, for she was then married to 'Uthman ibn 'Affan.",
+        "'Uthman and Ruqayyah were called by the Prophet ﷺ 'the most beautiful couple anyone has ever seen.' She is the first wife of 'Uthman who, together with Umm Kulthum after her, earned him the title Dhu al-Nurayn — Possessor of the Two Lights.",
+      ),
+      life: p(
+        "When the persecution in Makkah grew unbearable, Ruqayyah migrated with 'Uthman to Abyssinia in the First Hijrah — the first family of the Prophet ﷺ to leave their homeland for Allah. The Prophet ﷺ said of them: 'They are the first family to migrate for the sake of Allah after Ibrahim and Lut.'",
+        "They returned to Makkah, then made the second Hijrah to Madinah. In Madinah she bore 'Uthman a son named 'Abdullah, who died as a young child.",
+        "When the Muslims marched to Badr, Ruqayyah was gravely ill. The Prophet ﷺ ordered 'Uthman to stay behind and care for her — and assured him he would have the reward and the share of a man who fought. She died of her illness on the very day the news of the victory of Badr reached Madinah. The Prophet ﷺ was still at Badr; Usamah ibn Zayd brought him the news. He returned to find his daughter already buried in al-Baqi'.",
+      ),
+      legacy: p(
+        "Ruqayyah is the first daughter of a Prophet to make hijrah twice for the sake of Allah. She left home, family, and homeland for her faith — not once but twice.",
+        "Her marriage to 'Uthman, and his second marriage to her sister Umm Kulthum after her death, is the foundation of the title Dhu al-Nurayn. Through her, 'Uthman entered the household of prophethood in a way no one else ever did — son-in-law twice over.",
+        "The Prophet ﷺ said about a man who marries his daughter to a believer: he has built a bridge to the Messenger of Allah ﷺ. Ruqayyah was that bridge — and she walked across it with her husband all the way to Abyssinia and Madinah.",
+      ),
+      keyFacts: [
+        "Daughter of the Prophet ﷺ and Khadijah (RA)",
+        "First engaged to 'Utbah ibn Abi Lahab; freed by surah al-Masad",
+        "Married 'Uthman ibn 'Affan (RA)",
+        "Made both hijrahs — to Abyssinia and to Madinah",
+        "Bore 'Uthman a son 'Abdullah, who died young",
+        "Died at Madinah on the day the news of Badr arrived (2 AH); buried in al-Baqi'",
+        "Reason for 'Uthman's title Dhu al-Nurayn (with her sister Umm Kulthum)",
+      ],
+      lessons: p(
+        "Allah closes a door only to open a better one. Her broken engagement to the son of Abu Lahab opened the way to 'Uthman. Trust Allah's choices over the world's plans.",
+        "Migration is not always a journey of the strong. She crossed seas while ill, gave birth in exile, and died in Madinah while her father fought. Sacrifice your comfort for your deen.",
+        "Honour follows obedience. 'Uthman missed Badr to nurse her — and still received the share of a fighter. Allah measures intention, not only attendance.",
+        "Choose a spouse who will migrate with you for Allah. The most beautiful couple was the one most willing to lose everything for the truth.",
+      ),
+    },
+  },
+  {
+    id: "women-umm-kulthum-bint-muhammad",
+    title: "Umm Kulthum bint Muhammad (RA) — The Second Light of 'Uthman",
+    description:
+      "The daughter of the Prophet ﷺ who married 'Uthman after the death of her sister Ruqayyah, completing his title Dhu al-Nurayn — Possessor of the Two Lights.",
+    category: "HeroicWomen",
+    readTime: "5 min",
+    sections: {
+      intro: p(
+        "Umm Kulthum bint Muhammad was a daughter of the Prophet ﷺ and Khadijah (RA). Like her sister Ruqayyah, she was originally engaged to a son of Abu Lahab — 'Utaybah — and the engagement was broken when surah al-Masad was revealed. 'Utaybah even insulted the Prophet ﷺ openly; the Prophet ﷺ prayed against him, and he was later killed by a lion on a journey to Syria.",
+        "She remained in her father's home through the years of persecution, the boycott, the death of Khadijah, and the Hijrah. She migrated to Madinah with the family of the Prophet ﷺ after Badr.",
+      ),
+      life: p(
+        "When her sister Ruqayyah died at Madinah on the day of Badr, 'Uthman ibn 'Affan was a widower. The Prophet ﷺ then gave him Umm Kulthum in marriage in 3 AH. The Prophet ﷺ said to him: 'If I had a third daughter, I would have married her to you also.' (Ibn Sa'd, Tabarani) Because of these two marriages — first to Ruqayyah, then to Umm Kulthum — 'Uthman is called Dhu al-Nurayn, 'Possessor of the Two Lights.'",
+        "Umm Kulthum lived with 'Uthman as his wife for six years. She bore no surviving children. She died in 9 AH. The Prophet ﷺ sat by her grave with tears in his eyes; Anas ibn Malik narrates that he saw the Prophet ﷺ weeping at her burial, and that Abu Talhah descended into her grave at the Prophet's ﷺ order. (Bukhari)",
+        "With her death, only Fatimah remained of the Prophet's ﷺ daughters.",
+      ),
+      legacy: p(
+        "Umm Kulthum is the reason 'Uthman is Dhu al-Nurayn. Without her, that title would not exist; with her, the bond between the household of prophethood and the third caliph was sealed twice.",
+        "She is also a quiet witness to a hard truth: the Prophet ﷺ buried three of his four daughters in his own lifetime. Loss is not a sign of distance from Allah — it can be the path of the most beloved.",
+      ),
+      keyFacts: [
+        "Daughter of the Prophet ﷺ and Khadijah (RA)",
+        "Engagement to 'Utaybah ibn Abi Lahab broken by surah al-Masad",
+        "Married 'Uthman ibn 'Affan (RA) after the death of her sister Ruqayyah, 3 AH",
+        "Reason (with Ruqayyah) for 'Uthman's title Dhu al-Nurayn",
+        "Died in 9 AH; the Prophet ﷺ wept at her burial (Bukhari)",
+        "Of the four daughters of the Prophet ﷺ, only Fatimah survived her",
+      ],
+      lessons: p(
+        "Tears of a Prophet are not weakness. He wept at her grave and still submitted to Allah's decree. Grief and faith live together.",
+        "Honour can be doubled by patience. 'Uthman lost one wife and was given her sister — and earned a title the Ummah remembers forever.",
+        "Bear loss for the sake of Allah. The Prophet ﷺ buried three daughters and never complained. If grief is your portion, let your reward be patience.",
+        "Family bonds extend through love of the Prophet ﷺ. Marry into the deen, and you marry into the household of revelation in spirit.",
+      ),
+    },
+  },
+  {
+    id: "women-zaynab-bint-muhammad",
+    title: "Zaynab bint Muhammad (RA) — The Eldest Daughter of the Prophet ﷺ",
+    description:
+      "The Prophet's ﷺ eldest daughter whose husband Abu al-'As was ransomed at Badr by her necklace from Khadijah, and who migrated to Madinah after suffering a violent attack for her faith.",
+    category: "HeroicWomen",
+    readTime: "7 min",
+    sections: {
+      intro: p(
+        "Zaynab bint Muhammad was the eldest daughter of the Prophet ﷺ and Khadijah (RA), born about ten years before prophethood. She was married to her cousin Abu al-'As ibn al-Rabi', a noble of Quraysh and a successful trader, before her father received revelation.",
+        "When the call to Islam came, Zaynab embraced it immediately. Abu al-'As, though he loved her deeply, did not. The Quraysh urged him to divorce her and marry any woman he chose; he refused, saying he would not exchange his wife for another. They remained married while separated by faith for years.",
+      ),
+      life: p(
+        "When Abu al-'As was captured by the Muslims at Badr, Zaynab sent her ransom from Makkah — and included in it the necklace Khadijah had given her on her wedding day. When the Prophet ﷺ saw the necklace, he wept and asked the Companions to release Abu al-'As and return the necklace to her — on the condition that Abu al-'As send Zaynab to Madinah. The Companions agreed. (Abu Dawud)",
+        "Abu al-'As kept his promise. He sent his brother Kinanah to escort Zaynab. As they left Makkah openly, the Quraysh pursued them. A man named Habbar ibn al-Aswad caught up and struck her camel with his spear; she was pregnant, and she fell from the camel onto a rock. She miscarried, and her health never recovered.",
+        "She reached Madinah, ill from the fall. Some years later Abu al-'As was captured again by a Muslim raiding party with his trade goods. He came secretly to Madinah at night and asked Zaynab for protection. In the morning prayer she announced from the women's row: 'O people, I have given protection to Abu al-'As ibn al-Rabi'!' The Prophet ﷺ accepted her grant of protection and said: 'The believers are one hand against others; the lowest of them can give protection.' (Ahmad, Abu Dawud) His goods were returned, he went back to Makkah, settled his accounts, then returned to Madinah a Muslim. The Prophet ﷺ restored their marriage on the original contract.",
+        "Zaynab died in 8 AH, still suffering from the injuries of her fall years earlier. The Prophet ﷺ said: 'She was the best of my daughters; she suffered because of me.' He gave the women who washed her his own waist-wrapper to enshroud her in. (Bukhari) Abu al-'As survived her by only a year.",
+      ),
+      legacy: p(
+        "Zaynab is the proof that a Muslim woman's right of protection is real. Her single word in the mosque bound the entire community — and the Prophet ﷺ honoured it without question. The lowest believer can grant aman, and her grant is the Ummah's grant.",
+        "She is also a martyr in spirit. The miscarriage caused by Habbar's spear was a wound she carried until her death — and the Prophet ﷺ counted her among those who suffered for Islam. The Ummah remembers her as the eldest daughter who never wavered, even when her faith cost her her child.",
+      ),
+      keyFacts: [
+        "Eldest daughter of the Prophet ﷺ and Khadijah (RA)",
+        "Married her cousin Abu al-'As ibn al-Rabi' before prophethood",
+        "Sent Khadijah's necklace as ransom for Abu al-'As after Badr",
+        "Attacked by Habbar ibn al-Aswad during her hijrah; miscarried from the fall",
+        "Granted aman to Abu al-'As; the Prophet ﷺ confirmed her protection (Abu Dawud)",
+        "Reunited with Abu al-'As after he embraced Islam",
+        "Died of her old injuries in 8 AH; the Prophet ﷺ gave his own garment for her shroud (Bukhari)",
+      ],
+      lessons: p(
+        "A believing woman's word has weight. Her single declaration of protection bound the Ummah. Speak the truth, and the community is obliged to honour it.",
+        "Marriage can outlast separation in faith. She waited years for Abu al-'As, and he eventually came to Islam. Du'a for a spouse is never wasted.",
+        "Suffering for Islam is honoured by the Prophet ﷺ himself. He covered her in his own wrapper. Your wounds for the deen are known to him ﷺ.",
+        "Old gifts can become new ransoms. The necklace of her wedding became the freedom of her husband. Hold nothing back from Allah's cause.",
+      ),
+    },
+  },
+  {
+    id: "women-zaynab-bint-khuzaymah",
+    title: "Zaynab bint Khuzaymah (RA) — Umm al-Masakin, Mother of the Poor",
+    description:
+      "The Mother of the Believers known before Islam and after as 'Mother of the Poor' for her endless generosity, who died only months after marrying the Prophet ﷺ.",
+    category: "HeroicWomen",
+    readTime: "5 min",
+    sections: {
+      intro: p(
+        "Zaynab bint Khuzaymah ibn al-Harith al-Hilaliyyah was a noblewoman of Banu Hilal, the same tribe as Maymunah bint al-Harith. Even in the days of Jahiliyyah, she was famous for feeding the poor and sheltering the destitute. The Arabs themselves named her Umm al-Masakin — Mother of the Poor — before she ever heard the call of Islam.",
+        "She embraced Islam early. She had been married before, and her husband 'Ubaydah ibn al-Harith — a cousin of the Prophet ﷺ — was the first martyr in a face-to-face duel for Islam at the Battle of Badr. She was widowed in the same year that the first Muslim blood was shed on the open field.",
+      ),
+      life: p(
+        "The Prophet ﷺ married her in 3 AH, a few months after Badr, both to honour her and to support a widow whose husband had died in the cause of Allah. She lived in his household for only two or three months before she died — the only wife of the Prophet ﷺ besides Khadijah to die during his lifetime.",
+        "She continued, even as Mother of the Believers, to give away whatever came to her. She would receive food and immediately distribute it to the poor at the door of the mosque. Her short time in the Prophet's ﷺ house did not change her habit; it only made her giving more visible.",
+        "She died in Madinah at about thirty years of age. The Prophet ﷺ led her funeral prayer himself and buried her in al-Baqi' — the first of his wives to be buried there.",
+      ),
+      legacy: p(
+        "Zaynab is the proof that a person's character does not begin at conversion. She was Umm al-Masakin in Jahiliyyah and Umm al-Masakin in Islam. Allah saw her generosity and brought her into the deen, then into the household of the Prophet ﷺ.",
+        "She is also a sober reminder that nearness to the Prophet ﷺ does not mean long life. Three months as his wife was enough to make her a Mother of the Believers forever.",
+      ),
+      keyFacts: [
+        "Noblewoman of Banu Hilal; known as Umm al-Masakin",
+        "First husband 'Ubaydah ibn al-Harith — first Muslim martyr in single combat at Badr",
+        "Married the Prophet ﷺ in 3 AH",
+        "Lived in his household only 2-3 months before her death",
+        "Famous for feeding the poor in both Jahiliyyah and Islam",
+        "First wife of the Prophet ﷺ buried in al-Baqi'",
+        "Only wife besides Khadijah to die during the Prophet's ﷺ lifetime",
+      ],
+      lessons: p(
+        "Generosity is recognised by Allah before it is recognised by anyone else. She was Mother of the Poor before she was Mother of the Believers.",
+        "Time is not the measure of nearness. Three months earned her eternity as Umm al-Mu'minin. Make the most of your moments.",
+        "Care for widows of those who died for the deen. The Prophet ﷺ married her to honour her martyred husband. Look after the families of those who serve Islam.",
+        "Let your titles describe your habits. 'Umm al-Masakin' was not given to her by a leader — it was given by the poor themselves.",
+      ),
+    },
+  },
+  {
+    id: "women-juwayriyah-bint-al-harith",
+    title: "Juwayriyah bint al-Harith (RA) — The Bride Whose Marriage Freed a Tribe",
+    description:
+      "The captured princess of Banu al-Mustaliq whose marriage to the Prophet ﷺ caused the Sahaba to free 100 households of her people, and whose tasbih outweighed hours of dhikr.",
+    category: "HeroicWomen",
+    readTime: "6 min",
+    sections: {
+      intro: p(
+        "Juwayriyah bint al-Harith ibn Abi Dirar was the daughter of the chief of Banu al-Mustaliq. When the Prophet ﷺ defeated her tribe at the battle of al-Muraysi' in 5 AH, she fell among the captives — a chieftain's daughter reduced to slavery in a single afternoon.",
+        "She had been allotted to Thabit ibn Qays (or his cousin), who set a heavy ransom for her freedom. She came to the Prophet ﷺ to ask for help paying it. 'A'ishah (RA), who saw her enter, said: 'By Allah, I had not finished looking at her before I knew the Prophet ﷺ would see in her what I saw' — meaning, beauty and dignity that would change her fate.",
+      ),
+      life: p(
+        "The Prophet ﷺ offered her a better solution: he would pay her ransom and marry her himself. She accepted, and Islam entered her heart. When the Sahaba heard that the Prophet ﷺ had taken a wife from the captives of Banu al-Mustaliq, they said: 'These are the in-laws of the Messenger of Allah ﷺ' — and they freed every captive of her tribe in their possession. About a hundred households were freed because of her marriage. (Abu Dawud) 'A'ishah said: 'I have never seen a woman more blessed for her people than Juwayriyah.'",
+        "Her father al-Harith, who had come to Madinah with camels to ransom her, was so moved by the Prophet's ﷺ honesty about the camels he had hidden in a valley that he embraced Islam along with his sons. Banu al-Mustaliq, once an enemy tribe, became Muslims through her marriage.",
+        "She was a woman of intense worship. The Prophet ﷺ once left her in the morning while she was making dhikr, returned near midday, and found her in the same place still making dhikr. He said: 'I have said four phrases three times since I left you that, if weighed against everything you have said since dawn, would outweigh it: Subhan Allahi wa bi-hamdihi, 'adada khalqihi, wa rida nafsihi, wa zinata 'arshihi, wa midada kalimatihi.' (Muslim)",
+        "She lived as a Mother of the Believers, narrated hadith, and died in Madinah in 56 AH (or 50 AH), aged about 65.",
+      ),
+      legacy: p(
+        "Juwayriyah is the bride of liberation. One marriage freed a hundred households. The Sahaba understood that to enslave the family of the Prophet ﷺ would be unthinkable — and so a whole tribe walked free because of one woman.",
+        "She is also the namesake of the great tasbih the Prophet ﷺ taught her — the four phrases that outweigh dawn-to-midday dhikr. Every Muslim who recites it today is reciting Juwayriyah's gift.",
+      ),
+      keyFacts: [
+        "Daughter of al-Harith, chief of Banu al-Mustaliq",
+        "Captured at Muraysi' in 5 AH; the Prophet ﷺ paid her ransom and married her",
+        "100 households of Banu al-Mustaliq freed by the Sahaba in her honour (Abu Dawud)",
+        "Her father and tribe embraced Islam through her marriage",
+        "Taught the famous tasbih of four phrases by the Prophet ﷺ (Muslim)",
+        "'A'ishah called her the most blessed woman for her people",
+        "Died in Madinah ~56 AH",
+      ],
+      lessons: p(
+        "One act of nobility can free a hundred households. Marrying a captive freed her people. Look for the choice that lifts the most.",
+        "Quality of dhikr outweighs quantity. The Prophet ﷺ taught her four phrases that outweigh hours of remembrance. Learn the Sunnah dhikr.",
+        "Marry to honour, not to dominate. The Prophet ﷺ raised her from captive to Mother of the Believers. Marriage is meant to elevate.",
+        "Be a door for your people. Her tribe entered Islam through her marriage. Your faith can be the doorway for your family.",
+      ),
+    },
+  },
+  {
+    id: "women-safiyyah-bint-huyayy",
+    title: "Safiyyah bint Huyayy (RA) — The Jewish Princess Who Became a Mother of the Believers",
+    description:
+      "The daughter of the chief of Banu al-Nadir who saw the Prophet ﷺ in a dream, was captured at Khaybar, freed by him, and married into the household of revelation.",
+    category: "HeroicWomen",
+    readTime: "7 min",
+    sections: {
+      intro: p(
+        "Safiyyah bint Huyayy ibn Akhtab was a princess of Jewish nobility. Her father Huyayy was the chief of Banu al-Nadir of Madinah; through her mother Barrah she was descended from the family of the Prophet Harun (AS). She was raised in the Torah and the prophecies, and from childhood she expected a final messenger.",
+        "She narrated that, as a girl, she had seen a dream in which the moon fell from the sky into her lap. When she told her father, he struck her across the face — a blow whose mark she carried for years — and said: 'You long for the King of Yathrib!' She did not understand then. She understood at Khaybar.",
+      ),
+      life: p(
+        "When the Muslims conquered Khaybar in 7 AH, her husband Kinanah ibn al-Rabi' was killed and she was among the captives. The Prophet ﷺ chose her for himself, freed her, and offered her either to return to her people as a free woman or to embrace Islam and become his wife. She chose Islam and him.",
+        "On the way back to Madinah, when she saw a bruise on her face, the Prophet ﷺ asked about it. She told him about her dream and her father's blow. He smiled and married her at the first halt outside Khaybar.",
+        "She was a woman of dignity and intelligence. Once two of the other wives of the Prophet ﷺ taunted her about her Jewish ancestry. She came in tears to the Prophet ﷺ, who said: 'Why did you not answer them: My father is Harun, my uncle is Musa, and my husband is Muhammad ﷺ — what about me is to be despised?' (Tirmidhi)",
+        "In the Prophet's ﷺ final illness, she said: 'O Messenger of Allah, by Allah I wish that what is in you were in me.' The other wives exchanged glances, and the Prophet ﷺ said: 'By Allah, she is truthful.' (Ibn Sa'd)",
+        "She lived through the caliphates of Abu Bakr, 'Umar, 'Uthman, and into the time of Mu'awiyah. During the siege of 'Uthman's house, she carried food and water to him at risk to herself. She died in Madinah in 50 AH (or 52 AH) and was buried in al-Baqi'.",
+      ),
+      legacy: p(
+        "Safiyyah is the proof that lineage is honoured but faith is decisive. She was the daughter of a Prophet's family — and chose to enter the household of the final Prophet ﷺ. The Qur'an speaks of Harun and Musa; she carried their blood and the message of Muhammad ﷺ together.",
+        "She is also a model for converts. When she was mocked for her past, the Prophet ﷺ taught her not to apologise for it but to be proud of how Allah had honoured her. No believer's past disqualifies her present.",
+      ),
+      keyFacts: [
+        "Princess of Banu al-Nadir; descendant of the Prophet Harun (AS)",
+        "Captured at Khaybar in 7 AH; freed and married by the Prophet ﷺ",
+        "Saw a dream of the moon falling into her lap before Islam",
+        "The Prophet ﷺ taught her to answer those who mocked her lineage (Tirmidhi)",
+        "Defended 'Uthman during the siege of his house",
+        "Narrated hadith on the Prophet's ﷺ character and worship",
+        "Died in Madinah ~50 AH; buried in al-Baqi'",
+      ],
+      lessons: p(
+        "Allah honours those who come to Him from anywhere. She came from Jewish nobility and became a Mother of the Believers. Your background does not limit your station.",
+        "Answer mockery with truth and dignity. The Prophet ﷺ taught her to speak her honour, not to hide it. Be proud of how Allah has lifted you.",
+        "Love can be expressed in willingness to suffer. She wished to bear the Prophet's ﷺ pain. Such love is recognised by Allah and His Messenger.",
+        "Stand by the rightful leader. She fed 'Uthman during the siege. Loyalty in fitnah is among the highest signs of faith.",
+      ),
+    },
+  },
+  {
+    id: "women-zaynab-bint-jahsh",
+    title: "Zaynab bint Jahsh (RA) — The Wife Married by Allah Above the Seven Heavens",
+    description:
+      "The cousin of the Prophet ﷺ whose marriage to him was decreed in the Qur'an itself, abolishing the Jahiliyyah law of adopted sons, and who out-gave every wife in charity.",
+    category: "HeroicWomen",
+    readTime: "7 min",
+    sections: {
+      intro: p(
+        "Zaynab bint Jahsh ibn Ri'ab al-Asadiyyah was a cousin of the Prophet ﷺ — her mother Umayma bint 'Abd al-Muttalib was his aunt. She was beautiful, of noble lineage, and proud of her descent.",
+        "The Prophet ﷺ arranged her marriage to his freed slave and adopted son Zayd ibn Harithah, deliberately breaking the Arab obsession with class — a Hashimi noblewoman married to a former slave. She initially resisted; Allah revealed: 'It is not for a believing man or woman, when Allah and His Messenger have decided a matter, to have any choice about it.' (al-Ahzab 33:36) She submitted, and the marriage took place.",
+      ),
+      life: p(
+        "The marriage was difficult. Zayd repeatedly came to the Prophet ﷺ asking to divorce her. The Prophet ﷺ told him: 'Keep your wife and fear Allah.' Eventually Zayd divorced her. Then Allah revealed: 'When Zayd had ended his relation with her, We married her to you, so that there should be no difficulty for the believers in respect of the wives of their adopted sons, when they have ended their relation with them.' (al-Ahzab 33:37)",
+        "She used to boast — gently — to the other wives: 'Your families gave you in marriage; Allah gave me in marriage from above the seven heavens.' (Bukhari) Her marriage was not arranged by any human; it was performed in the Qur'an itself, and announced from the Throne.",
+        "This marriage abolished the Jahiliyyah ruling that adopted sons were like biological sons. Adopted children retained their dignity, but the legal fiction of pretended sonship was ended forever. Zayd remained beloved to the Prophet ﷺ as a freedman and brother, but no longer as a 'son'.",
+        "She was a woman of immense charity. She tanned hides with her own hands and gave the entire income to the poor. The Prophet ﷺ said of his wives: 'The first of you to follow me will be the one with the longest arm.' They began measuring their arms — but he meant the longest in charity. Zaynab was the first of them to die after him, and they then understood. (Bukhari)",
+        "She was also a woman of complete fairness. In the slander against 'A'ishah, the Prophet ﷺ asked her what she knew. She said: 'O Messenger of Allah, I protect my hearing and my sight — by Allah, I know nothing but good of her.' (Bukhari) She refused to harm a co-wife even in a moment that could have favoured her.",
+        "She died in 20 AH during the caliphate of 'Umar, and was the first of the Mothers of the Believers to follow the Prophet ﷺ.",
+      ),
+      legacy: p(
+        "Zaynab is the wife whose marriage is in the Qur'an. No other woman in history has her contract recited in salah by a billion Muslims a day. Her marriage abolished adopted-son inheritance and re-shaped Muslim family law forever.",
+        "She is the model of charitable work with one's own hands. She did not give from luxury; she tanned hides and gave the wages. And she is the model of refusal to slander, even when the slandered woman was her rival.",
+      ),
+      keyFacts: [
+        "Cousin of the Prophet ﷺ; first married to Zayd ibn Harithah",
+        "Her marriage to the Prophet ﷺ commanded in surah al-Ahzab (33:36-37)",
+        "Abolished the Jahiliyyah law of adopted-son sonship",
+        "Tanned hides and gave the entire income in charity",
+        "First wife of the Prophet ﷺ to die after him (20 AH) — 'the longest arm' (Bukhari)",
+        "Refused to slander 'A'ishah during the great fitnah (Bukhari)",
+      ],
+      lessons: p(
+        "Allah's decree overrides our preferences. She first resisted the marriage to Zayd, then submitted to revelation. Submit, and Allah will lift you.",
+        "Charity is measured by the heart, not the hand. Her 'long arm' was her giving. Make your hand long, not your sleeve.",
+        "Honour your rivals in their absence. She refused to slander 'A'ishah even when it would have helped her. Speak only good of the absent.",
+        "Work with your hands for the poor. She tanned hides herself. Earn lawfully and give visibly.",
+      ),
+    },
+  },
+  {
+    id: "women-umm-habibah-ramlah",
+    title: "Umm Habibah Ramlah bint Abi Sufyan (RA) — The Daughter Who Defied Her Father for Islam",
+    description:
+      "The daughter of Abu Sufyan who migrated to Abyssinia, was widowed in exile, married the Prophet ﷺ by the king's hand, and refused to let her father sit on the Prophet's ﷺ bed.",
+    category: "HeroicWomen",
+    readTime: "7 min",
+    sections: {
+      intro: p(
+        "Ramlah bint Abi Sufyan ibn Harb al-Umawiyyah — Umm Habibah — was the daughter of the man who would lead Quraysh against the Prophet ﷺ for twenty years. While her father fought Islam, she embraced it in its earliest days in Makkah with her first husband 'Ubaydullah ibn Jahsh.",
+        "She and her husband made the second Hijrah to Abyssinia to escape Quraysh persecution. There, far from family, in a Christian land, her husband apostatised — he became a Christian and tried to pull her with him. She refused. Then he died, leaving her a widow with a small daughter, Habibah (after whom she was named), in a foreign country, with a father in Makkah who would not take her back as a Muslim.",
+      ),
+      life: p(
+        "The Prophet ﷺ heard of her situation. From Madinah, he sent a message to the Negus, the Christian king of Abyssinia, asking him to give Umm Habibah in marriage on his behalf. The Negus performed the marriage himself, gave her a dowry of 400 gold dinars (in the Prophet's ﷺ name), and arranged her travel to Madinah. She arrived in Madinah as a Mother of the Believers without ever having been in the same city as her husband ﷺ until then.",
+        "Her marriage was a political earthquake. The most ferocious enemy of Islam — Abu Sufyan — was now the father-in-law of the Prophet ﷺ. It softened Quraysh hearts toward Islam in a way no army could have.",
+        "Years later, when Abu Sufyan came to Madinah to try to renew the Treaty of Hudaybiyah before the conquest of Makkah, he went to her house. As he sat down on the Prophet's ﷺ mat/bed, she folded it up beneath him. He said: 'My daughter, do you think this mat is too good for me, or am I too good for it?' She replied: 'It is the bed of the Messenger of Allah ﷺ, and you are an unclean idolater; I do not want you to sit on it.' (Ibn Hisham) He left, saying: 'By Allah, evil has touched you since you left us.'",
+        "After Abu Sufyan and her brothers embraced Islam at the conquest of Makkah, the relationship was restored — but on her terms. She lived as a Mother of the Believers, narrating hadith on the Prophet's ﷺ worship and habits, especially his prayer and his fasting. She died in Madinah in 44 AH, during the caliphate of her brother Mu'awiyah.",
+      ),
+      legacy: p(
+        "Umm Habibah is the proof that family ties do not override loyalty to Allah and His Messenger. She defied her husband's apostasy, her father's idolatry, and accepted exile — and was rewarded with a marriage performed by a king on a Prophet's behalf.",
+        "She is also a Sunni icon of the Umayyad family's bond to prophethood. Through her, Mu'awiyah became 'the uncle of the believers' (khal al-mu'minin), and the Umayyad caliphate carried a direct link to the household of the Prophet ﷺ.",
+      ),
+      keyFacts: [
+        "Daughter of Abu Sufyan; daughter-in-law of the Prophet ﷺ before her father's Islam",
+        "Made the second Hijrah to Abyssinia",
+        "Widowed after her first husband 'Ubaydullah ibn Jahsh apostatised to Christianity",
+        "Married to the Prophet ﷺ in absentia by the Negus, with a 400-dinar dowry",
+        "Refused to let her idolater father sit on the Prophet's ﷺ bed (Ibn Hisham)",
+        "Sister of Mu'awiyah; her brother became khal al-mu'minin",
+        "Died in Madinah in 44 AH",
+      ],
+      lessons: p(
+        "Faith outranks blood. She defied a husband, a father, and a city for Allah. Loyalty to the Prophet ﷺ comes before any other tie.",
+        "Exile with the deen is better than honour without it. She left Makkah twice and gained the Prophet ﷺ. Do not fear strangeness for the sake of Allah.",
+        "Hold the line at the door of the Sunnah. She would not let kufr sit on the Prophet's ﷺ bed. Protect what is sacred, even from your own father.",
+        "Allah's decree can turn enemies into family. Abu Sufyan ended his life as her father and a Companion. Du'a for your enemies may yet bring them home.",
+      ),
+    },
+  },
+  {
+    id: "women-fatimah-bint-asad",
+    title: "Fatimah bint Asad (RA) — The Aunt Who Raised the Prophet ﷺ",
+    description:
+      "The mother of 'Ali ibn Abi Talib, who raised the orphaned Prophet ﷺ after the death of 'Abd al-Muttalib, and for whom the Prophet ﷺ himself descended into the grave.",
+    category: "HeroicWomen",
+    readTime: "6 min",
+    sections: {
+      intro: p(
+        "Fatimah bint Asad ibn Hashim was a Hashimi noblewoman, the wife of Abu Talib ibn 'Abd al-Muttalib — the Prophet's ﷺ paternal uncle. She is the mother of 'Ali ibn Abi Talib, Ja'far al-Tayyar, 'Aqil, and Talib — and through 'Ali she is the grandmother of al-Hasan and al-Husayn.",
+        "When 'Abd al-Muttalib died and the Prophet ﷺ — then about eight years old — passed into the guardianship of Abu Talib, it was Fatimah bint Asad who took him into her home and raised him alongside her own sons. The Prophet ﷺ said of her: 'She was a mother to me after my own mother. She would go hungry to feed me and leave herself in rags to clothe me.'",
+      ),
+      life: p(
+        "She embraced Islam in its early days in Makkah and made the Hijrah to Madinah, despite her advanced age. She was one of the first Hashimi women to migrate.",
+        "She lived in Madinah as a respected matriarch, watched her son 'Ali become the Prophet's ﷺ son-in-law through Fatimah al-Zahra, and saw her grandsons al-Hasan and al-Husayn born into the household of prophethood. Her son Ja'far had already been her gift to Islam — he led the Muslims of Abyssinia and would die a martyr at Mu'tah.",
+        "When she died in Madinah, the Prophet ﷺ removed his own shirt and ordered her to be enshrouded in it. He then dug a portion of her grave himself with his blessed hands, lay down inside it before her burial, and made du'a: 'O Allah, who gives life and causes death, who lives and does not die, forgive my mother Fatimah bint Asad, expand her grave for her, and make wide her resting place — by the right of Your Prophet and the Prophets who came before me; for You are the Most Merciful of the merciful.' (Tabarani, Hakim)",
+        "When the Companions asked why he had honoured her so — even more than he had honoured his own deceased — he said: 'There was no one, after Abu Talib, more kind to me than she was. I clothed her in my shirt that she may be clothed in the garments of Paradise; and I lay in her grave that the pressing of the grave may be eased for her.'",
+      ),
+      legacy: p(
+        "Fatimah bint Asad is the woman who raised the orphan of Banu Hashim — and the Ummah's debt to her can never be repaid. Every Muslim who follows the Prophet ﷺ owes a portion of that following to the aunt who fed him when he was a child.",
+        "She is also the mother of two of the greatest of the Sahaba: 'Ali, the Lion of Allah, and Ja'far, the Two-Winged Martyr. Her household produced more nobility for Islam than almost any other.",
+      ),
+      keyFacts: [
+        "Wife of Abu Talib; mother of 'Ali, Ja'far, 'Aqil, and Talib",
+        "Raised the orphaned Prophet ﷺ from age ~8",
+        "Embraced Islam early and made Hijrah to Madinah in old age",
+        "The Prophet ﷺ gave her his own shirt as a shroud",
+        "The Prophet ﷺ lay in her grave before her burial (Tabarani, Hakim)",
+        "Called her 'my mother after my mother'",
+        "Grandmother of al-Hasan and al-Husayn",
+      ],
+      lessons: p(
+        "Raise an orphan and you may raise a Prophet. She fed the Prophet ﷺ as a child; the Ummah is the result. There is no greater investment than mercy to a child without parents.",
+        "Old age is not a barrier to hijrah. She left Makkah in her later years for Allah. Do not let your age stop your journey.",
+        "Honour those who raised you. The Prophet ﷺ removed his own shirt and lay in her grave. Show ihsan to the elders who showed it to you.",
+        "Quiet women build the house of Islam. She is mentioned little in the battles, but the Prophet ﷺ and 'Ali and Ja'far all came through her hands.",
+      ),
+    },
+  },
 ];
