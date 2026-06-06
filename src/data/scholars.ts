@@ -210,4 +210,179 @@ export const scholarsStories: Story[] = [
       ],
     },
   },
+
+  {
+    id: "scholar-ibn-hajar",
+    title: "Ibn Hajar al-'Asqalani — Amir al-Mu'minin in Hadith",
+    description:
+      "The undisputed master of prophetic traditions whose monumental commentary on Sahih al-Bukhari remains the definitive authority for the Muslim world.",
+    category: "Scholars",
+    readTime: "7 min",
+    sections: {
+      intro: p(
+
+        "Ahmad bin Ali bin Muhammad, famously known as Ibn Hajar al-Asqalani (RA), was born in Cairo in 773 AH into a family of scholars and merchants originally from Ashkelon. Orphaned at a young age, he was raised under the guardianship of a wealthy merchant, Zakariya al-Kharrubi, who facilitated his early education and witnessed the boy’s prodigious memory as he memorised the Quran by the age of nine.",
+        "Though he initially devoted himself to Arabic literature and poetry, Ibn Hajar (RA) underwent a profound transformation in his twenties, redirecting his immense intellectual gifts toward the science of Hadith. He was characterized by a refined temperament, sharp intellect, and a tireless devotion to the preservation of the Sunnah, eventually earning the prestigious title of Amir al-Mu’minin fi al-Hadith (Commander of the Faithful in Hadith).",
+      ),
+      life: p(
+
+        "Ibn Hajar’s (RA) quest for knowledge took him across the Islamic world, from the Hijaz and Yemen to Syria and Palestine. He studied under the greatest luminaries of his era, most notably Zain al-Din al-Iraqi, the foremost Hadith master of the time, who recognised the young man’s brilliance and encouraged him to specialise in the prophetic traditions. This rigorous training turned him into a living library of narrators and texts.",
+        "In Cairo, he occupied the most prestigious teaching circles, including those at the Al-Azhar and the Al-Mansuriyyah. His lectures were not merely academic exercises but spiritual gatherings where he meticulously dissected the chains of transmission and the hidden defects in narrations. His reputation for precision was such that scholars from distant lands would send him queries on complex legal and historical matters.",
+        "His appointment as the Chief Judge was a role he accepted with hesitation, fearing the spiritual burden of the office. Despite the political pressures of the Mamluk Sultanate, he maintained a reputation for being incorruptible. He famously used his position to protect the weak and ensure that the law was applied with both rigour and mercy, often resigning when he felt the judicial process was being compromised by political interference.",
+        "The writing of Fath al-Bari remains his most storied achievement. He began the work in 817 AH, initially teaching it in sessions where he would dictate the text to his students. As the volumes grew, the work became a sensation in the Muslim world. Upon its completion, a grand celebration was held in Cairo, attended by the elite and the common folk alike, marking one of the most significant literary events in Islamic history.",
+        "In addition to his heavy scholarly lifting, he authored Bulugh al-Maram, a concise collection of Hadith pertaining to legal rulings that remains a staple for students of knowledge today. His ability to condense vast amounts of information into accessible formats demonstrated his concern for the education of the general public, not just the scholarly elite.",
+        "Ibn Hajar (RA) passed away in 852 AH. It is recorded that on the day of his funeral, it rained in Cairo, and the crowds were so large that the funeral prayer had to be repeated multiple times. He left behind a vacuum in the world of Hadith that many believe has never truly been filled, yet his books continue to serve as the guiding light for every student of the Sunnah.",
+      ),
+      legacy: p(
+
+        "Ibn Hajar’s (RA) legacy is anchored in his unparalleled ability to synthesis Hadith literature. His work Fath al-Bari solved complexities in Sahih al-Bukhari that had challenged scholars for centuries, leading the scholar al-Shawkani to remark: 'There is no migration after the Conquest (al-Fath),' implying that no further commentary was needed after Ibn Hajar's masterpiece.",
+        "Beyond Hadith, his biographical works like al-Isabah and Tahdhib al-Tahdhib remain the primary reference points for understanding the lives of the Sahaba (RA) and the chain of narrators. He bridged the gap between the era of the early masters and the later tradition, standardising the methodologies used by scholars to this day.",
+      ),
+      keyFacts: [
+        "He memorised the Quran by age nine and stood as an Imam in prayer in Makkah at age twelve.",
+        "He authored over 150 works, spanning Hadith, history, biography, and jurisprudence.",
+        "His masterpiece, Fath al-Bari, took twenty-five years to complete and is the most celebrated commentary on Sahih al-Bukhari.",
+        "He served as the Chief Qaḍi (Judge) of Egypt several times, known for his integrity and justice.",
+        "He was a master of the Shafi'i school of law and taught thousands of students from across the Islamic world.",
+        "His funeral in Cairo was attended by tens of thousands, including the Sultan and the Caliph.",
+      ],
+      lessons: [
+        "The importance of finding a mentor; Ibn Hajar (RA) travelled extensively to seek the highest chains of narration from the masters of his time.",
+        "Diligence in long-term projects; his twenty-five-year commitment to writing Fath al-Bari teaches us the value of consistency and patience.",
+        "The balance between worldly responsibilities and sacred knowledge, as he managed high judicial offices alongside his writing.",
+        "The necessity of humility in scholarship, as he was known to revise his opinions when presented with stronger evidence.",
+        "The value of documenting history and biography to protect the integrity of the religion for future generations.",
+      ],
+    },
+  },
+  {
+    id: "scholar-al-suyuti",
+    title: "Jalal al-Din al-Suyuti — The Polymath of Cairo",
+    description:
+      "The 'Son of Books' who authored over six hundred works, Jalal al-Din al-Suyuti stood as the quintessential polymath and the definitive preserver of Islamic sciences in the ninth century Hijri.",
+    category: "Scholars",
+    readTime: "6 min",
+    sections: {
+      intro: p(
+
+        "Abdurrahman ibn Abi Bakr ibn Muhammad al-Suyuti was born in Cairo in 849 AH, into a family of Persian origin that had long settled in Egypt. His father, a respected jurist, passed away when Abdurrahman was only five years old, leaving the young boy in the care of family friends and the scholars of Cairo. He was famously nicknamed 'Ibn al-Kutub' or the Son of Books, because his mother reportedly went into labour while amongst his father’s library.",
+        "From his earliest years, al-Suyuti displayed an extraordinary intellectual capacity, memorising the Quran by the age of eight and mastering the foundational texts of Shafi'i jurisprudence, Arabic grammar, and Hadith shortly thereafter. He was a man of dignified bearing and immense discipline, possessing a photographic memory and a unique ability to synthesise vast amounts of information across every known discipline of his era.",
+      ),
+      life: p(
+
+        "Al-Suyuti’s academic journey was exhaustive, involving study under the greatest minds of Cairo, including the Shafi'i jurist al-Bulqini and the Hadith master Ibn Hajar’s students. He traveled across the Hejaz, Yemen, Syria, and Morocco in search of rare manuscripts and higher chains of transmission. By his early twenties, he was already authorised to issue legal verdicts and teach, quickly rising to become one of the most sought-after lecturers in the Mamluk capital.",
+        "His mid-career was defined by his tenure at several prestigious institutions, eventually leading the Baybarsiyya Khanqah. It was during this period that he produced 'Tafsir al-Jalalayn', completing the commentary of Jalal al-Din al-Mahalli in a mere forty days. His writing style was characterized by its clarity and precision, making complex subjects accessible to both the student and the specialist, which contributed to his immense popularity across the Muslim world.",
+        "However, al-Suyuti’s life was not without friction. His assertion that he had reached the rank of 'Mujtahid Mutlaq' (absolute independent jurist) drew the ire of contemporary scholars who believed the gates of absolute independent reasoning had closed. Furthermore, his refusal to yield to the whims of the Mamluk rulers led to several public disputes. He famously once threw a Sultan’s gift into the Nile, asserting that the dignity of sacred knowledge was not for sale.",
+        "In 906 AH, at the age of fifty-seven, al-Suyuti decided to withdraw from public life and the academy entirely. He retired to his house on the banks of the Nile at Rawda Island, committing himself to a life of 'uzla' or scholarly seclusion. He spent his remaining years revising his earlier works and engaging in intensive worship, rarely seeing people except for students and booksellers.",
+        "During this period of seclusion, he refined 'al-Itqan fi Ulum al-Quran' and 'al-Ashbah wa'l-Naza'ir', works that would define their respective fields for centuries. He viewed his retirement not as an end to productivity, but as a purification of his intentions, believing that the true fruit of knowledge was the preparation for the Hereafter. He passed away in 911 AH, leaving behind a monumental library of his own making that continues to guide the Ummah.",
+      ),
+      legacy: p(
+
+        "The legacy of al-Suyuti is inescapable for any serious student of the Islamic sciences today. His works are not merely historical relics but remain the primary textbooks in schools from al-Azhar in Cairo to the madrasas of South Asia. By systematically codifying the various branches of knowledge—from linguistics to medicine, and from law to eschatology—he prevented the loss of classical scholarship during a period of political transition.",
+        "Beyond his books, al-Suyuti’s legacy lives in his uncompromising integrity. He represents the ideal of the scholar who is entirely self-sufficient, preferring a life of scholarly isolation and modest means over the corruption of court life. His claim to being the 'Mujaddid' or Renewer of the tenth century Hijri is supported by the sheer breadth of his service to the Ummah, ensuring that the disparate threads of Islamic heritage were woven into a cohesive whole.",
+      ),
+      keyFacts: [
+        "Authored approximately 600 works ranging from short epistles to multi-volume encyclopedias.",
+        "Completed the famous 'Tafsir al-Jalalayn', picking up where his teacher al-Mahalli left off.",
+        "Attained the rank of Mujtahid, claiming the right to derive legal rulings directly from the sources.",
+        "Served as the head of the prestigious Khanqah of Baybars, the most significant Sufi lodge in Egypt.",
+        "Maintained a strict policy of political independence, refusing gifts and patronage from the Mamluk Sultans.",
+        "Expertly compiled 'al-Itqan fi Ulum al-Quran', the definitive manual on Quranic sciences.",
+      ],
+      lessons: [
+        "The importance of time management; al-Suyuti’s enormous output was the result of a life structured entirely around worship and writing.",
+        "Intellectual humility combined with courage; while he respected his teachers, he was not afraid to assert his scholarly findings when backed by evidence.",
+        "The value of financial independence for a scholar, which allows one to speak truth to power without fear of losing livelihood.",
+        "The necessity of broad-based learning; he proved that mastery in Hadith and Law does not preclude expertise in history, medicine, and linguistics.",
+        "The responsibility of preserving knowledge for future generations through systematic recording and teaching.",
+      ],
+    },
+  },
+  {
+    id: "scholar-al-dhahabi",
+    title: "Al-Dhahabi — The Master Biographer",
+    description:
+      "Known as the 'Gold-Standard' of biographers, al-Dhahabi chronicled the lives of a thousand years of Islamic scholarship with unmatched precision and critical insight.",
+    category: "Scholars",
+    readTime: "7 min",
+    sections: {
+      intro: p(
+
+        "Shams al-Din al-Dhahabi (RA) was born in 673 AH in the city of Damascus, the beating heart of Islamic learning during the Mamluk era. His family was of Turkmen origin, and his father was a skilled goldsmith, a profession that earned the family the name 'al-Dhahabi' (the Golden). This lineage proved prophetic, as the young Shams al-Din would grow to possess a mind as refined and discerning as the precious metal his father worked with.",
+        "From a young age, al-Dhahabi was immersed in the sacred sciences. He was gifted with an extraordinary memory and a sharp, inquisitive intellect that sought the truth behind every narration. His character was marked by a profound sense of integrity and a relentless pursuit of accuracy, qualities that would eventually make him the final arbiter in the science of Hadith and the lives of the narrators.",
+      ),
+      life: p(
+
+        "Al-Dhahabi began his formal education at the age of eighteen, focusing initially on the various recitations of the Quran. However, it was the science of Hadith that truly captured his heart. Damascus at the time was home to some of the greatest minds in Islamic history, and he took full advantage of this, sitting at the feet of the masters of his age. He did not limit himself to Syria, travelling to Cairo, Alexandria, Hejaz, and beyond, collecting chains of narration and studying the characters of those who carried them.",
+        "His analytical mind led him to the 'Science of Men' (Ilm al-Rijal), the discipline used to verify the reliability of Hadith narrators. Al-Dhahabi became a master of 'Jarh wa Ta’dil' (Criticism and Praise), writing works like 'Mizan al-I’tidal' which scrutinised thousands of individuals. He was known for his fairness; he would defend the misunderstood and expose the fabricators, regardless of their social standing or popularity.",
+        "In the realm of history, he produced 'Tarikh al-Islam' (The History of Islam), a colossal work that covers over seven centuries of events. This was not merely a list of dates but a profound commentary on the rise and fall of civilisations and the influence of ideas. His most beloved work, 'Siyar A'lam al-Nubala' (Biographies of Noble Figures), focused more on the people themselves, humanising the giants of the past and making their lives a source of inspiration for the future.",
+        "Al-Dhahabi lived through a period of great intellectual ferment. He was a close student of Ibn Taymiyyah, yet he was known to offer constructive criticism to his teacher when he felt it was warranted. This independence of mind was a hallmark of his career. He served as a Shaykh of Hadith in various prestigious institutions, where his lectures attracted students from all corners of the Muslim world, eager to learn from the man who was said to have the history of the Ummah etched into his mind.",
+        "As he aged, his eyesight began to fail until he was eventually left in total darkness. Nevertheless, his mental clarity and memory remained as sharp as ever. He continued to guide his students and dictate corrections to his books until his passing in 748 AH. He was buried in Damascus, the city he had spent his life chronicling, leaving behind a golden treasury of knowledge that continues to light the way for explorers of Islamic history.",
+      ),
+      legacy: p(
+
+        "The legacy of al-Dhahabi (RA) lies in his preservation of the intellectual identity of the Ummah. By documenting the biographies of thousands of scholars, rulers, and saints, he ensured that the chain of knowledge from the time of the Companions (RA) remained unbroken and accessible. His methodical approach to history—separating fact from fable—provided later generations with a blueprint for critical historical analysis.",
+        "Beyond his writings, his legacy lives on through his pupils, who included giants like Ibn Kathir and Taj al-Din al-Subki. He bridged the gap between the rigorous demands of Hadith criticism and the narrative flow of history, creating a synthesis that allowed the reader to understand both the character of a person and the reliability of their knowledge. Today, any serious student of Hadith or history must pass through the works of al-Dhahabi.",
+      ),
+      keyFacts: [
+        "He was a polymath who mastered Hadith, history, Quranic recitations, and jurisprudence.",
+        "His teacher was the famous Shaykh al-Islam Ibn Taymiyyah, whom he respected deeply while maintaining his own independent critical judgment.",
+        "He authored over 200 works, many of which remain the primary sources for Islamic history today.",
+        "He lost his sight in his later years but continued to teach and dictate his profound knowledge.",
+        "He was a master of the Shafi'i school of law and held the position of head of Hadith at the Ashrafiyyah Madrasa.",
+        "His monumental work, 'Siyar A'lam al-Nubala', is considered the finest biographical dictionary ever produced in Islamic literature.",
+      ],
+      lessons: [
+        "Seek out the best teachers: Al-Dhahabi travelled extensively to learn from over a thousand scholars, showing that true knowledge requires effort and diverse perspectives.",
+        "Balance loyalty with truth: Despite his love for his teachers, he never allowed personal affection to cloud his critical judgment in scholarly matters.",
+        "The importance of precision: Like a goldsmith, a scholar must examine every detail to ensure that what is passed on is authentic and pure.",
+        "The value of time: His massive literary output is a testament to the blessing of time when it involves the service of the Deen.",
+        "Patience in adversity: His loss of sight did not stop his scholarly contributions, teaching us that physical limitations are not barriers to a determined soul.",
+      ],
+    },
+  },
+  {
+    id: "scholar-al-tabari",
+    title: "Al-Tabari — The Imam of Tafsir and History",
+    description:
+      "A polymath of the Islamic Golden Age, Al-Tabari authored the foundational works of Qur'anic exegesis and world history, earning the title 'Imam of the Mufassirin'.",
+    category: "Scholars",
+    readTime: "8 min",
+    sections: {
+      intro: p(
+
+        "Abu Ja'far Muhammad ibn Jarir al-Tabari (RA) was born in 224 AH in Amul, Tabaristan, within a family that valued learning and possessed the means to support his scholarly pursuits. A child prodigy of immense intellectual capacity, he memorised the Qur'an by the age of seven and began writing Prophetic traditions at nine. His lineage and upbringing provided the springboard for a life dedicated to the preservation of Islamic knowledge and the systematisation of the religious sciences.",
+        "Characterised by profound asceticism and an unwavering commitment to truth, al-Tabari was described by his contemporaries as a man of immense physical and mental stamina. He possessed a photographic memory and a sharp analytical mind, qualities that allowed him to master nearly every science of his age. Despite his vast wealth from his father's inheritance, he lived simply, often refusing gifts from the Abbasid caliphs to maintain his scholarly independence and integrity.",
+      ),
+      life: p(
+
+        "Al-Tabari’s journey for knowledge began in his early teens when he left Tabaristan for the great intellectual centres of the Islamic world. He reached Baghdad with the hope of studying under Imam Ahmad ibn Hanbal, only to arrive shortly after the Imam’s passing. Undeterred, he immersed himself in the circles of the capital’s remaining giants, mastering the diverse legal opinions of the Iraqi and Hijazi schools before moving westward.",
+        "His travels took him to Egypt, where he studied under the students of Imam al-Shafi'i and Imam Malik. It was during these years that al-Tabari developed his unique methodology, which synthesized the transmission-based approach of the traditionists with the rationalist rigour of the jurists. He eventually returned to Baghdad, where he spent the remaining decades of his life in a rigorous cycle of teaching, debating, and writing.",
+        "The magnum opus of his life was undoubtedly his Tafsir. When he first mentioned his intention to write it, he asked his students if they were ready for a commentary of thirty thousand pages. When they balked at the length, he famously remarked, 'Inna lillahi wa inna ilayhi raji'un! Ambition has died,' and condensed it to three thousand pages. Even in its 'abridged' form, it remains the most vital reference point for every subsequent commentator on the Qur'an.",
+        "Following his work on scripture, al-Tabari turned his attention to history. His 'Tarikh al-Rusul wa'l-Muluk' was a pioneering effort to document the story of humanity through the lens of divine revelation and prophetic missions. He did not merely record events; he provided the sources for them, allowing future generations to verify the authenticity of the reports. This work established him as the father of Islamic historiography.",
+        "Despite his towering status, al-Tabari’s final years were marked by trials. His independent legal stances and his refusal to yield to popular pressure led to friction with certain extremist factions in Baghdad. He was occasionally confined to his home, yet even under house arrest, he continued to write and teach. He viewed these tribulations as a purification of his soul and a test of his commitment to the Truth.",
+        "At the time of his passing in 310 AH, al-Tabari had produced a library’s worth of knowledge. It is reported that his students calculated the number of pages he wrote over his lifetime and divided them by the days he lived from puberty to death, finding that he wrote an average of fourteen leaves every day. His life stands as a testament to the heights a believer can reach when their intellect is entirely surrendered to the service of the Deen.",
+      ),
+      legacy: p(
+
+        "The legacy of al-Tabari is nothing less than the bedrock of classical Islamic scholarship. His Tafsir, 'Jami' al-Bayan', transformed the field of Qur'anic study by methodically compiling the views of the Companions and Successors, layered with his own profound linguistic and legal analysis. Without his work, much of the early oral tradition of Islam would have been lost to history. Similarly, his Tarikh remains the primary source for historians studying the early Caliphates and the life of the Prophet ﷺ.",
+        "Beyond his texts, al-Tabari’s legacy is one of intellectual rigour and honesty. He pioneered the use of 'Isnad' (chains of transmission) in historical writing, bringing the discipline of Hadith science to the recording of world events. Although his personal legal school eventually merged into others, his methodology influenced centuries of Shafi'i and Hanbali jurists. He died in Baghdad in 310 AH, leaving behind a void that no single scholar has since been able to fill.",
+      ),
+      keyFacts: [
+        "Memorised the Noble Qur'an by the age of seven and began teaching Hadith as a teenager.",
+        "Travelled extensively through Persia, Iraq, Syria, and Egypt to collect narrations from the leading scholars of his time.",
+        "Authored 'Jami' al-Bayan', the earliest and most comprehensive collection of Tafsir based on tradition.",
+        "Wrote 'Tarikh al-Rusul wa'l-Muluk', a monumental universal history from creation to his own time.",
+        "Stood as a Mujtahid Mutlaq (absolute jurist), founding his own legal school known as the Jariri Madhhab.",
+        "Famously wrote forty pages of high-quality scholarship every single day for forty years.",
+      ],
+      lessons: [
+        "Prioritise the Qur'an from a young age, as it is the foundation of all true wisdom and success.",
+        "Maintain scholarly independence by avoiding excessive reliance on political or worldly patronage.",
+        "Exercise extreme discipline in time management; al-Tabari’s immense output was the result of daily consistency.",
+        "Seek knowledge through travel and direct contact with teachers to gain a broad and nuanced perspective.",
+        "Approach history and scripture with intellectual honesty, documenting all perspectives before reaching a conclusion.",
+      ],
+    },
+  },
 ];
