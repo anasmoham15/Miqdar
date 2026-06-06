@@ -220,4 +220,50 @@ export const quranStoriesStories: Story[] = [
       ],
     },
   },
+
+  {
+    id: "qs-habil-and-qabil",
+    title: "Habil and Qabil — The First Murder",
+    description:
+      "In the dawn of humanity, a rivalry between two brothers led to the first act of violence, a turning point that established the sanctity of life and the weight of moral choice.",
+    category: "QuranStories",
+    readTime: "6 min",
+    sections: {
+      intro: p(
+
+        "Habil and Qabil were the sons of the first man and woman, Adam (AS) and Hawwa. Born into the earliest generation of humanity, they were raised in a world still fresh with the scent of Paradise, yet subject to the trials of earthly existence. Their lineage was pure, originating from the first Prophet of Allah, and they were taught the fundamental principles of tawhid and obedience to their Creator.",
+        "Habil was a shepherd, known for his gentle disposition, piety, and sincere devotion to Allah. He possessed a heart that was content with the divine decree, reflecting the qualities of a true believer. In contrast, Qabil was a tiller of the land, but his character was marred by pride, stubbornness, and a growing sense of entitlement that would eventually lead to his spiritual downfall.",
+      ),
+      life: p(
+
+        "The conflict between the two brothers began with a disagreement over the instructions Adam (AS) had provided regarding their marriages. To resolve the dispute and seek a divine sign, Adam (AS) commanded both Habil and Qabil to offer a sacrifice to Allah. The one whose sacrifice was accepted would be deemed in the right. Habil, seeking Allah’s pleasure, selected the best of his flock—a healthy, plump ram—while Qabil, driven by a begrudging spirit, chose the poorest and most withered of his crops.",
+        "They placed their offerings upon a hill and waited. A fire descended from the heavens and consumed Habil's sacrifice, a clear sign of divine acceptance, while Qabil's offering remained untouched. This public rejection wounded Qabil's pride. Instead of reflecting on his own lack of sincerity and taqwa, he allowed Shaytan to fuel his resentment, directing his anger toward his innocent brother. He openly threatened Habil, stating that he would kill him.",
+        "Habil’s response was one of profound faith and composure. He explained that Allah only accepts from those who are mindful of Him. He told his brother that even if Qabil raised his hand to kill him, he would not raise his own hand in return, for he feared Allah, the Lord of the worlds. Habil chose to meet his brother's darkness with light, preferring to be the victim of injustice rather than the perpetrator of a capital sin.",
+        "Driven by an uncontrollable rage, Qabil eventually ambushed Habil and struck him down, committing the first murder in the history of the world. As Habil’s life left him, a heavy silence fell upon the earth. Qabil was immediately seized by a mixture of confusion and horror. He stood over the lifeless body of his brother, not knowing what to do with the corpse, as death was a phenomenon humanity had not yet learned to manage.",
+        "In His mercy and as a lesson, Allah sent a raven that began to scratch the earth to bury another dead bird. Watching the creature, Qabil felt a deep sense of shame and inadequacy, crying out in regret that he was unable to do even what a bird could do. He then dug a grave and buried Habil. However, this regret was not the purifying repentance of the faithful, but the bitter remorse of one who realised the magnitude of his loss and the weight of his crime.",
+      ),
+      legacy: p(
+
+        "The story of Habil and Qabil serves as a foundational narrative in the Quran, particularly in Surah al-Ma'idah, illustrating the eternal struggle between righteousness and ego. It established the gravity of taking a human life, leading to the divine decree that killing one innocent person is as if one has killed all of humanity. Habil's response to his brother's threat remains the archetype of the peaceful, God-fearing man who refuses to meet aggression with transgression.",
+        "Their legacy also highlights the origin of human rituals regarding the deceased. Through the incident of the raven, humanity learned the dignity of burial, ensuring that the human form is respected even after death. For Qabil, his legacy is one of eternal regret and the heavy burden of initiating a sin that would be echoed by every murderer who followed him, as noted in the ahadith of the Prophet ﷺ.",
+      ),
+      keyFacts: [
+        "Habil and Qabil were the sons of Adam (AS), the first Prophet.",
+        "The conflict arose during a dispute regarding marriage and divine obedience.",
+        "Both brothers offered a sacrifice (qurban) to Allah to settle their dispute.",
+        "Allah accepted Habil's sacrifice of his finest livestock because of his taqwa.",
+        "Qabil's sacrifice of his poorest crops was rejected due to his insincerity.",
+        "Qabil committed the first murder in human history out of envy and arrogance.",
+        "A raven was sent by Allah to teach Qabil how to bury his brother's body.",
+      ],
+      lessons: [
+        "Devotion is measured by the sincerity of the heart and the quality of what one gives for Allah.",
+        "Envy (hasad) is a destructive force that can blind a person to reason and lead to grave sins.",
+        "A believer should strive to maintain their integrity even when faced with threats and aggression.",
+        "The sanctity of human life is paramount, and the first drop of blood shed on earth remains a witness against injustice.",
+        "Regret without true repentance (tawba) is a heavy burden that does not strip away the consequence of the sin.",
+        "Allah provides guidance to humanity in various forms, even through the observation of His other creations, such as the raven.",
+      ],
+    },
+  },
 ];
