@@ -385,4 +385,197 @@ export const scholarsStories: Story[] = [
       ],
     },
   },
+  {
+    id: "scholar-al-qurtubi",
+    title: "Imam Al-Qurtubi: The Light of Cordoba and Master of Tafsir",
+    description:
+      "Discover the life of Imam al-Qurtubi, the master of Qur'anic exegesis, whose monumental work bridge-built the sciences of law and spirituality from the heart of Andalusia to the Nile.",
+    category: "Scholars",
+    readTime: "8 min",
+    sections: {
+      intro: p(
+        "Imam Abu 'Abdullah Muhammad ibn Ahmad ibn Abu Bakr al-Ansari al-Qurtubi was one of the most brilliant minds ever produced by the Islamic West (al-Maghrib). Born in the early 7th century AH in Cordoba (Qurtuba), the jewel of Al-Andalus, he emerged from a background of profound scholarly tradition and political upheaval. He was a scholar of the Maliki school of jurisprudence, a muhaddith, and a zahid (ascetic) who prioritized the Divine Word over the fleeting distractions of the material world.",
+        "He is best known for his magnum opus, 'al-Jami' li-Ahkam al-Qur'an,' a massive multi-volume tafsir that serves as a primary reference for the derivation of legal rulings from the Qur'an. Unlike many other mufassirun who focused purely on spiritual meanings or linguistic nuances, al-Qurtubi was celebrated for his impartiality, his rigorous interrogation of evidence, and his ability to synthesize diverse scholarly opinions into a coherent legal framework while maintaining a deep reverence for the Sunnah of the Prophet Muhammad ﷺ.",
+      ),
+      life: p(
+        "Imam al-Qurtubi was born during the twilight of Islamic rule in Al-Andalus. Growing up in Cordoba, he lived through a period of intense intellectual activity but also increasing military pressure from the Christian Reconquista. He received a traditional education, studying the Qur'an, Arabic literature, and Maliki Fiqh. However, the pivotal moment of his early life was the Siege of Cordoba in 633 AH (1236 CE). As the city fell, al-Qurtubi, like many scholars of his generation, was forced to leave his ancestral home, beginning a long journey eastward through North Africa.",
+        "He eventually settled in Egypt, specifically in the city of Alexandria and later in Cairo and Munyat Bani Khasib. Egypt at the time was the intellectual centerpiece of the Muslim world under the Ayyubid and later Mamluk dynasties. Here, he studied under renowned masters such as Ibn Rawaj and Abu al-Abbas al-Qurtubi (the author of al-Mufhim). His time in Egypt was marked by a tireless devotion to writing and teaching. He lived a life of extreme simplicity, often seen wearing only a small cap and a simple vest, embodying the prophetic tradition of detachment from worldly status.",
+        "His tafsir, 'al-Jami' li-Ahkam al-Qur'an,' was likely completed during his years in Egypt. In this work, al-Qurtubi established a rigorous methodology: he would cite the verse, explain its linguistic meanings, mention the reasons for revelation (Asbab al-Nuzul), and then meticulously extract the legal rulings. He was famous for defending the Maliki position while having the intellectual courage to differ if he found a Sahih Hadith from the Prophet ﷺ that supported another view, often saying, 'The truth is more entitled to be followed.'",
+        "Al-Qurtubi was also a fierce critic of those who used the Qur'an for their own ends or interpreted it without proper linguistic and historical training. In his introductions, he warns against the 'people of innovation' and emphasizes that the Qur'an must be understood through the lens of the Companions (RA) and the Tabi'un. His scholarship was not merely academic; it was a form of Jihad to preserve the purity of the Islamic legal tradition at a time when the Mongol invasions in the East and the Reconquista in the West threatened the very existence of Islamic civilization.",
+        "The Imam spent his final days in Munyat Bani Khasib (modern-day Minya, Egypt). He remained focused on worship and the refinement of his manuscripts until his death on the 9th of Shawwal, 671 AH. He was buried there, leaving behind a collection of works that have been taught in every major Islamic university, from Al-Azhar to the corridors of Al-Qarawiyyin, for over seven centuries. His tomb became a place of respect for those who admired his piety and his staggering service to the Book of Allah.",
+      ),
+      legacy: p(
+        "The legacy of al-Qurtubi is most firmly cemented in his Tafsir, which remains an indispensable tool for students of Sharia and Islamic law. His work is uniquely characterized by its focus on 'Ahkam' (rulings). While he discusses grammar, rhetoric, and history, his primary objective was to show how the verses of the Qur'an govern the life of a Muslim. Scholars like al-Dhahabi and Ibn Farhun praised him as an ocean of knowledge who was deeply rooted in the traditions of the Salaf (pious predecessors) while remaining intellectually independent.",
+        "Beyond his Tafsir, his book 'al-Tadhkirah bi-Ahwal al-Mawta wa-Umur al-Akhirah' (The Reminder of the States of the Dead and the Matters of the Hereafter) is considered one of the most comprehensive and moving works on the journey of the soul. It reflects his deep asceticism and his concern for the spiritual rectification of the Ummah. By combining strict legal scholarship with a heart-softening focus on the afterlife, al-Qurtubi provided a balanced model of what a scholar should be: a legist for the community and a guide for the soul.",
+      ),
+      keyFacts: [
+        "Born: Circa 600 AH (1204 CE) in Cordoba, Al-Andalus.",
+        "Migration: Left Al-Andalus for Egypt following the fall of Cordoba to King Ferdinand III in 633 AH (1236 CE).",
+        "Primary Work: 'al-Jami' li-Ahkam al-Qur'an' (The Compendium of Legal Rulings of the Qur'an).",
+        "Scholarly Affiliation: Followed the Maliki Madhhab but practiced independent reasoning (ijtihad).",
+        "Death: 9th Shawwal 671 AH (April 1273 CE) in Munyat Bani Khasib, Egypt.",
+      ],
+      lessons: [
+        "The importance of remaining objective and presenting opposing scholarly views with fairness and respect.",
+        "The necessity of migrating (Hijrah) to preserve one's faith and knowledge when the homeland faces occupation.",
+        "The value of 'Zuhd' (ascetism) and living a simple life to maintain focus on the Hereafter.",
+        "The priority of the Qur'an as the primary source of all legal and moral authority in Islam.",
+        "The role of a scholar as a guardian of the Sunnah against innovations and deviations.",
+      ],
+    },
+  },
+  {
+    id: "scholar-al-shafii",
+    title: "Imam al-Shafi'i: The Architect of Islamic Law",
+    description:
+      "A master of juristic methodology and a beacon of prophetic tradition, Imam al-Shafi'i single-handedly synthesized the schools of Hijaz and Iraq, laying the foundational framework for Islamic jurisprudence known as Usul al-Fiqh.",
+    category: "Scholars",
+    readTime: "8 min",
+    sections: {
+      intro: p(
+        "Imam Muhammad b. Idris al-Shafi’i (150–204 AH) was a towering figure in Islamic history, often described as the 'Reviver of the Second Century.' A descendant of the Quraysh, he shared a common ancestor with the Prophet ﷺ, belonging to the clan of Banu Muttalib. Born in Gaza, Palestine, in the same year that the Great Imam Abu Hanifa passed away, his life's journey took him from the rugged deserts of the Hijaz to the scholarly circles of Baghdad and the intellectual heart of Egypt.",
+        "Al-Shafi'i was a polymath who balanced the strict adherence to Hadith (Ahl al-Hadith) with the nuanced application of reason (Ahl al-Ra'y). He is perhaps best known for being the first scholar to codify the principles of Islamic legal theory, ensuring that the derivation of law remained anchored in revelation while allowing for systemic flexibility. His mastery of the Arabic language, poetry, and genealogies was so profound that even his contemporaries in the linguistic sciences would sit in his circles to refine their speech.",
+      ),
+      life: p(
+        "After being raised as an orphan in Makkah in near-poverty, al-Shafi’i immersed himself in the study of the Arabic language among the tribe of Hudhayl. This linguistic foundation proved critical for his later work in Quranic exegesis. At age 13, he traveled to Madinah to study under Imam Malik b. Anas (RA). He was so eager to learn that he memorized the entire 'Muwatta' before arriving. Imam Malik, recognizing the boy's genius, remarked, 'I see that Allah has placed light in your heart, so do not extinguish it with the darkness of disobedience.' Al-Shafi'i remained Malik's devoted student until the latter’s death in 179 AH.",
+        "In 184 AH, al-Shafi’i was taken in chains to Baghdad to face the Abbasid Caliph Harun al-Rashid on false charges of political rebellion. However, his eloquence and legal brilliance so impressed the Caliph that he was exonerated. This trial proved to be a turning point, as it brought him into contact with Muhammad b. al-Hasan al-Shaybani, the preeminent student of Abu Hanifa. For years, al-Shafi'i engaged in rigorous debates with the Hanafi scholars of Iraq, mastering the tools of Ra'y (legal opinion) while championing the primacy of authentic Hadith.",
+        "Between 188 AH and 199 AH, the Imam moved between Makkah and Baghdad. It was during this period that he composed the first version of 'Al-Risala.' This work was revolutionary; it defined the 'Nasikh' and 'Mansukh' (abrogating and abrogated verses) and distinguished between general ('Aam') and specific ('Khaas') commands. Scholars like Ahmad b. Hanbal (RA) were deeply influenced by him, with Imam Ahmad famously saying, 'Al-Shafi’i was like the sun for the world and health for the people.'",
+        "In 199 AH, seeking a more stable environment for his final years of research, al-Shafi’i migrated to Egypt. In Al-Fustat, he found a community eager for his synthesis of knowledge. He revised many of his earlier rulings based on the social conditions of Egypt and his deeper mastery of Hadith transmission. It was here that he finalized 'Kitab al-Umm,' a massive encyclopedia of Fiqh. His stay in Egypt was marked by intense worship and teaching until his death in 204 AH. He was buried at the foot of Mount al-Muqattam, leaving behind a methodology that would preserve the coherence of Islamic law for over a millennium.",
+      ),
+      legacy: p(
+        "The legacy of Imam al-Shafi’i is most visibly preserved in the Shafi’i Madhhab, one of the four major schools of Sunni jurisprudence, which remains dominant in East Africa, Southeast Asia, and parts of the Levant and Yemen. Beyond the school itself, his greatest contribution was the 'Risala,' which established the hierarchy of legal sources: the Qur'an, the Sunnah, Ijma (Consensus), and Qiyas (Analogy). By meticulously defining the authority of the Hadith, he protected the Sunnah from those who sought to dismiss it in favor of pure rationalism.",
+        "Al-Shafi'i also introduced the concept of the 'Old School' (Al-Qawl al-Qadim) from his time in Iraq and the 'New School' (Al-Qawl al-Jadid) developed in Egypt. This evolution demonstrated his intellectual honesty; as he encountered new social environments and deeper evidences, he was willing to revise his previous legal rulings. This methodology taught the Ummah that Fiqh is a living science, responsive to context while remaining rigidly faithful to the primary texts of the Sharia.",
+      ),
+      keyFacts: [
+        "Born in 150 AH (767 CE) in Gaza, Palestine, and moved to Makkah at age two.",
+        "Memorized the Holy Qur'an by age seven and Imam Malik’s Al-Muwatta by age ten.",
+        "Authored the seminal work 'Al-Risala,' the first comprehensive text on Usul al-Fiqh.",
+        "Served as a bridge between the Maliki school of Madinah and the Hanafi school of Baghdad.",
+        "Died on the last Friday of Rajab, 204 AH (820 CE), in Al-Fustat, Egypt, at age 54.",
+      ],
+      lessons: [
+        "Sincerity in debate: He famously said, 'I never spoke to anyone except that I wished they would be successful and that the truth would appear on their tongue.'",
+        "The value of time: Al-Shafi'i divided his night into three parts: one for writing, one for prayer, and one for sleep.",
+        "The necessity of travel: He believed that traveling was essential for the refinement of character and the acquisition of knowledge.",
+        "Humility before evidence: He instructed his students to disregard his opinions if they ever contradicted an authentic Hadith of the Prophet ﷺ.",
+        "Striving for excellence: He mastered Arabic linguistics to ensure his understanding of the Qur'an was precise and nuanced.",
+        "The importance of piety: He cautioned that knowledge is a light from Allah, and it is not granted to those who persist in sin.",
+      ],
+    },
+  },
+  {
+    id: "scholar-ibn-abd-al-barr",
+    title: "Ibn 'Abd al-Barr: The Hafiz of the West and Master of the Muwatta",
+    description:
+      "A towering mountain of knowledge in Al-Andalus, this legendary Maliki jurist and hadith master harmonized the schools of Law and Tradition through his magisterial commentaries and biographical dictionaries.",
+    category: "Scholars",
+    readTime: "6 min",
+    sections: {
+      intro: p(
+        "Abu ‘Umar Yusuf ibn ‘Abd Allah ibn Muhammad ibn ‘Abd al-Barr al-Namari al-Qurtubi (RA) was the preeminent scholar of the Maghrib and Al-Andalus during the 5th century of the Hijrah. Born into a family of scholars in Cordoba, he became the undisputed 'Hafiz of the West,' a title reflecting his unparalleled mastery of Hadith, jurisprudence, and genealogy. He stood as a bridge between the rigorous tradition of the Maliki school and the critical methodology of the People of Hadith, ensuring that the legal rulings of Al-Andalus remained firmly rooted in the Sunnah of the Prophet Muhammad ﷺ.",
+        "Known for his sharp intellect and vast memory, Ibn 'Abd al-Barr (RA) lived through the tumultuous collapse of the Umayyad Caliphate of Cordoba and the rise of the Petty Kingdoms (Taifas). Despite the political instability of his era, he produced a library of works that remain foundational to Islamic scholarship today. His methodology was characterized by a refusal to follow blind imitation (taqlid) when a clear sahih (authentic) hadith was present, making him a unique voice that commanded respect from scholars across the Islamic world, from Baghdad to Seville.",
+      ),
+      life: p(
+        "Ibn 'Abd al-Barr (RA) was born in Cordoba during the height of the Umayyad Caliphate's cultural splendor under al-Hakam II. He began his education by memorizing the Qur'an and studying under the greatest masters of his city, such as Abu al-Walid ibn al-Faradi. His early years were characterized by an insatiable thirst for the 'Amali' (dictations) of the scholars. He lived through the 'Fitna' of Al-Andalus which began in 399 AH, witnessing the tragic decline of the great capital of Cordoba, which eventually forced him to migrate to the eastern parts of the peninsula (the Sharq al-Andalus).",
+        "His travels took him to cities like Denia, Almeria, and Valencia, where he was received with great honor by the local rulers. It was during these travels that he solidified his transition from a focused Zahiri leaning in his youth back to the Maliki school, though he remained an 'Ijtihadi' Maliki who would follow the strongest evidence. His relationship with his contemporary Ibn Hazm (RA) was one of deep mutual respect mixed with fierce intellectual debate; while they differed on many points of law, Ibn Hazm famously remarked that there was no one in Al-Andalus more knowledgeable in Hadith than Ibn 'Abd al-Barr.",
+        "One of the most significant periods of his life was spent in the western regions (modern-day Portugal), where he served as a judge for the Aftasid dynasty. Despite the burdens of the judiciary, he never abandoned his pen. It was during these years that he refined 'al-Istidhkar', a companion work to 'al-Tamhid' that focused more on the practical legal applications of the Muwatta and the opinions of the jurists of the various cities (Amsar). This dual approach—one based on Hadith analysis and the other on comparative Fiqh—made his methodology invincible.",
+        "In his later years, Ibn 'Abd al-Barr (RA) settled in Shatiba. He was a man of immense gravity and dignity, described by Al-Dhahabi in 'Siyar A'lam al-Nubala' as 'The Imam, the Hafiz, the Sheikh of Islam.' He spent his final days surrounded by students who traveled from as far as North Africa and the East to hear him narrate hadith with his elevated chains of transmission. He passed away on the last Friday of Rabi' al-Thani in 463 AH, leaving behind a scholarly corpus that ensured the intellectual independence of the Maghribi tradition for the next millennium.",
+      ),
+      legacy: p(
+        "The legacy of Ibn 'Abd al-Barr (RA) is most profoundly felt in his contribution to the study of the Muwatta of Imam Malik. His work, 'al-Tamhid', is considered by many scholars, including Ibn Hazm (RA), as the greatest work ever written on the jurisprudence of Hadith. He organized the book by the chains of narrators, meticulously analyzing every legal implication and linguistic nuance. By doing so, he provided the Maliki school with a rigorous evidentiary framework that allowed it to withstand the intellectual challenges of the era.",
+        "Beyond jurisprudence, his biographical work 'al-Isti'ab' remains a primary pillar for any seeker of knowledge wishing to study the lives of the Sahaba (RA). He documented nearly 3,500 companions with a critical eye, ensuring their virtues and roles in the early community were preserved for posterity. His dedication to 'Adab' (etiquette) and 'Ilm' (knowledge) is also immortalized in his 'Jami' Bayan al-'Ilm wa Fadlih', a classic text used for centuries to teach the ethics of seeking knowledge and the high status of the Ulema in Islam.",
+      ),
+      keyFacts: [
+        "Born: 25th of Rabi' al-Thani, 368 AH (978 CE) in Cordoba, Al-Andalus.",
+        "Principal Work: al-Tamhid, a massive commentary on Imam Malik’s Muwatta that took 30 years to complete.",
+        "Biographical Masterpiece: al-Isti'ab fi Ma'rifat al-Ashab, one of the most authoritative sources on the Sahaba (RA).",
+        "Positions Held: Served as the Qadi (Judge) of Lisbon and Santarem under the ruler al-Muzaffar ibn al-Aftas.",
+        "Death: Ended his life in Shatiba (Xàtiva) in the year 463 AH (1071 CE) at the age of 95.",
+      ],
+      lessons: [
+        "Continuous learning: He dedicated thirty years of his life to perfecting a single book, showing the value of patience in scholarship.",
+        "Prioritizing Revelation: He taught that while schools of thought are important, they must always bow to the authentic Sunnah of the Prophet ﷺ.",
+        "Resilience in adversity: Despite the political chaos and civil wars of Al-Andalus, he never ceased his writing or teaching.",
+        "Comprehensive expertise: He showed that a True scholar should master multiple sciences, including Hadith, Fiqh, History, and Language.",
+        "Respect for the Salaf: His meticulous documentation of the Sahaba (RA) reminds us that our faith is rooted in the lives and sacrifices of those who preceded us.",
+      ],
+    },
+  },
+  {
+    id: "scholar-ibn-al-jawzi",
+    title: "Ibn al-Jawzi: The Preacher of Baghdad and Polymath of the Hanbalis",
+    description:
+      "An exhaustive chronicle of Jamal al-Din Abu al-Faraj Ibn al-Jawzi, the legendary Baghdadi polymath whose eloquent sermons moved thousands to tears and whose prolific writings preserved the vast intellectual heritage of Islam.",
+    category: "Scholars",
+    readTime: "8 min",
+    sections: {
+      intro: p(
+        "Jamal al-Din Abu al-Faraj Abd al-Rahman ibn Ali al-Jawzi (often simply known as Ibn al-Jawzi) was the preeminent scholar of 6th-century Baghdad. A master of the Hanbali school of jurisprudence, a renowned historian, and a master of the prophetic traditions (Hadith), he was best known as the 'Preacher of the Age.' His gatherings were so massive that they were attended by caliphs, scholars, and thousands of commoners, often leading to hundreds of people embracing Islam or repenting from their sins on the spot.",
+        "Born into a wealthy family of copper merchants who traced their lineage back to Abu Bakr al-Siddiq (RA), Ibn al-Jawzi was orphaned at a young age but dedicated his life to the pursuit of sacred knowledge. He was a man of immense discipline, known for his asceticism and his refusal to waste a single moment of his life, which allowed him to author hundreds of volumes across nearly every Islamic science, from tafsir and hadith to history and medicine.",
+      ),
+      life: p(
+        "Ibn al-Jawzi was born in 510 AH in the city of Baghdad, the intellectual capital of the Abbasid Caliphate. Orphaned at age three, his upbringing was overseen by his aunt, who brought him to the mosque of Muhammad ibn Nasir al-Baghdadi. Under Ibn Nasir's tutelage, he memorized the Quran and thousands of Hadith, developing a photographic memory and a sharp linguistic prowess. By the time he reached his teens, he was already authorized to teach, marking the beginning of a career that would dominate the religious landscape of Iraq for over sixty years.",
+        "His public preaching began in the late 540s AH and quickly became a phenomenon. Records from Ibn al-Athir and Al-Dhahabi describe his 'Majalis' (assemblies) as holding upwards of 100,000 attendees. He was uniquely gifted in 'Wa'z' (admonition), combining a deep knowledge of the Sunnah of the Prophet ﷺ with a rhythmic, captivating prose. He famously noted in his memoirs that through his hands, over 20,000 individuals—including Christians and Jews—accepted Islam, and over 100,000 sinners made sincere tawbah.",
+        "Ibn al-Jawzi was not merely a preacher but a prolific scholar-official. He was favored by the Abbasid Caliphs al-Mustadi and al-Nasir, which allowed him to manage several prestigious schools, including the Hubayra and the Badriya madrasas. His days were strictly disciplined: he would write several pages every day, teach multiple classes, and answer complex legal queries (fatawa). It is said that the shavings from the pens he used to write Hadith were so numerous that they were used to heat the water for his funeral ghusl (ritual bath) according to his final testament.",
+        "The latter part of his life was marked by a severe trial (Mihna). Due to political intrigues and his uncompromising stance on certain theological issues, he was slandered by rivals and subsequently exiled to the city of Wasit in 590 AH by the Vizier Ibn al-Qaysami. For five years, the elderly scholar was kept in solitary confinement, away from his books and family, having to wash his own clothes and cook his own meager meals. Despite this hardship, he remained patient and continued to worship and write in secret.",
+        "In 595 AH, he was finally released and returned to Baghdad amidst a hero's welcome. The people lined the streets to see the 'Shaykh of the Hanbalis' return to his pulpit. He spent his final two years in Baghdad, continuing his teaching and writing until he passed away on a Friday night in Ramadan, 597 AH. He was buried near the grave of Imam Ahmad ibn Hanbal (RA), attended by a crowd so large that it was said the funeral prayer had to be repeated multiple times.",
+      ),
+      legacy: p(
+        "Ibn al-Jawzi’s legacy is preserved in his staggering literary output. His work 'Al-Muntazam fi Tarikh al-Muluk wal-Umam' remains one of the most vital historical records of the Islamic world, while his 'Sayd al-Khatir' (Captured Thoughts) provides a rare, deeply personal window into the soul of a medieval scholar. He systematically refuted the innovations of his time through 'Talbis Iblis' (The Devil’s Deception), defending the path of the Salaf while maintaining a profound focus on spiritual purification (Tazkiyah).",
+        "His impact on the Hanbali school was transformative, as he helped modernize its pedagogy and defended its tenets against both extreme literalism and excessive rationalism. Even centuries after his death, his homilies and heart-softening anecdotes continue to be used by khatibs across the Muslim world. He was a bridge between the rigorous world of legal scholarship and the emotional depth of the spiritual path.",
+      ),
+      keyFacts: [
+        "Born in 510 AH (1116 CE) in Baghdad, Iraq.",
+        "Authored over 300 works, including 'Zad al-Masir' and 'Talbis Iblis'.",
+        "Traced his lineage back to the first Caliph, Abu Bakr al-Siddiq (RA).",
+        "Served as the head of five different madrasas simultaneously in Baghdad.",
+        "Died on the 12th of Ramadan, 597 AH (1201 CE) at the age of 87.",
+      ],
+      lessons: [
+        "The immense value of time; he famously hated small talk that served no purpose.",
+        "The power of sincere preaching to transform hearts and reform society.",
+        "The necessity of balancing intellectual rigor with spiritual introspection.",
+        "Maintaining integrity and patience even when facing unjust exile or persecution.",
+        "The importance of leaving behind beneficial knowledge (Sadaqah Jariyah).",
+      ],
+    },
+  },
+  {
+    id: "scholar-ibn-rajab",
+    title: "Ibn Rajab al-Hanbali: The Sage of Damascus and the Sultan of Hadith",
+    description:
+      "Regarded as the last great encyclopedic master of the Hanbali school, Ibn Rajab al-Hanbali masterfully synthesized rigorous legal scholarship with deep, heart-centered spirituality in the vibrant academic circles of Damascus.",
+    category: "Scholars",
+    readTime: "6 min",
+    sections: {
+      intro: p(
+        "Zayn al-Din Abd al-Rahman ibn Ahmad ibn Rajab al-Hanbali (736–795 AH) was a monumental figure in Islamic history, serving as a master of Hadith criticism, an expert in Hanbali jurisprudence, and a profound voice in Sufi ethics and spiritual purification. Born in Baghdad into a family of scholars, his lineage provided him with a direct connection to the classical tradition, yet it was his unique ability to explain the subtle meanings of Prophetic traditions that distinguished him from his contemporaries. He is often recognized as the seal of the great Hanbali scholars, bridge-building between legal formalism and the interior life of the heart.",
+        "Known for his asceticism and immense humility, Ibn Rajab was a student of the some of the greatest minds of the 8th century AH, including the renowned Ibn al-Qayyim al-Jawziyya. While many scholars specialized in a single field, Ibn Rajab moved fluidly between the rigorous demands of Hadith authentication and the delicate nuances of Tazkiyah (purification of the soul). His presence in Damascus during the Mamluk era marked a golden age for Hanbali scholarship, as he transformed the prestigious Madrasa al-Hanbaliyya and the Jami' al-Umawi into centers of transformative learning.",
+      ),
+      life: p(
+        "Ibn Rajab was born in Baghdad in 736 AH, a city that had once been the center of the Islamic world but was still recovering from the Mongol devastation. His family, particularly his grandfather, was steeped in the study of Hadith. Recognizing the young boy's brilliance, his father took him on a journey for knowledge that spanned the major intellectual hubs of the time. They traveled to Jerusalem, Egypt, and Mecca, where he listened to the greatest scholars of the age. Around 744 AH, the family settled permanently in Damascus, a city flourishing under Mamluk rule as a sanctuary for traditionalist Hanbali scholarship.",
+        "In Damascus, Ibn Rajab’s intellectual formation reached its zenith. He frequented the circles of Ibn al-Qayyim (RA) for approximately a year before the latter’s death in 751 AH, absorbing the rich legacy of Ibn Taymiyyah through his primary student. He also studied under Al-Mizzi and Al-Dhahabi, the masters of Hadith and biography. This diverse training allowed Ibn Rajab to develop a style that was exceptionally nuanced; he could navigate the complexities of 'Ilal (hidden defects in Hadith) while simultaneously articulating the psychological states of the 'Arifin (those who know Allah).",
+        "His career was primarily centered around teaching at the Madrasa al-Hanbaliyya, the primary seat of the madhhab in Damascus. In 774 AH, he began his tenure there, where he was known for his quiet dignity and profound lectures. Historical accounts from al-Dhahabi’s students and others describe him as a man who avoided the company of the ruling elite, preferring the company of his books and the poor. He was often seen in the Umayyad Mosque, either in deep prayer or surrounded by students who had traveled from as far as Cairo and Baghdad to hear his insights on the Prophetic Sunnah.",
+        "The crowning achievement of his scholarly life was the composition of several masterpieces. His commentary on 'Sahih al-Bukhari', titled 'Fath al-Bari', was a monumental project that he sadly did not complete (only reaching the Chapter on Funerals), yet the portions he did finish are considered by scholars to be even more analytical than the later work of the same name by Ibn Hajar al-Asqalani. His 'Lata'if al-Ma'arif' established a seasonal framework for worship, encouraging Muslims to find spiritual meaning in the changing months of the Islamic calendar. Throughout his life, he remained steadfast in the face of political shifts, focusing purely on the preservation of the sacred tradition until his death in Rajab 795 AH.",
+      ),
+      legacy: p(
+        "Ibn Rajab’s legacy is defined by his unique methodology of 'Fard al-Nuzul'—the extraction of profound spiritual and legal gems from the simplest of Prophetic statements. His work 'Jami' al-Ulum wal-Hikam' remains a foundational text for students of knowledge globally, as it does not merely explain the grammar or chains of narration of the Prophetic traditions, but illustrates how a single statement of the Prophet ﷺ can encompass the entirety of Islamic ethics and creed. He moved the Hanbali school away from any lingering perceived communal isolation toward a broader, more integrative spiritual framework.",
+        "Furthermore, his biographical work 'al-Dhayl 'ala Tabaqat al-Hanabila' preserved the lives and virtues of centuries of scholars, ensuring that the chain of intellectual transmission remained unbroken for future generations. His smaller treatises on 'Khushu' (humility in prayer) and the 'Difference between Advising and Shaming' continue to serve as essential manuals for character development in the Muslim world today. He is remembered not as a polemicist, but as a sage who sought to revive the warmth and sincerity of the early generations (al-Salaf al-Salih).",
+      ),
+      keyFacts: [
+        "Born in 736 AH (1335 CE) in Baghdad, Iraq, before moving to Damascus at a young age.",
+        "Studied under the illustrious Ibn al-Qayyim al-Jawziyya, absorbing his teacher's expertise in Hanbali fiqh and spirituality.",
+        "Appointed as a teacher at the Madrasa al-Hanbaliyya in Damascus in 774 AH (1372 CE).",
+        "Authored 'Jami' al-Ulum wal-Hikam', widely considered the definitive commentary on the Forty Hadith of Imam al-Nawawi.",
+        "Passed away in 795 AH (1393 CE) in Damascus and was buried in the Bab al-Saghir cemetery.",
+      ],
+      lessons: [
+        "True knowledge is measured by the fear of Allah it produces, not by the amount of information memorized.",
+        "The path to Allah requires a balance between rigorous adherence to the Sunnah and a heart full of sincerity.",
+        "One must distinguish between sincere brotherly advice and public shaming, as the former builds and the latter destroys.",
+        "The study of Hadith is the most effective way to purify the soul and draw closer to the Prophet ﷺ.",
+        "Worldly detachment (Zuhd) is not about lacking wealth, but about wealth not inhabiting the heart.",
+      ],
+    },
+  },
 ];
