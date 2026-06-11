@@ -60,6 +60,50 @@ export function getCurrentLocation(): Promise<{ lat: number; lng: number }> {
 // Default fallback: Makkah
 export const DEFAULT_LOCATION = { lat: 21.4225, lng: 39.8262, label: "Makkah" };
 
+export interface SavedLocation {
+  lat: number;
+  lng: number;
+  label: string;
+}
+
+const LOCATION_KEY = "miqdar-location";
+
+export function getSavedLocation(): SavedLocation | null {
+  try {
+    const raw = localStorage.getItem(LOCATION_KEY);
+    return raw ? (JSON.parse(raw) as SavedLocation) : null;
+  } catch {
+    return null;
+  }
+}
+
+export function saveLocation(loc: SavedLocation): void {
+  localStorage.setItem(LOCATION_KEY, JSON.stringify(loc));
+}
+
+export function clearSavedLocation(): void {
+  localStorage.removeItem(LOCATION_KEY);
+}
+
+export interface GeoResult {
+  name: string;
+  country?: string;
+  admin1?: string;
+  latitude: number;
+  longitude: number;
+}
+
+export async function searchCities(query: string): Promise<GeoResult[]> {
+  if (!query.trim()) return [];
+  const url = `https://geocoding-api.open-meteo.com/v1/search?name=${encodeURIComponent(
+    query
+  )}&count=8&language=en&format=json`;
+  const res = await fetch(url);
+  if (!res.ok) return [];
+  const json = await res.json();
+  return (json.results || []) as GeoResult[];
+}
+
 export function formatTime12(hhmm: string): string {
   if (!hhmm || !hhmm.includes(":")) return hhmm;
   const [h, m] = hhmm.split(":").map(Number);
