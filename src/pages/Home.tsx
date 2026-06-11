@@ -1,21 +1,35 @@
 import { useEffect, useState } from "react";
-import { MapPin, Loader2, Check } from "lucide-react";
+import { MapPin, Loader2, Check, Search, X, LocateFixed } from "lucide-react";
 import {
   fetchPrayerTimes,
   getCurrentLocation,
   formatTime12,
   DEFAULT_LOCATION,
+  getSavedLocation,
+  saveLocation,
+  searchCities,
   type PrayerTime,
+  type SavedLocation,
+  type GeoResult,
 } from "@/lib/prayerTimes";
 import { getHijriDate, getGregorianDate } from "@/lib/hijri";
 import { cn } from "@/lib/utils";
+import {
+  Dialog,
+  DialogContent,
+  DialogHeader,
+  DialogTitle,
+  DialogTrigger,
+} from "@/components/ui/dialog";
+import { Input } from "@/components/ui/input";
+import { Button } from "@/components/ui/button";
 
 const STORAGE_KEY = `miqdar-prayers-${new Date().toISOString().slice(0, 10)}`;
 
 const Home = () => {
   const [times, setTimes] = useState<PrayerTime[] | null>(null);
   const [loading, setLoading] = useState(true);
-  const [location, setLocation] = useState<string>("Locating…");
+  const [location, setLocation] = useState<SavedLocation | null>(null);
   const [completed, setCompleted] = useState<Record<string, boolean>>(() => {
     try {
       return JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}");
@@ -24,34 +38,101 @@ const Home = () => {
     }
   });
 
+  // Picker state
+  const [pickerOpen, setPickerOpen] = useState(false);
+  const [query, setQuery] = useState("");
+  const [results, setResults] = useState<GeoResult[]>([]);
+  const [searching, setSearching] = useState(false);
+  const [usingGps, setUsingGps] = useState(false);
+
+  const loadFor = async (loc: SavedLocation) => {
+    setLoading(true);
+    try {
+      const data = await fetchPrayerTimes(loc.lat, loc.lng);
+      setTimes(data.times);
+    } catch {
+      /* ignore */
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  // Initial load
   useEffect(() => {
+    const saved = getSavedLocation();
+    if (saved) {
+      setLocation(saved);
+      loadFor(saved);
+      return;
+    }
     let cancelled = false;
     (async () => {
       setLoading(true);
       try {
         const coords = await getCurrentLocation();
         if (cancelled) return;
-        setLocation("Your location");
-        const data = await fetchPrayerTimes(coords.lat, coords.lng);
-        if (!cancelled) setTimes(data.times);
+        const loc: SavedLocation = { ...coords, label: "Your location" };
+        setLocation(loc);
+        await loadFor(loc);
       } catch {
-        try {
-          const data = await fetchPrayerTimes(DEFAULT_LOCATION.lat, DEFAULT_LOCATION.lng);
-          if (!cancelled) {
-            setTimes(data.times);
-            setLocation(DEFAULT_LOCATION.label);
-          }
-        } catch {
-          /* ignore */
+        const loc: SavedLocation = {
+          lat: DEFAULT_LOCATION.lat,
+          lng: DEFAULT_LOCATION.lng,
+          label: DEFAULT_LOCATION.label,
+        };
+        if (!cancelled) {
+          setLocation(loc);
+          await loadFor(loc);
         }
-      } finally {
-        if (!cancelled) setLoading(false);
       }
     })();
     return () => {
       cancelled = true;
     };
   }, []);
+
+  // Debounced search
+  useEffect(() => {
+    if (!pickerOpen) return;
+    if (!query.trim()) {
+      setResults([]);
+      return;
+    }
+    setSearching(true);
+    const t = setTimeout(async () => {
+      const r = await searchCities(query);
+      setResults(r);
+      setSearching(false);
+    }, 300);
+    return () => clearTimeout(t);
+  }, [query, pickerOpen]);
+
+  const pickCity = (r: GeoResult) => {
+    const label = [r.name, r.admin1, r.country].filter(Boolean).join(", ");
+    const loc: SavedLocation = { lat: r.latitude, lng: r.longitude, label };
+    saveLocation(loc);
+    setLocation(loc);
+    setPickerOpen(false);
+    setQuery("");
+    setResults([]);
+    loadFor(loc);
+  };
+
+  const useGps = async () => {
+    setUsingGps(true);
+    try {
+      const coords = await getCurrentLocation();
+      const loc: SavedLocation = { ...coords, label: "Your location" };
+      saveLocation(loc);
+      setLocation(loc);
+      setPickerOpen(false);
+      await loadFor(loc);
+    } catch {
+      /* ignore */
+    } finally {
+      setUsingGps(false);
+    }
+  };
 
   const toggle = (name: string) => {
     setCompleted((prev) => {
@@ -96,10 +177,87 @@ const Home = () => {
       <section className="px-5 pt-6">
         <div className="mb-3 flex items-center justify-between">
           <h2 className="font-display text-xl font-semibold">Today's Prayers</h2>
-          <div className="flex items-center gap-1.5 text-xs text-muted-foreground">
-            <MapPin className="h-3 w-3" />
-            <span>{location}</span>
-          </div>
+          <Dialog open={pickerOpen} onOpenChange={setPickerOpen}>
+            <DialogTrigger asChild>
+              <button className="flex items-center gap-1.5 rounded-full border border-border bg-card px-2.5 py-1 text-xs text-muted-foreground transition-colors hover:border-primary/40 hover:text-primary">
+                <MapPin className="h-3 w-3" />
+                <span className="max-w-[140px] truncate">
+                  {location?.label || "Set location"}
+                </span>
+              </button>
+            </DialogTrigger>
+            <DialogContent className="max-w-sm">
+              <DialogHeader>
+                <DialogTitle>Choose your location</DialogTitle>
+              </DialogHeader>
+
+              <Button
+                variant="outline"
+                className="w-full justify-start"
+                onClick={useGps}
+                disabled={usingGps}
+              >
+                {usingGps ? (
+                  <Loader2 className="h-4 w-4 animate-spin" />
+                ) : (
+                  <LocateFixed className="h-4 w-4" />
+                )}
+                Use current location
+              </Button>
+
+              <div className="relative">
+                <Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
+                <Input
+                  autoFocus
+                  value={query}
+                  onChange={(e) => setQuery(e.target.value)}
+                  placeholder="Search city..."
+                  className="pl-9 pr-9"
+                />
+                {query && (
+                  <button
+                    onClick={() => setQuery("")}
+                    className="absolute right-3 top-1/2 -translate-y-1/2 text-muted-foreground hover:text-foreground"
+                    aria-label="Clear"
+                  >
+                    <X className="h-4 w-4" />
+                  </button>
+                )}
+              </div>
+
+              <div className="max-h-72 overflow-y-auto">
+                {searching ? (
+                  <div className="flex justify-center py-6">
+                    <Loader2 className="h-5 w-5 animate-spin text-primary" />
+                  </div>
+                ) : results.length > 0 ? (
+                  <ul className="space-y-1">
+                    {results.map((r, i) => (
+                      <li key={`${r.latitude}-${r.longitude}-${i}`}>
+                        <button
+                          onClick={() => pickCity(r)}
+                          className="flex w-full flex-col items-start rounded-lg border border-border bg-card px-3 py-2 text-left text-sm transition-colors hover:border-primary/40 hover:bg-accent"
+                        >
+                          <span className="font-medium">{r.name}</span>
+                          <span className="text-xs text-muted-foreground">
+                            {[r.admin1, r.country].filter(Boolean).join(", ")}
+                          </span>
+                        </button>
+                      </li>
+                    ))}
+                  </ul>
+                ) : query.trim() ? (
+                  <p className="py-6 text-center text-sm text-muted-foreground">
+                    No matches
+                  </p>
+                ) : (
+                  <p className="py-6 text-center text-xs text-muted-foreground">
+                    Try a city name, e.g. "London" or "Cairo"
+                  </p>
+                )}
+              </div>
+            </DialogContent>
+          </Dialog>
         </div>
 
         {/* Progress */}
