@@ -8,6 +8,10 @@ import {
   getSavedLocation,
   saveLocation,
   searchCities,
+  getSettings,
+  saveSettings,
+  CALC_METHODS,
+  type PrayerSettings,
   type PrayerTime,
   type SavedLocation,
   type GeoResult,
@@ -30,6 +34,7 @@ const Home = () => {
   const [times, setTimes] = useState<PrayerTime[] | null>(null);
   const [loading, setLoading] = useState(true);
   const [location, setLocation] = useState<SavedLocation | null>(null);
+  const [settings, setSettings] = useState<PrayerSettings>(() => getSettings());
   const [completed, setCompleted] = useState<Record<string, boolean>>(() => {
     try {
       return JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}");
@@ -45,10 +50,10 @@ const Home = () => {
   const [searching, setSearching] = useState(false);
   const [usingGps, setUsingGps] = useState(false);
 
-  const loadFor = async (loc: SavedLocation) => {
+  const loadFor = async (loc: SavedLocation, s: PrayerSettings = settings) => {
     setLoading(true);
     try {
-      const data = await fetchPrayerTimes(loc.lat, loc.lng);
+      const data = await fetchPrayerTimes(loc.lat, loc.lng, s);
       setTimes(data.times);
     } catch {
       /* ignore */
@@ -56,6 +61,14 @@ const Home = () => {
       setLoading(false);
     }
   };
+
+  const updateSettings = (patch: Partial<PrayerSettings>) => {
+    const next = { ...settings, ...patch };
+    setSettings(next);
+    saveSettings(next);
+    if (location) loadFor(location, next);
+  };
+
 
   // Initial load
   useEffect(() => {
@@ -256,6 +269,77 @@ const Home = () => {
                   </p>
                 )}
               </div>
+
+              {/* Accuracy settings */}
+              <div className="space-y-3 border-t border-border pt-4">
+                <p className="text-[10px] font-medium uppercase tracking-wider text-muted-foreground">
+                  Calculation accuracy
+                </p>
+
+                <label className="block space-y-1.5">
+                  <span className="text-xs text-muted-foreground">Method</span>
+                  <select
+                    value={settings.method}
+                    onChange={(e) => updateSettings({ method: Number(e.target.value) })}
+                    className="w-full rounded-lg border border-border bg-card px-3 py-2 text-sm text-foreground outline-none focus:border-primary/50"
+                  >
+                    {CALC_METHODS.map((m) => (
+                      <option key={m.id} value={m.id}>
+                        {m.label}
+                      </option>
+                    ))}
+                  </select>
+                </label>
+
+                <div className="space-y-1.5">
+                  <span className="text-xs text-muted-foreground">Asr calculation</span>
+                  <div className="grid grid-cols-2 gap-2">
+                    {[
+                      { v: 0 as const, label: "Standard" },
+                      { v: 1 as const, label: "Hanafi" },
+                    ].map((o) => (
+                      <button
+                        key={o.v}
+                        onClick={() => updateSettings({ school: o.v })}
+                        className={cn(
+                          "rounded-lg border px-3 py-2 text-sm transition-colors",
+                          settings.school === o.v
+                            ? "border-primary bg-primary/10 text-primary"
+                            : "border-border bg-card text-muted-foreground hover:border-primary/40"
+                        )}
+                      >
+                        {o.label}
+                      </button>
+                    ))}
+                  </div>
+                </div>
+
+                <div className="space-y-1.5">
+                  <span className="text-xs text-muted-foreground">
+                    Minute adjustments (match your masjid)
+                  </span>
+                  <div className="grid grid-cols-5 gap-1.5">
+                    {(["fajr", "dhuhr", "asr", "maghrib", "isha"] as const).map((k) => (
+                      <label key={k} className="space-y-1">
+                        <span className="block text-center text-[10px] capitalize text-muted-foreground">
+                          {k}
+                        </span>
+                        <input
+                          type="number"
+                          value={settings.tune[k]}
+                          onChange={(e) =>
+                            updateSettings({
+                              tune: { ...settings.tune, [k]: Number(e.target.value) || 0 },
+                            })
+                          }
+                          className="w-full rounded-lg border border-border bg-card px-1 py-1.5 text-center text-sm tabular-nums outline-none focus:border-primary/50"
+                        />
+                      </label>
+                    ))}
+                  </div>
+                </div>
+              </div>
+
             </DialogContent>
           </Dialog>
         </div>
