@@ -8,6 +8,10 @@ import {
   getSavedLocation,
   saveLocation,
   searchCities,
+  getSettings,
+  saveSettings,
+  CALC_METHODS,
+  type PrayerSettings,
   type PrayerTime,
   type SavedLocation,
   type GeoResult,
@@ -30,6 +34,7 @@ const Home = () => {
   const [times, setTimes] = useState<PrayerTime[] | null>(null);
   const [loading, setLoading] = useState(true);
   const [location, setLocation] = useState<SavedLocation | null>(null);
+  const [settings, setSettings] = useState<PrayerSettings>(() => getSettings());
   const [completed, setCompleted] = useState<Record<string, boolean>>(() => {
     try {
       return JSON.parse(localStorage.getItem(STORAGE_KEY) || "{}");
@@ -45,10 +50,10 @@ const Home = () => {
   const [searching, setSearching] = useState(false);
   const [usingGps, setUsingGps] = useState(false);
 
-  const loadFor = async (loc: SavedLocation) => {
+  const loadFor = async (loc: SavedLocation, s: PrayerSettings = settings) => {
     setLoading(true);
     try {
-      const data = await fetchPrayerTimes(loc.lat, loc.lng);
+      const data = await fetchPrayerTimes(loc.lat, loc.lng, s);
       setTimes(data.times);
     } catch {
       /* ignore */
@@ -56,6 +61,14 @@ const Home = () => {
       setLoading(false);
     }
   };
+
+  const updateSettings = (patch: Partial<PrayerSettings>) => {
+    const next = { ...settings, ...patch };
+    setSettings(next);
+    saveSettings(next);
+    if (location) loadFor(location, next);
+  };
+
 
   // Initial load
   useEffect(() => {
